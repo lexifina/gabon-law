@@ -54,3 +54,4 @@ Source : https://www.journal-officiel.ga/10217-journal-officiel-n19-et-20/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1112/PR d du 18/10/1988 portant nomination des Secrétaires d'Etat.](../../../decrets/1988/10/1112-pr-d-du-18-10-1988-portant-nomination-des/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1113/PR du 18/10/1988 portant nomination des Hauts Commissaires.](../../../decrets/1988/10/1113-pr-portant-nomination-des-hauts-commissaires/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1114/PR du 18/10/1988 portant nomination des Délégués ministériels.](../../../decrets/1988/10/1114-pr-portant-nomination-des-delegues-ministeriels/index.md)
+- MINISTERE DE LA PLANIFICATION ET DE L'ECONOMIE — [Arrêté N° 11 /MPE/DGCSP/CC du 06/10/1988 portant clôture de la campagne cacaoyère 1987/ 1988 et ouverture de la nouvelle campagne 1988/ 1989.](../../../arretes/1988/10/11-mpe-dgcsp-cc-du-06-10-1988-portant-cloture-de-la/index.md)
