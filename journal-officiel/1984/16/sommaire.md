@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/11312-journal-officiel-n16/
 - Assemblée Nationale — [Loi N° 3/84 du 12/07/1984 portant statut des syndics judiciaires](../../../lois/1984/3-84-portant-statut-des-syndics-judiciaires/index.md)
 - Assemblée Nationale — [Loi N° 4/84 du 12/07/1984 portant annulation des titres fonciers de propriétés forestières et agricoles](../../../lois/1984/4-84-portant-annulation-des-titres-fonciers-de/index.md)
 - Assemblée Nationale — [Loi N° 5/84 du 12/07/1984 portant répression des lettres et actes anonymes](../../../lois/1984/5-84-portant-repression-des-lettres-et-actes-anonymes/index.md)
+- Assemblée Nationale — [Loi N° 6/84 du 12/07/1984 portant organisation et fonctionnement du Conseil Economique et Social](../../../lois/1984/6-84-portant-organisation-et-fonctionnement-du-conseil/index.md)
