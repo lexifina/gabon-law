@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/16486-journal-officiel-n24/
 - ASSEMBLEE NATIONALE — [Loi N° 25/66 du 30/11/1966 modifiant la loi n°31/62 du 10 décembre 1962 relative à la Justice Militaire](../../../lois/1966/25-66-modifiant-la-loi-n-31-62-du-10-decembre-1962/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 26/66 du 30/11/1966 portant création de la Société Gabonaise de Production Cinématographique](../../../lois/1966/26-66-portant-creation-de-la-societe-gabonaise-de/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 18/66 du 28/11/1966 portant ratification de la Convention fiscale entre le Gouvernement de la République Française et le Gouvernement de la République Gabonaise](../../../lois/1966/18-66-portant-ratification-de-la-convention-fiscale/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 19/66 du 28/11/1966 portant ratification de la charte de l'Organisation Commune Africaine et Malgache](../../../lois/1966/19-66-portant-ratification-de-la-charte-de-l/index.md)
