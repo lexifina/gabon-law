@@ -17,3 +17,4 @@ Source : https://www.journal-officiel.ga/16967-journal-officiel-n6/
 - ASSEMBLEE NATIONALE — [Loi N° 1/67 du 17/02/1967 portant révision de certains articles de la Constitution](../../../lois/1967/1-67-portant-revision-de-certains-articles-de-la/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 2/67 du 17/02/1967 relative à l'élection du Président de la République et du Vice Président de la République](../../../lois/1967/2-67-relative-a-l-election-du-president-de-la/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 3/67 du 17/02/1967 relative à l'élection des députés à l'Assemblée Nationale](../../../lois/1967/3-67-relative-a-l-election-des-deputes-a-l-assemblee/index.md)
+- MINISTERE DES AFFAIRES ETRANGERES — [Décret N° 00090 /PR-MAE-MF du 16/02/1967 portant création de sections consulaires au sein des missions diplomatiques gabonaises à l'étranger](../../../decrets/1967/03/00090-pr-mae-mf-du-16-02-1967-portant-creation-de/index.md)
