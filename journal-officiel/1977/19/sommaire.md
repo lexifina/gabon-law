@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/12717-journal-officiel-n19-et-21bis/
 - MINISTERE DE LA DEFENSE NATIONALE — [Décret N° 749/PR/MDN du 19/08/1977 portant création d'un poste de Directeur de cabinet à la Gendarmerie nationale](../../../decrets/1977/08/749-pr-mdn-portant-creation-d-un-poste-de-directeur-de/index.md)
 - MINISTERE DE LA DEFENSE NATIONALE — [Décret N° 750/PR/MDN du 19/08/1977 portant création d'une direction générale des recherches à la Gendarmerie nationale](../../../decrets/1977/08/750-pr-mdn-portant-creation-d-une-direction-generale-des/index.md)
 - MINISTERE DE LA DEFENSE NATIONALE — [Ordonnance N° 35/77/PR du 13/08/1977 portant assimilation à des fonctions ministérielles](../../../ordonnances/1977/35-77-pr-portant-assimilation-a-des-fonctions/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 742/PR du 10/08/1977 portant abrogation](../../../decrets/1977/08/742-pr-portant-abrogation/index.md)
