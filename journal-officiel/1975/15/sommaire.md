@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/14490-journal-officiel-n15-16-17eme/
 
 - Assemblée Nationale — [Loi N° 13/75 du 04/06/1975 modifiant certaines dispositions de la loi 8/68 du 4 juin 1968, instituant un nouveau régime de pension des députés à l'Assemblée nationale.](../../../lois/1975/13-75-modifiant-certaines-dispositions-de-la-loi-8-68/index.md)
+- MINISTÈRE DE LA SANTÉ PUBLIQUE ET DE LA POPULATION — [Arrêté N° 121/MSPP-ENSAS du 04/06/1975 ouvrant le concours d'entrée dans les différentes sections médicales et sociales de l'E.N.S.A.S.](../../../arretes/1975/06/121-mspp-ensas-ouvrant-le-concours-d-entree-dans-les-differentes/index.md)
