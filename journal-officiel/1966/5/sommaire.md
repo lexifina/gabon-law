@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/15041-journal-officiel-n5/
 - PRESIDENCE DE LA REPUBLIQUE — Rectificatif N° 132/PR du 07/01/1966 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale (non repris)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 42/PR du 26/01/1965 portant changement de nom](../../../decrets/1965/01/42-pr-portant-changement-de-nom/index.md)
 - MINISTERE DU TRAVAIL DES AFFAIRES SOCIALES — [Décret N° 50/MT-PR du 27/01/1966 modifiant l'article 36 du décret n" 6/PR du 7 janvier 1963, relatif au Conseil d'Administration de la Caisse Gabonaise de Prévoyance Sociale](../../../decrets/1966/01/50-mt-pr-modifiant-l-article-36-du-decret-n-6-pr-du-7/index.md)
+- MINISTERE DES TRAVAUX PUBLICS DES POSTES ET TELECOMMUNICATIONS — [Arrêté N° 13/MTP-TPT-PR du 06/01/1966 portant concession de l'exploitation de l'aérodrome de Mayonami](../../../arretes/1966/01/13-mtp-tpt-pr-portant-concession-de-l-exploitation-de-l/index.md)
