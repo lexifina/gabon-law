@@ -1,0 +1,172 @@
+# Ordonnance N° 7/PR du 01/10/1993 relative à la communication audiovisuelle, cinématographique et écrite.
+
+- Nature: Ordonnance
+- Numéro: 7/PR
+- Date du texte: 1993-10-01
+- Autorité: MINISTERE CHARGE DES RELATIONS AVEC LES ASSEMBLEES, DE LA COMMUNICATION, DES POSTES ET TELECOMMUNICATIONS, PORTE-PAROLE DU GOUVERNEMENT
+- Publication: Journal officiel n°29 du 1993-10-01
+- Source: https://www.journal-officiel.ga/9939-7-pr-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- TITRE PREMIER Des modalités de création, d'installation et d'exploitation des entreprises de communication audiovisuelle et cinématographique
+- CHAPITRE I DEFINITION
+  - [Article 4](art-004.md)
+- CHAPITRE II DES MODALITES DE CREATION ET D'INSTALLATION
+- Section 1 Des incompatibilités et interdictions
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+- Section 2 De la procédure
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- Section 3 Des normes techniques
+  - [Article 11](art-011.md)
+- Section 4 Du cadre d 'exploitation
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+- CHAPITRE III DES CONDITIONS D'EXPLOITATION
+- Section 1 Des secteurs d'activité
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+- Section 2 Des modalités de nomination des présidents et directeurs généraux des entreprises publiques de communication audiovisuelle et cinématographique
+  - [Article 20](art-020.md)
+- Section III Des quotas de production
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+- Section 5 Des émissions
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+- CHAPITRE IV DES SANCTIONS RELATIVES AU SECTEUR DE LA COMMUNICATION AUDIOVISUELLE
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+- CHAPITRE V DES SANCTIONS RELATIVES A LA DIFFUSION CINEMATOGRAPHIQUE
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+- TITRE II DE LA COMMUNICATION ECRITE
+- CHAPITRE I DEFINITION
+  - [Article 35](art-035.md)
+- CHAPITRE II DES MODALITES DE CREATION ET DE FONCTIONNEMENT DES ORGANES DE PRESSE
+  - [Article 36](art-036.md)
+- Section 1 De la procédure
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+- CHAPITRE III DU DROIT DE REPONSE ET DES RECTIFICATIONS
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+- CHAPITRE IV DES ORGANES DE PRESSE ETRANGERS
+  - [Article 53](art-053.md)
+- CHAPITRE V DES SECTEURS D'ACTIVITE DE LA PRESSE
+- Section I De l'édition
+  - [Article 56](art-056.md)
+  - [Article 58](art-058.md)
+- Section 2 De la distribution
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+- CHAPITRE VI DES SANCTIONS RELATIVES À LA COMMUNICATION ECRTTE
+  - [Article 65](art-065.md)
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+  - [Article 82](art-082.md)
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
+  - [Article 85](art-085.md)
+  - [Article 86](art-086.md)
+- TITRE III DU JOURNALISTE PROFESSIONNEL CHAPITRE I DE LA QUALITE DE JOURNALISTE
+  - [Article 87](art-087.md)
+  - [Article 88](art-088.md)
+  - [Article 89](art-089.md)
+- CHAPITRE II DES DROITS ET OBLIGATIONS DES JOURNALISTES ET REPORTERS PROFESSIONNELS
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+  - [Article 92](art-092.md)
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+- TITRE IV DE LA PUBLICITE CHAPITRE I DEFINITION
+  - [Article 95](art-095.md)
+- CHAPITRE II DES REGLES GENERALES
+  - [Article 96](art-096.md)
+  - [Article 97](art-097.md)
+  - [Article 98](art-098.md)
+  - [Article 99](art-099.md)
+  - [Article 100](art-100.md)
+  - [Article 101](art-101.md)
+  - [Article 102](art-102.md)
+  - [Article 103](art-103.md)
+  - [Article 104](art-104.md)
+  - [Article 105](art-105.md)
+- CHAPITRE III DES DIFFERENTS SECTEURS D'ACTIVITE
+- Section 1 De l'agence conseil
+  - [Article 106](art-106.md)
+- Section 3 De l'agence de régie
+  - [Article 107](art-107.md)
+- Section 3 De l'affichage publicitaire
+  - [Article 108](art-108.md)
+- CHAPITRE IV DES PROFESSIONS PUBLICITAIRES
+- Section 1 Des conditions d'exercice de la profession de publicitaire
+  - [Article 109](art-109.md)
+  - [Article 110](art-110.md)
+  - [Article 111](art-111.md)
+  - [Article 112](art-112.md)
+  - [Article 113](art-113.md)
+- CHAPITRE V DE LA DIFFUSION DES MESSAGES PUBLICITAIRES
+  - [Article 114](art-114.md)
+  - [Article 115](art-115.md)
+  - [Article 116](art-116.md)
+  - [Article 117](art-117.md)
+  - [Article 118](art-118.md)
+- CHAPITRE VI DU PARRAINAGE
+  - [Article 119](art-119.md)
+- CHAPITRE VII DES SANCTIONS RELATIVES AU SECTEUR DE LA PUBLICITE
+  - [Article 120](art-120.md)
+  - [Article 121](art-121.md)
+  - [Article 123](art-123.md)
+  - [Article 124](art-124.md)
+  - [Article 125](art-125.md)
+  - [Article 126](art-126.md)
+- TITRE V DISPOSITIONS DIVERSES ET TRANSITOIRES
+  - [Article 127](art-127.md)
+  - [Article 128](art-128.md)
+  - [Article 129](art-129.md)
+- TITRE VI DISPOSITIONS FINALES
+  - [Article 130](art-130.md)
