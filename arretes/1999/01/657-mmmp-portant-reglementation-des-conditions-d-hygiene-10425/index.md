@@ -1,0 +1,75 @@
+# Arrêté N° 657/MMMP du 08/01/1999 portant réglementation des conditions d'hygiène applicables dans les établissements de manipulation des produits de la pêche
+
+- Nature: Arrêté
+- Numéro: 657/MMMP
+- Date du texte: 1999-01-08
+- Autorité: Ministère de la Marine marchande
+- Publication: Journal officiel n°1 du 1999-01-02
+- Source: https://www.journal-officiel.ga/10425-657-mmmp/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+- TITRE I
+- CHAPITRE I
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+- CHAPITRE II
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+- TITRE II
+- Section 1
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+- Section 2
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- Section 3
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+- Section 4
+- CHAPITRE I
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+- CHAPITRE II
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+- CHAPITRE III
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+- CHAPITRE IV
+  - [Article 31](art-031.md)
+- CHAPITRE V
+  - [Article 32](art-032.md)
+- Section 5
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+- TITRE III
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+- TITRE IV
+- CHAPITRE I
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+- CHAPITRE II
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+- CHAPITRE III
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
