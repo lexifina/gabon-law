@@ -18,3 +18,4 @@ Source : https://www.journal-officiel.ga/13481-journal-officiel-n4-et-5/
 - MINISTERE DE L’INTERIEUR — Récépissé N° 7/MI-DAG du 17/01/1976 DE DECLARATION D'UN CONSEIL D'ADMINISTRATION (non repris)
 - MINISTERE DE L’INTERIEUR — [Décret N° 91/PR-MI.DAG du 16/01/1976 fixant les attributions et pouvoirs des Gouverneurs, Préfets, Sous-Préfets, Chefs des communautés rurales et Chefs des villages](../../../decrets/1976/01/91-pr-mi-dag-fixant-les-attributions-et-pouvoirs-des/index.md)
 - Présidence de la République — [Ordonnance N° 4/76 du 14/01/1976 fixant le statut de la Société nationale immobilière](../../../ordonnances/1976/4-76-fixant-le-statut-de-la-societe-nationale/index.md)
+- Présidence de la République — [Ordonnance N° 3/76 du 13/01/1976 portant suspension provisoire de la taxe complémentaire sur les hydrocarbures](../../../ordonnances/1976/3-76-portant-suspension-provisoire-de-la-taxe/index.md)
