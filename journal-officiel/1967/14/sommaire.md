@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/17252-journal-officiel-n14/
 - ASSEMBLEE NATIONALE — [Loi N° 6/67 du 30/05/1967 abrogeant la loi n° 80/59 du 29 décembre 1959 relative au Contrôle Financier](../../../lois/1967/6-67-abrogeant-la-loi-n-80-59-du-29-decembre-1959/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 7/67 du 30/05/1967 instituant une Commission Consultative des marchés](../../../lois/1967/7-67-instituant-une-commission-consultative-des-marches/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 00629/PR du 27/05/1967 portant attribution, à titre exceptionnel, de la Reconnaissance Gabon](../../../arretes/1967/05/00629-pr-portant-attribution-a-titre-exceptionnel-de-la/index.md)
+- MINISTERE DES FINANCES — [Arrêté N° 0089/MF-DF-B du 27/05/1967 portant virement de crédits au Budget de de l'Etat, exercice 1967 ( Fonctionnement)](../../../arretes/1967/05/0089-mf-df-b-portant-virement-de-credits-au-budget-de-de-l/index.md)
