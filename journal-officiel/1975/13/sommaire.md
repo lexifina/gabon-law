@@ -22,3 +22,4 @@ Source : https://www.journal-officiel.ga/14682-journal-officiel-n13-14-/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 516/PR du 03/05/1975 portant création de postes de Conseillers spéciaux chargés de mission à la Présidence de la République.](../../../decrets/1975/05/516-pr-portant-creation-de-postes-de-conseillers/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 510/PR du 28/04/1975 portant substitution de titre.](../../../decrets/1975/04/510-pr-portant-substitution-de-titre/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 367/PR du 16/04/1975 fixant les compétences des quatre ministres conseillers à la Présidence de la République.](../../../arretes/1975/04/367-pr-fixant-les-competences-des-quatre-ministres/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 27/75 du 11/04/1975 organisant la participation des nationaux aux activités des sociétés de capitaux.](../../../ordonnances/1975/27-75-organisant-la-participation-des-nationaux-aux/index.md)
