@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/13299-journal-officiel-n10-6eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 75/PR du 24/02/1964 portant composition du Gouvernement](../../../decrets/1964/02/75-pr-portant-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 265/PR/CAB-MIL du 17/02/1964 partant promotion à titre exceptionnel](../../../arretes/1964/02/265-pr-cab-mil-partant-promotion-a-titre-exceptionnel/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 266/PR-CAB-MIL du 17/02/1964 portant attribution à titre exceptionnel du mérite Gabonais](../../../arretes/1964/02/266-pr-cab-mil-portant-attribution-a-titre-exceptionnel-du/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 51/PR/MFP-MI-AG du 15/02/1964 Portant classement et organisation des bureaux de préfectures sous-préfectures et P.C.A](../../../decrets/1964/02/51-pr-mfp-mi-ag-portant-classement-et-organisation-des-bureaux-de/index.md)
