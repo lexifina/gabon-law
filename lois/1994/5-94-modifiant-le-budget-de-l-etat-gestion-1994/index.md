@@ -1,0 +1,140 @@
+# Loi N° 5/94 du 24/07/1994 modifiant le budget de l'Etat gestion 1994.
+
+- Nature: Loi
+- Numéro: 5/94
+- Date du texte: 1994-07-24
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°7 du 1994-06-29
+- Source: https://www.journal-officiel.ga/8701-5-94-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- TITRE I :
+  - [Article premier](art-001.md)
+- TITRE Il:
+  - [Article 2](art-002.md)
+- LIVRE PREMIER:
+- TITRE DEUXIEME:
+- Chapitre V
+  - [Article 116 quinquies nouveau](art-116-quinquies.md)
+- LIVRE DEUXIEME:
+- TITRE PREMIER:
+- Chapitre I
+- Section 1
+- Section 2
+  - [Article 149 nouveau](art-149.md)
+- LIVRE TROISIEME
+- Chapitre II
+- Section 4
+- Chapitre III
+- Section 2 Taux
+  - [Article 369 nouveau](art-369.md)
+- LIVRE QUATRIEME :
+- TITRE DEUXIEME:
+- Chapitre IV
+- Section 4
+  - [Article 3](art-003.md)
+  - [Article premier](art-001-2.md)
+  - [Article 2](art-002-2.md)
+- Chapitre I
+- Section 1
+  - [Article 3](art-003-2.md)
+  - [Article 4](art-004.md)
+- Section 2 Les opérations taxables
+  - [Article 5](art-005.md)
+- Section 3
+  - [Article 6](art-006.md)
+- Section 4:
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+- Chapitre II
+- Section 1
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+- Section 2
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- Section 4 Déductions
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+- Chapitre III
+- Section 1
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+- Section 2
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+- Section 3
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+- Section 4
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- Chapitre IV
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+- Chapitre V
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 4](art-004-2.md)
+- Chapitre XIII
+  - [Article 337 nouveau](art-337.md)
+  - [Article 338 nouveau](art-338.md)
+  - [Article 339 nouveau](art-339.md)
+- TITRE III
+  - [Article 5](art-005-2.md)
+  - [Article 6](art-006-2.md)
+  - [Article 7](art-007-2.md)
+  - [Article 8](art-008-2.md)
+  - [Article 9](art-009-2.md)
+  - [Article 10](art-010-2.md)
+  - [Article 11](art-011-2.md)
+  - [Article 12](art-012-2.md)
+  - [Article 13](art-013-2.md)
+- TITRE IV
+  - [Article 14](art-014-2.md)
+  - [Article 8 nouveau](art-008-3.md)
+  - [Article 15](art-015-2.md)
+  - [Article 16](art-016-2.md)
+  - [Article 17](art-017-2.md)
+  - [Article 18](art-018-2.md)
+  - [Article 7 nouveau](art-007-3.md)
+  - [Article 19](art-019-2.md)
