@@ -14,3 +14,4 @@ Source : https://www.journal-officiel.ga/15344-journal-officiel-n6-numero-specia
 - Assemblée Nationale — [Loi N° 13/74 du 21/01/1975 portant sur l'élimination des déchets et la réduction des nuisances publiques.](../../../lois/1975/13-74-portant-sur-l-elimination-des-dechets-et-la/index.md)
 - Assemblée Nationale — [Loi N° 15/74 du 21/01/1975 portant modification des articles 11, 18 et 69 de la loi n°15/63 du 8 mai 1963, fixant le régime de la propriété foncière.](../../../lois/1975/15-74-portant-modification-des-articles-11-18-et-69-de/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 11/74 du 21/01/1975 portant statut de la magistrature.](../../../lois/1975/11-74-portant-statut-de-la-magistrature/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 16/74 du 21/01/1975 autorisant le Président de la République à légiférer par ordonnances pendant la période d’intersession](../../../lois/1975/16-74-autorisant-le-president-de-la-republique-a/index.md)
