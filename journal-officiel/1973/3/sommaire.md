@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/12828-journal-officiel-n-3-et-5-du-1er-
 - Ministère des Travaux Publics, de l'Habitat, de l'Urbanisme et du Cadastre — [Décret N° 49/MTPHUBC-SETPHUBC du 07/02/1973 fixant une zone d'aménagement et d'équipement de Port-Gentil.](../../../decrets/1973/02/49-mtphubc-setphubc-fixant-une-zone-d-amenagement-et-d-equipement-de/index.md)
 - Ministère de l'Intérieur — [Ordonnance N° 13/73 du 05/02/1973 instituant un cautionnement électoral.](../../../ordonnances/1973/13-73-instituant-un-cautionnement-electoral/index.md)
 - Ministère de l'Economie et des Finances — [Décision N° 34/MEF-DFB du 05/02/1973 instituant une caisse d'avance.](../../../autres/1973/decision-34-mef-dfb-instituant-une-caisse-d-avance/index.md)
+- Ministère de l'Economie et des Finances — [Décision N° 33/MEF du 29/01/1973 renouvelant la caisse de menues dépenses des douanes.](../../../autres/1973/decision-33-mef-renouvelant-la-caisse-de-menues-depenses-des/index.md)
