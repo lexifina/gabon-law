@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/13139-journal-officiel-n9/
 - MINISTERE DE L'INTERIEUR — [Décret N° 0135/PR-MI du 02/03/1968 portant réorganisation du Ministère de l'Intérieur.](../../../decrets/1968/03/0135-pr-mi-portant-reorganisation-du-ministere-de-l-interieur/index.md)
 - MINISTERE DE L'INTERIEUR — Additif N° 057/PR-MI-DSN du 28/02/1968 à l'arrêté n°00246/ PR portant attribution de la Médaille d'honneur de la Police. (non repris)
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 0246/PR-MI-DSN du 28/02/1968 portant attribution de la Médaille d'honneur de la Police.](../../../arretes/1968/02/0246-pr-mi-dsn-portant-attribution-de-la-medaille-d-honneur-de/index.md)
+- MINISTERE DE LA FONCTION PUBLIQUE ET DE LA COOPERATION TECHNIQUE ADMINISTRATIVE — [Décret N° 0129/PR-MFP-CTA du 29/02/1968 réglementant la promotion des fonctionnaires sur la liste d'aptitude.](../../../decrets/1968/02/0129-pr-mfp-cta-reglementant-la-promotion-des-fonctionnaires-sur/index.md)
