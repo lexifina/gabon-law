@@ -52,3 +52,4 @@ Source : https://www.journal-officiel.ga/10217-journal-officiel-n19-et-20/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1118/PR du 20/10/1988 modifiant le décret N° 1111 /PR du 18 octobre 1988 portant composition du Gouvernement.](../../../decrets/1988/10/1118-pr-modifiant-le-decret-n-1111-pr-du-18-octobre-1988/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1111/PR du 18/10/1988 Portant composition du Gouvernement.](../../../decrets/1988/10/1111-pr-portant-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1112/PR d du 18/10/1988 portant nomination des Secrétaires d'Etat.](../../../decrets/1988/10/1112-pr-d-du-18-10-1988-portant-nomination-des/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1113/PR du 18/10/1988 portant nomination des Hauts Commissaires.](../../../decrets/1988/10/1113-pr-portant-nomination-des-hauts-commissaires/index.md)
