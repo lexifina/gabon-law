@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/12194-journal-officiel-n3-et-4/
 - MINISTERE DE LA JUSTICE — [Ordonnance N° 1/77 du 02/02/1977 portant adoption du Code de procédure civile](../../../ordonnances/1977/1-77-portant-adoption-du-code-de-procedure-civile/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 95/PR du 09/02/1977 portant approbation de la convention particulière n°1 entre la S.N.B.G. et les Etablissements ROUGIER-Gabon.](../../../decrets/1977/02/95-pr-portant-approbation-de-la-convention-particuliere/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 59/PR du 02/02/1977 instituant une indemnité spéciale de sujétion](../../../decrets/1977/02/59-pr-instituant-une-indemnite-speciale-de-sujetion/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 54/PR du 31/01/1977 portant réglementation de la prospection publicitaire](../../../decrets/1977/01/54-pr-portant-reglementation-de-la-prospection/index.md)
