@@ -14,3 +14,4 @@ Source : https://www.journal-officiel.ga/14109-journal-officiel-n11-7eme/
 - Ministère des Travaux Publics — [Arrêté N° 388/PR-MTP du 31/03/1965 portant fermeture d'un Aérodrome ouvert à la Circulation Aérienne Publique](../../../arretes/1965/03/388-pr-mtp-portant-fermeture-d-un-aerodrome-ouvert-a-la/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 365/PR-MTP du 27/03/1965 portant concession de l'Exploitation d'un aérodrome.](../../../arretes/1965/03/365-pr-mtp-portant-concession-de-l-exploitation-d-un/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 366/MTP du 27/03/1965 portant concession de l'Exploitation d'un Aérodrome.](../../../arretes/1965/03/366-mtp-portant-concession-de-l-exploitation-d-un/index.md)
+- MINISTÈRE DE LA SANTÉ PUBLIQUE ET DE LA POPULATION — [Arrêté N° 387/PR-MSFP du 31/03/1965 autorisant la création d'une officine de pharmacie à Libreville.](../../../arretes/1965/03/387-pr-msfp-autorisant-la-creation-d-une-officine-de/index.md)
