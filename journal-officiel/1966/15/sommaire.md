@@ -12,3 +12,4 @@ Source : https://www.journal-officiel.ga/15973-journal-officiel-n15/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 227/PR du 04/08/1966 portant remise gracieuse de peine](../../../decrets/1966/08/227-pr-portant-remise-gracieuse-de-peine/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — Rectificatif N° 829/PR du 26/07/1966 à l'arrêté n° 778/PR du 11 juillet 1966, portant attribution à titre normal de la Reconnaissance Gabonaise (non repris)
 - MINISTERE DE LA DEFENSE NATIONALE — [Décret N° 237/PR du 11/08/1966 portant création d'une sonnerie aux Couleurs Gabonaises](../../../decrets/1966/08/237-pr-portant-creation-d-une-sonnerie-aux-couleurs/index.md)
+- MINISTERE DE L'ECONOMIE NATIONALE — [Arrêté N° 41/MENPM du 10/08/1966 portant modification de l'arrêté n° 12/MENPM-DMG du 11 février 1965 fixant le prix des matériaux de carrière servant de base à l'établissement de la redevance](../../../arretes/1966/08/41-menpm-portant-modification-de-l-arrete-n-12-menpm-dmg/index.md)
