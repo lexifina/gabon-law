@@ -1,0 +1,53 @@
+# Décret N° 1529/PR/MDNSI du 03/12/1993 réglementant la participation des Forces armées au maintien de l'ordre.
+
+- Nature: Décret
+- Numéro: 1529/PR/MDNSI
+- Date du texte: 1993-12-03
+- Autorité: MINISTERE DE LA DEFENSE NATIONALE, DE LA SECURITE ET DE L'IMMIGRATION
+- Publication: Journal officiel n°31 du 1993-12-01
+- Source: https://www.journal-officiel.ga/9984-1529-pr-mdnsi/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+- Chapitre I Des demandes de concours et des réquisitions
+- Section 1 Des demandes de concours
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- Section 2 Des réquisitions
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- Section 3 Des autorités pouvant demander ou requérir le concours des Forces armées
+  - [Article 14](art-014.md)
+- Section 4 Des autorités militaires destinataires des demandes de concours et des réquisitions
+  - [Article 15](art-015.md)
+- Chapitre II De l'emploi des Forces armées pour le maintien ou le rétablissement de l'ordre.
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- Chapitre III Des règles générales pour l'usage de la force et des armes
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+- Chapitre IV De la légitime défense
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
