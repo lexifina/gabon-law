@@ -22,3 +22,4 @@ Source : https://www.journal-officiel.ga/13993-journal-officiel-n15/
 - ASSEMBLEE NATIONALE — [Loi N° 4/68 du 04/06/1968 réglementant la nomination aux emplois supérieurs de l'État](../../../lois/1968/4-68-reglementant-la-nomination-aux-emplois-superieurs/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 5/68 du 04/06/1968 créant une taxe de Régie sur les Tabacs.](../../../lois/1968/5-68-creant-une-taxe-de-regie-sur-les-tabacs/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 7/68 du 04/06/1968 portant modification de la date d'application de la loi 26/67 du 14 Décembre 1967 portant statut des Agents Auxiliaires.](../../../lois/1968/7-68-portant-modification-de-la-date-d-application-de/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 8/68 du 04/06/1968 instituant un nouveau régime de pensions des Députés à l'Assemblée Nationale de la République Gabonaise.](../../../lois/1968/8-68-instituant-un-nouveau-regime-de-pensions-des/index.md)
