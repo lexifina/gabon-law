@@ -10,3 +10,5 @@ Source : https://www.journal-officiel.ga/15973-journal-officiel-n15/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 897/PR du 13/08/1966 portant attribution à titre exceptionnel, du Mérite Gabonais](../../../arretes/1966/08/897-pr-portant-attribution-a-titre-exceptionnel-du/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 895/PR du 12/08/1966 portant promotion à titre exceptionnel, dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1966/08/895-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 227/PR du 04/08/1966 portant remise gracieuse de peine](../../../decrets/1966/08/227-pr-portant-remise-gracieuse-de-peine/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — Rectificatif N° 829/PR du 26/07/1966 à l'arrêté n° 778/PR du 11 juillet 1966, portant attribution à titre normal de la Reconnaissance Gabonaise (non repris)
+- MINISTERE DE LA DEFENSE NATIONALE — [Décret N° 237/PR du 11/08/1966 portant création d'une sonnerie aux Couleurs Gabonaises](../../../decrets/1966/08/237-pr-portant-creation-d-une-sonnerie-aux-couleurs/index.md)
