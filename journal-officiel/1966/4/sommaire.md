@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/14992-journal-officiel-n4/
 - ACTES DE LA CONFERENCE DES CHEFS D'ÉTAT DE L'AFRIQUE EQUATORIALE — ACTES N° 17/65-U.D.E-353 du 15/12/1966 fixant le taux de la taxe unique pour les cartouches fabriquées par la Manufacture d'Armes et de cartouches Congolaises (non repris)
 - MINISTERE DE LA JUSTICE — [Arrêté N° 44/PR-MJ du 17/01/1966 portant nomination d'un Secrétaire d'Avocat-Défenseur](../../../arretes/1966/01/44-pr-mj-portant-nomination-d-un-secretaire-d-avocat/index.md)
 - MINISTERE DE LA JUSTICE — [Arrêté N° 44/PR/MJ du 17/01/1966 portant nomination d'un Secrétaire d'Avocat Défenseur](../../../arretes/1966/01/44-pr-mj-portant-nomination-d-un-secretaire-d-avocat-15020/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 26/65 du 27/12/1965 créant un versement forfaitaire à la charge des employeurs](../../../lois/1965/26-65-creant-un-versement-forfaitaire-a-la-charge-des/index.md)
