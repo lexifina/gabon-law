@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/16899-journal-officiel-n3/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 00114/PR du 31/01/1967 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1967/01/00114-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 43/PR du 25/01/1967 portant remaniement du Gouvernement](../../../decrets/1967/01/43-pr-portant-remaniement-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 4/67 du 24/01/1967 portant transferts de crédits au Budget de l'Etat exercice 1967 (Fonctionnement)](../../../ordonnances/1967/4-67-portant-transferts-de-credits-au-budget-de-l-etat/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 3/67 du 18/01/1967 fixant les taux de permis de chasse](../../../ordonnances/1967/3-67-fixant-les-taux-de-permis-de-chasse/index.md)
