@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/14093-journal-officiel-n13-14/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 649/PR du 02/06/1976 portant attribution d'une indemnité de sujétion.](../../../arretes/1976/06/649-pr-portant-attribution-d-une-indemnite-de-sujetion/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 650/PR du 02/06/1976 fixant la rémunération des Conseillers spéciaux chargés de mission à la Présidence de la République](../../../arretes/1976/06/650-pr-fixant-la-remuneration-des-conseillers-speciaux/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 493/PR du 26/05/1976 fixant la rémunération d'un haut fonctionnaire](../../../arretes/1976/05/493-pr-fixant-la-remuneration-d-un-haut-fonctionnaire/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 494/PR du 26/05/1976 fixant la rémunération du personnel cadre de la Présidence de la République.](../../../decrets/1976/05/494-pr-fixant-la-remuneration-du-personnel-cadre-de-la/index.md)
