@@ -4,3 +4,4 @@ Source : https://www.journal-officiel.ga/10015-journal-officiel-n-6-/
 
 - MINISTERE DES AFFAIRES ETRANGERES ET DE LA COOPERATION — [Décret N° 749/PR/MAEC du 23/06/1989 portant ratification de l'accord créant l'Association des producteurs de pétrole africains (APPA) signé à Lagos, le 27 janvier 1987](../../../decrets/1989/06/749-pr-maec-portant-ratification-de-l-accord-creant-l/index.md)
 - MINISTERE DE LA JUSTICE GARDE DES SCEAUX — [Arrêté N° 33/MJ/SG/DP/BP du 15/06/1989 portant ouverture d'un examen d'aptitude aux fonctions de premier clerc](../../../arretes/1989/06/33-mj-sg-dp-bp-portant-ouverture-d-un-examen-d-aptitude-aux/index.md)
+- MINISTERE DE LA JUSTICE GARDE DES SCEAUX — [Arrêté N° 34/MJ/SG/DP/BP du 15/06/1989 portant ouverture d'un examen d'aptitude aux fonctions d'huissier de Justice](../../../arretes/1989/06/34-mj-sg-dp-bp-portant-ouverture-d-un-examen-d-aptitude-aux/index.md)
