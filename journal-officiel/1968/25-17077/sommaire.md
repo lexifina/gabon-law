@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/17077-jo-decembre-1968-n25/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 801/PR du 09/11/1968 portant nomination d'un Juge à la Cour de Sûreté de l'État.](../../../decrets/1968/11/801-pr-portant-nomination-d-un-juge-a-la-cour-de-surete/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 798/PR-MF du 05/11/1968 portant attribution d'une indemnité de représentation](../../../decrets/1968/11/798-pr-mf-portant-attribution-d-une-indemnite-de/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 796/PR-MF du 04/11/1968 portant attribution de bonification indiciaire.](../../../decrets/1968/11/796-pr-mf-portant-attribution-de-bonification-indiciaire/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 784 du 29/10/1968 modifiant la composition du Gouvernement.](../../../decrets/1968/10/784-modifiant-la-composition-du-gouvernement/index.md)
