@@ -1,0 +1,17 @@
+# Décret N° 883/PR/MHUC du 12/08/2003 portant déclaration d'utilité publique l'occupation d'une zone au lieu dit ANGONDJE VILLAGE à Libreville.
+
+- Nature: Décret
+- Numéro: 883/PR/MHUC
+- Date du texte: 2003-08-12
+- Autorité: MINISTERE DU CADASTRE ET DE L’HABITAT
+- Publication: Journal officiel n°8 du 2003-08-01
+- Source: https://www.journal-officiel.ga/4637-883-pr-mhuc-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
