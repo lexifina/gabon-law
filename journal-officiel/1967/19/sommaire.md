@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/17319-journal-officiel-n19/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 00912/PR/EMFA du 02/08/1967 portant modification de la prime globale d'alimentation](../../../arretes/1967/08/00912-pr-emfa-portant-modification-de-la-prime-globale-d/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 36/67 du 01/08/1967 création d'un fonds Gabonais d'investissement](../../../ordonnances/1967/36-67-creation-d-un-fonds-gabonais-d-investissement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 35/67 du 22/07/1967 portant transferts de crédits au Budget de l'Etat Exercice 1967 (Fonctionnement )](../../../ordonnances/1967/35-67-portant-transferts-de-credits-au-budget-de-l-etat/index.md)
+- MINISTERE DES FINANCES — [Arrêté N° 0033/MF-F-B du 09/08/1967 portant virement de crédits au Budget de l'Etat ( Fonctionnement) Exercice 1967](../../../arretes/1967/08/0033-mf-f-b-portant-virement-de-credits-au-budget-de-l-etat/index.md)
