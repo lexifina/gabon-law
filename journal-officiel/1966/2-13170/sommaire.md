@@ -12,3 +12,4 @@ Source : https://www.journal-officiel.ga/13170-journal-officiel-n2/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 369/PR du 17/12/1965 portant convocation de l'Assemblée Nationale en session extraordinaire](../../../decrets/1965/12/369-pr-portant-convocation-de-l-assemblee-nationale-en/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 370/PR du 17/12/1965 portant clôture de la seconde session ordinaire de l'Assemblée Nationale](../../../decrets/1965/12/370-pr-portant-cloture-de-la-seconde-session-ordinaire/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 363/PR du 23/11/1965 portant convocation du Conseil Economique et Social](../../../decrets/1965/11/363-pr-portant-convocation-du-conseil-economique-et/index.md)
+- Ministère des Travaux Publics — [Arrêté N° 352/MTP-PT-PR du 10/12/1965 portant ouverture d'un aérodrome ouvert à la circulation Aérienne Publique](../../../arretes/1965/12/352-mtp-pt-pr-portant-ouverture-d-un-aerodrome-ouvert-a-la/index.md)
