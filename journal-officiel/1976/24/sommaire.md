@@ -13,3 +13,4 @@ Source : https://www.journal-officiel.ga/14483-journal-officiel-n24/
 - U.D.E.A.C — ACTES N° 4/76-UDEAC-22 du 05/09/1976 portant modification de l'article 1 de l'acte n° 9/73-UDEAC-175 fixant le taux de l'indemnité d'expatriation. (non repris)
 - U.D.E.A.C — ACTES N° 5/76-UDEAC-79 du 05/09/1976 portant libération du capital social de la B.D.E.A.C. (non repris)
 - U.D.E.A.C — [Décision N° 1/76-UDEAC-220 du 05/09/1976 portant modification de l'article 3 de la décision n° 11/73-UDEAC-175 du 23 décembre 1973,](../../../autres/1976/decision-1-76-udeac-220-portant-modification-de-l-article-3-de-la/index.md)
+- U.D.E.A.C — [Décision N° 3/76-UDEAC-220 du 05/09/1976 autorisant le Secrétaire général à reclasser les agents hors échelons.](../../../autres/1976/decision-3-76-udeac-220-autorisant-le-secretaire-general-a-reclasser-les/index.md)
