@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/9980-journal-officiel-n8-bis/
 - COUR CONSTITUTIONNELLE — Décision N° 9/CC du 27/08/1998 relative à la nomination du Président de la Commission nationale électorale. (jurisprudence, dépôt séparé)
 - COUR CONSTITUTIONNELLE — Décision N° 8/CC du 25/08/1998 relative à la loi organique N° 11/98, fixant les modalités de délégation des fonctions du Président de la République au Vice-Président de la République (jurisprudence, dépôt séparé)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 17/98 du 14/08/1998 portant transfert du chef-lieu de district de Mfoulenzem à Nzomoe.](../../../ordonnances/1998/17-98-portant-transfert-du-chef-lieu-de-district-de/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 15/98 du 13/08/1998 portant création et organisation générale de l'Institut supérieur de technologie de Libreville.](../../../ordonnances/1998/15-98-portant-creation-et-organisation-generale-de-l/index.md)
