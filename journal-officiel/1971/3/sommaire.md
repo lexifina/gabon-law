@@ -17,3 +17,4 @@ Source : https://www.journal-officiel.ga/15270-journal-officiel-n3/
 - MINISTERE DE L'EDUCATION NATIONALE ET DE LA CULTURE — [INSTRUCTIONS N° 616/IA-EX du 21/12/1970 CONCERNANT LA SESSION1971 DU BREVET D'ETUDES DU PREMIER CYCLE.](../../../autres/1970/instructions-616-ia-ex-concernant-la-session1971-du-brevet-d-etudes-du/index.md)
 - MINISTERE DE L'EDUCATION NATIONALE ET DE LA CULTURE — Circulaire N° 00918/MENC du 21/12/1970 RELATIVE AU PERFECTIONNEMENT DES MAITRES. (non repris)
 - ASSEMBLEE NATIONALE — [Loi N° 20/70 du 17/12/1970 autorisant le Président de la République à légiférer par ordonnances pendant la période d'intersession.](../../../lois/1970/20-70-autorisant-le-president-de-la-republique-a/index.md)
+- MINISTERE DES TRANSPORTS ET DE L'AERONAUTIQUE CIVILE CHARGE DU TOURISME — [Arrêté N° 1823/MTACT du 14/12/1970 relatif aux visites techniques des véhicules.](../../../arretes/1970/12/1823-mtact-relatif-aux-visites-techniques-des-vehicules/index.md)
