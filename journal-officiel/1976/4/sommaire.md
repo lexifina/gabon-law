@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/13481-journal-officiel-n4-et-5/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 9/76 du 23/01/1976 modifiant l'ordonnance n°19/74 du 19 mars 1974, portant organisation de la municipalité de Libreville](../../../ordonnances/1976/9-76-modifiant-l-ordonnance-n-19-74-du-19-mars-1974/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 5/76 du 22/01/1976 créant le Centre national antipollution.](../../../ordonnances/1976/5-76-creant-le-centre-national-antipollution/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 6/76 du 22/01/1976 créant le CENAREST](../../../ordonnances/1976/6-76-creant-le-cenarest/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 101/PR-MDN du 19/01/1976 portant statut du personnel féminin de la Gendarmerie nationale](../../../decrets/1976/01/101-pr-mdn-portant-statut-du-personnel-feminin-de-la/index.md)
