@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/16022-journal-officiel-n16/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 249 du 20/08/1966 portant remaniement du Gouvernent](../../../decrets/1966/08/249-portant-remaniement-du-gouvernent/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 930/PR du 20/08/1966 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1966/08/930-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 245/PR du 19/08/1966 modificatif du décret n° 238/PM du 15 décembre 1960 sur l'Organisation et l'Administration de la Gendarmerie Nationale](../../../decrets/1966/08/245-pr-modificatif-du-decret-n-238-pm-du-15-decembre/index.md)
+- MINISTERE DES AFFAIRES ETRANGERES — [Décret N° 256/PR-MAE du 25/08/1966 portant ouverture de Missions Diplomatiques](../../../decrets/1966/08/256-pr-mae-portant-ouverture-de-missions-diplomatiques/index.md)
