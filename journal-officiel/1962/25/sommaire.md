@@ -13,3 +13,4 @@ Source : https://www.journal-officiel.ga/16260-journal-officie-n-25-du-15-novemb
 - Présidence de la République — [Ordonnance N° 57/PR du 29/09/1962 modifiant l'ordonnance n° 2/PR du 31 mars 1961. (indemnités Vice-Présidence).](../../../ordonnances/1962/57-pr-modifiant-l-ordonnance-n-2-pr-du-31-mars-1961/index.md)
 - Présidence de la République — [Ordonnance N° 38/PR du 02/07/1962 modifiant les règles de recouvrement de la taxe vicinale.](../../../ordonnances/1962/38-pr-modifiant-les-regles-de-recouvrement-de-la-taxe/index.md)
 - Présidence de la République — [Ordonnance N° 36/PR-FB du 25/06/1962 portant inscription et virements de crédits au budget de fonctionnement.](../../../ordonnances/1962/36-pr-fb-portant-inscription-et-virements-de-credits-au/index.md)
+- MINISTERE D'ETAT CHARGE DE LA JUSTICE — [Décret N° 235/MJ du 17/10/1962 portant nomination d'un magistrat.](../../../decrets/1962/10/235-mj-portant-nomination-d-un-magistrat/index.md)
