@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/16235-journal-officiel-n13-et-14/
 - MINISTERE DE L'INTERIEUR — Récépissé N° 2/MI.RA.SVPG-DAG du 18/05/1974 de déclaration d'association (Loi n° 35/62 du 10 décembre 1972). (non repris)
 - MINISTERE DE L'INTERIEUR — Récépissé N° 1/MI.RA.SVPG-DAG du 14/05/1974 de déclaration d'association(Loi 35/62 du 10 décembre 1962). (non repris)
 - MINISTERE DE L'INTERIEUR — [Décret N° 567/PR-MI.RA.SVPG-CAB du 10/05/1974 portant création du poste de contrôle administratif de Foulenzem.](../../../decrets/1974/05/567-pr-mi-ra-svpg-cab-portant-creation-du-poste-de-controle/index.md)
+- MINISTERE DES EAUX ET FORETS — [Arrêté N° 483/PR-MEF-DP du 18/05/1974 portant ouverture d'un concours pour le recrutement de cinq élèves à l'Ecole des pêches de Thiaroye au Sénégal.](../../../arretes/1974/05/483-pr-mef-dp-portant-ouverture-d-un-concours-pour-le/index.md)
