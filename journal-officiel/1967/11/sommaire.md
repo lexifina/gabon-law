@@ -1,0 +1,5 @@
+# Journal officiel n°11 du 1967-05-01
+
+Source : https://www.journal-officiel.ga/17162-journal-officiel-n11/
+
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 207/PR du 19/04/1967 fixant la composition du Gouvernement](../../../decrets/1967/04/207-pr-fixant-la-composition-du-gouvernement/index.md)
