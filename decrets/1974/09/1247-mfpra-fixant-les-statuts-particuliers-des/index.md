@@ -1,0 +1,158 @@
+# Décret N° 1247/MFPRA du 24/09/1974 fixant les statuts particuliers des fonctionnaires de l’Information.
+
+- Nature: Décret
+- Numéro: 1247/MFPRA
+- Date du texte: 1974-09-24
+- Autorité: MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME ADMINISTRATIVE
+- Publication: Journal officiel n°23 du 1974-10-01
+- Source: https://www.journal-officiel.ga/16581-1247-mfpra-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+- CHAPITRE I
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- Section II - Fonctions
+  - [Article 4](art-004.md)
+- Section III - Recrutement direct et professionnel
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+- Section IV - Avancement
+  - [Article 7](art-007.md)
+- Section V - Reclassement
+  - [Article 8](art-008.md)
+- Section VI - Echelonnement indiciaire
+  - [Article 9](art-009.md)
+- Section VII - Dispositions diverses
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- CHAPITRE II
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+- Section I - Recrutement direct
+  - [Article 16](art-016.md)
+- Section III - Avancement de grade
+  - [Article 17](art-017.md)
+- Section IV - Bonification indiciaire spéciale
+  - [Article 18](art-018.md)
+- CHAPITRE III
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- Section I - Recrutement direct
+  - [Article 21](art-021.md)
+- Section II - Recrutement professionnel
+  - [Article 22](art-022.md)
+- Section III - Avancement de grade
+  - [Article 23](art-023.md)
+- CHAPITRE IV
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+- Section I - Recrutement direct
+  - [Article 27](art-027.md)
+- Section II - Recrutement professionnel
+  - [Article 28](art-028.md)
+- Section III - Avancement de grade
+  - [Article 29](art-029.md)
+- CHAPITRE V
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+- Section I Recrutement direct
+  - [Article 33](art-033.md)
+- Section II Recrutement professionnel
+  - [Article 34](art-034.md)
+- Section III - Avancement de grade
+  - [Article 35](art-035.md)
+- CHAPITRE VI
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+- Section I - Recrutement direct
+  - [Article 39](art-039.md)
+- Section II - Avancement de grade
+  - [Article 40](art-040.md)
+- CHAPITRE VII
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+- Section I Recrutement direct
+  - [Article 43](art-043.md)
+- Section II Avancement de grade
+  - [Article 44](art-044.md)
+- Section III - Bonifications indiciaires
+  - [Article 45](art-045.md)
+- CHAPITRE VIII
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+- Section I - Recrutement direct
+  - [Article 49](art-049.md)
+- Section II - Recrutement professionnel
+  - [Article 50](art-050.md)
+- Section III Avancement de grade
+  - [Article 51](art-051.md)
+- CHAPITRE IX
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+- Section I - Recrutement direct
+  - [Article 54](art-054.md)
+- Section II - Recrutement professionnel
+  - [Article 55](art-055.md)
+- Section III - Avancement de grade
+  - [Article 56](art-056.md)
+- CHAPITRE X
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- Section I- Recrutement direct
+  - [Article 59](art-059.md)
+- Section II - Recrutement professionnel
+  - [Article 60](art-060.md)
+- Section III - Avancement de grade
+  - [Article 61](art-061.md)
+- CHAPITRE XI
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+- Section I - Recrutement direct
+  - [Article 64](art-064.md)
+- Section III - Avancement de grade
+  - [Article 65](art-065.md)
+- CHAPITRE XII
+  - [Article 66](art-066.md)
+- Section I - Recrutement direct
+  - [Article 73](art-073.md)
+- Section II - Recrutement professionnel
+  - [Article 74](art-074.md)
+- Section III Avancement de grade
+  - [Article 75](art-075.md)
+- CHAPITRE XIV
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+- Section I - Recrutement direct
+  - [Article 78](art-078.md)
+- Section II - Recrutement professionnel
+  - [Article 79](art-079.md)
+- Section III - Avancement de grade
+  - [Article 80](art-080.md)
+- CHAPITRE XV
+  - [Article 81](art-081.md)
+  - [Article 82](art-082.md)
+- Section I - Recrutement direct
+  - [Article 83](art-083.md)
+- Section II Recrutement professionnel
+  - [Article 84](art-084.md)
+- Section III - Avancement de grade
+  - [Article 85](art-085.md)
+- CHAPITRE XVI
+  - [Article 86](art-086.md)
+  - [Article 87](art-087.md)
+- Section I - Recrutement direct
+  - [Article 88](art-088.md)
+- Section II- Avancement de grade
+  - [Article 89](art-089.md)
+- CHAPITRE XVII
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+  - [Article 92](art-092.md)
