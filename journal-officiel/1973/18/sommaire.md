@@ -14,3 +14,4 @@ Source : https://www.journal-officiel.ga/12236-journal-officiel-n-18-du-1er-au-1
 - Présidence de la République — [Ordonnance N° 47/73 du 13/08/1973 accordant la grâce amnistiante .](../../../ordonnances/1973/47-73-accordant-la-grace-amnistiante/index.md)
 - Présidence de la République — [Décret N° 905/PR du 11/08/1973 portant remises gracieuses de peines](../../../decrets/1973/08/905-pr-portant-remises-gracieuses-de-peines/index.md)
 - Présidence de la République — [Arrêté N° 831/PR du 27/07/1973 ,portant création d'une commission de rédaction d'un projet de la seconde partie du Code civil](../../../arretes/1973/07/831-pr-portant-creation-d-une-commission-de-redaction-d/index.md)
+- MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME ADMINISTRATIVE — [Décret N° 782/PR-MFPRA du 25/07/1973 portant modification de l'appellation d'un département ministériel](../../../decrets/1973/07/782-pr-mfpra-portant-modification-de-l-appellation-d-un/index.md)
