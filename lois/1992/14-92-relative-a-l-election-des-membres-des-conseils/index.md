@@ -1,0 +1,73 @@
+# Loi N° 14/92 du 09/07/1992 relative à l'élection des membres des conseils municipaux et des conseils départementaux
+
+- Nature: Loi
+- Numéro: 14/92
+- Date du texte: 1992-07-09
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°27 du 1992-07-05
+- Source: https://www.journal-officiel.ga/8888-14-92/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+- Titre 1er :
+- Chapitre 1er : Du mode de scrutin
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- Chapitre II : Des circonscriptions électorales
+  - [Article 5](art-005.md)
+- Chapitre III : De la durée du mandat
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- Chapitre IV : Des déclarations de candidature
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- Chapitre V : Du renouvellement général ou partiel
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+- Chapitre VI : De la désignation des élus
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+- Titre II : De l'élection des membres des conseils municipaux
+- Chapitre 1er : De la composition des conseils municipaux
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+- Chapitre II : Circonscription électorale, mode de scrutin et durée du mandat
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+- Chapitre III : De la déclaration de candidature
+  - [Article 27](art-027.md)
+- Chapitre IV : Des inéligibilités et incompatibilités
+  - [Article 28](art-028.md)
+- Chapitre V : Du renouvellement général ou partiel
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+- Titre III : De l'élection des membres des conseils départementaux
+- Chapitre 1er : De la composition des conseils départementaux
+  - [Article 31](art-031.md)
+- Chapitre II : Mode de scrutin, circonscription et durée du mandat
+  - [Article 32](art-032.md)
+- Chapitre III : Des inéligibilités
+  - [Article 33](art-033.md)
+- Chapitre IV : Des incompatibilités
+  - [Article 34](art-034.md)
+- Chapitre V : De la déclaration de candidature
+  - [Article 35](art-035.md)
+- Chapitre VI : Du renevoullement général ou partiel
+  - [Article 36](art-036.md)
+- Chapitre VII : De la désignation des présidents et vice-présidents
+  - [Article 37](art-037.md)
+- Titre V :
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
