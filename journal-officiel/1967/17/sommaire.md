@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/17289-journal-officiel-n17/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00323/PR du 30/06/1967 relatif à certaines opérations financières avec l'Etranger](../../../decrets/1967/06/00323-pr-relatif-a-certaines-operations-financieres-avec-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00324/PR du 30/06/1967 déterminant les conditions d'établissement de la balance des paiements extérieurs](../../../decrets/1967/06/00324-pr-determinant-les-conditions-d-etablissement-de-la/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 28/67 du 29/06/1967 relative aux relations financières avec l'Etranger](../../../ordonnances/1967/28-67-relative-aux-relations-financieres-avec-l-etranger/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 00802/PR du 21/06/1967 portant promotion à titre exceptionnel dans l'Ordre de l'Étoile Equatoriale](../../../arretes/1967/06/00802-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
