@@ -5,3 +5,4 @@ Source : https://www.journal-officiel.ga/17162-journal-officiel-n11/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 207/PR du 19/04/1967 fixant la composition du Gouvernement](../../../decrets/1967/04/207-pr-fixant-la-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 208 du 19/04/1967 rattachant le Secrétariat à l'Habitat et à l'Urbanisme à la Présidence de la République](../../../decrets/1967/04/208-rattachant-le-secretariat-a-l-habitat-et-a-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 25/67 du 15/04/1967 sur l'Organisation Judiciaire de la République Gabonaise](../../../ordonnances/1967/25-67-sur-l-organisation-judiciaire-de-la-republique/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00204/PR du 13/04/1967 portant convocation de l'Assemblée Nationale en première session ordinaire pour l'année 1967](../../../decrets/1967/04/00204-pr-portant-convocation-de-l-assemblee-nationale-en/index.md)
