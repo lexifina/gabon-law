@@ -16,3 +16,4 @@ Source : https://www.journal-officiel.ga/13753-journal-officiel-n11/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 23/68 du 10/04/1968 portant ouverture et transferts de crédits au Budget de l'Etat (Fonctionnement) Exercice 1968.](../../../ordonnances/1968/23-68-portant-ouverture-et-transferts-de-credits-au/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 16/68 du 09/04/1968 complétant le Code Pénal.](../../../ordonnances/1968/16-68-completant-le-code-penal/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 17/68 du 09/04/1968 modifiant de la loi 11/65 sur le droit de grâce.](../../../ordonnances/1968/17-68-modifiant-de-la-loi-11-65-sur-le-droit-de-grace/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 18/68 du 09/04/1968 instituant séquestre des biens en cas de détournement de deniers publics ou de manquement.](../../../ordonnances/1968/18-68-instituant-sequestre-des-biens-en-cas-de/index.md)
