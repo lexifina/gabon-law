@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/13170-journal-officiel-n2/
 - ASSEMBLEE NATIONALE — [Loi N° 19/65 du 20/12/1965 portant ratification de la convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d'autres Etats](../../../lois/1965/19-65-portant-ratification-de-la-convention-pour-le/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 20/65 du 20/12/1965 complétant l'article 100 du Code de Procédure Pénal](../../../lois/1965/20-65-completant-l-article-100-du-code-de-procedure/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 21/65 du 20/12/1965 complétant l'article 100 du Code de Procédure Pénale](../../../lois/1965/21-65-completant-l-article-100-du-code-de-procedure/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 369/PR du 17/12/1965 portant convocation de l'Assemblée Nationale en session extraordinaire](../../../decrets/1965/12/369-pr-portant-convocation-de-l-assemblee-nationale-en/index.md)
