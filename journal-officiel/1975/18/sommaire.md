@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/14217-journal-officiel-n18-17eme/
 - U.D.E.A.C — ACTES N° 16/75-CD-1051 du 20/06/1975 portant modification de l'acte n° 13/65-UDEAC-35. (non repris)
 - U.D.E.A.C — ACTES N° 17/75-CD-1054 du 20/06/1975 portant modification de l'acte n° 13/65-UDEAC-35 du 14 décembre 1965. (non repris)
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 578/PR-MI-DSP-BP du 19/06/1975 portant recrutement de 35 fonctionnaires de l'Administration pénitentiaire.](../../../arretes/1975/06/578-pr-mi-dsp-bp-portant-recrutement-de-35-fonctionnaires-de-l/index.md)
+- MINISTERE DE L'INTERIEUR — [Décret N° 619/PR-MI-SE-STC du 18/06/1975 portant approbation du budget additionnel - exercice 1975 - des fonds communs de la région de la Nyanga.](../../../decrets/1975/06/619-pr-mi-se-stc-portant-approbation-du-budget-additionnel/index.md)
