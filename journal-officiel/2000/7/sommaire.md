@@ -4,3 +4,4 @@ Source : https://www.journal-officiel.ga/4244-journal-officiel-n7/
 
 - MINISTERE DE L'INTERIEUR — [Décret N° 498/PR/MISPD du 29/07/2002 fixant le nombre de commissions électorales locales.](../../../decrets/2002/07/498-pr-mispd-fixant-le-nombre-de-commissions-electorales/index.md)
 - Ministère de l'Economie, des Finances, du Budget et des Participation — [Décret N° 481/PR/MEFBP du 19/07/2002 fixant les conditions des mises en place et des gestions des avances au budget](../../../decrets/2002/07/481-pr-mefbp-fixant-les-conditions-des-mises-en-place-et-des/index.md)
+- Ministère de l'Economie, des Finances, du Budget et des Participation — [Décret N° 482/PR/MEFBP du 19/07/2002 portant création etorganisation de la commission nationale des mises enplace de la zone franche de l île Mandji.](../../../decrets/2002/07/482-pr-mefbp-portant-creation-etorganisation-de-la-commission/index.md)
