@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/9831-journal-officiel-n25-et-26/
 - COUR CONSTITUTIONNELLE — Décision N° 16/CC du 28/07/1993 sur la convention relative aux droits de l 'Enfant. (jurisprudence, dépôt séparé)
 - COUR CONSTITUTIONNELLE — Décision N° 14/CC du 06/05/1993 relative au traité instituant une organisation intégrée de l'industrie des assurances dans les Etats africains. (jurisprudence, dépôt séparé)
 - MINISTERE DU COMMERCE, DE L'INDUSTRIE, ET DE LA RECHERCHE SCIENTIFIQUE — [Décret N° 11O1/PR/MCIRS du 27/07/1993 portant création d'un comité national de facilitation des procédures du commerce.](../../../decrets/1993/07/11o1-pr-mcirs-portant-creation-d-un-comite-national-de/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 31/93 du 21/07/1993 autorisant le président de la République à légiférer par ordonnances pendant l'intersession parlementaire.](../../../lois/1993/31-93-autorisant-le-president-de-la-republique-a/index.md)
