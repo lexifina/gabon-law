@@ -17,3 +17,4 @@ Source : https://www.journal-officiel.ga/16899-journal-officiel-n3/
 - Ministère du Travail — [Décret N° 00017/PR du 12/01/1967 concernant la réparation des maladies professionnelles](../../../decrets/1967/01/00017-pr-concernant-la-reparation-des-maladies/index.md)
 - MINISTERE DE L'INTERIEUR — [Décret N° 00035/ PR-MI du 24/01/1967 portant création du Poste lu Contrôle Administratif de Bakumba](../../../decrets/1967/02/00035-pr-mi-du-24-01-1967-portant-creation-du-poste-lu/index.md)
 - MINISTERE DE L'INTERIEUR — [Décret N° 00036/PR-MI du 24/01/1967 portant érection du P.C.A. de PANA en District](../../../decrets/1967/01/00036-pr-mi-portant-erection-du-p-c-a-de-pana-en-district/index.md)
+- MINISTERE DE LA SANTE — [Décret N° 0023/PR-MSPP du 16/01/1967 portant réorganisation du Ministère de la Santé Publique et de la Population.](../../../decrets/1967/01/0023-pr-mspp-portant-reorganisation-du-ministere-de-la-sante/index.md)
