@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/12549-journal-officiel-n12-et-13/
 - MINISTÈRE DE L'ÉCONOMIE, DES FINANCES ET DES PARTICIPATIONS — [Arrêté N° 107/MINECOFIN du 10/05/1977 fixant les barèmes de commercialisation du café](../../../arretes/1977/05/107-minecofin-fixant-les-baremes-de-commercialisation-du-cafe/index.md)
 - MINISTÈRE DU TRAVAIL ET DE LA SÉCURITÉ SOCIALE — [Décret N° 517/PR/MTSS, du 24/05/1977 portant réajustement du taux des allocations familiales](../../../decrets/1977/05/517-pr-mtss-portant-reajustement-du-taux-des-allocations/index.md)
 - MINISTÈRE DU TRAVAIL ET DE LA SÉCURITÉ SOCIALE — [Décret N° 518/PR/MTSS, du 24/05/1977 portant revalorisation des pensions vieillesse](../../../decrets/1977/05/518-pr-mtss-portant-revalorisation-des-pensions-vieillesse/index.md)
+- Ministère de la Fonction publique — [Arrêté N° 678/MFP/RA du 23/05/1977 portant ouverture d'un concours](../../../arretes/1977/05/678-mfp-ra-portant-ouverture-d-un-concours/index.md)
