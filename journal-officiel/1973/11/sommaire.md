@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/13948-journal-officiel-n-11-du-15-avril
 - Ministère de l'Economie et des Finances — [Arrêté N° 57/MEF-DFB du 07/04/1973 portant virement de crédits .](../../../arretes/1973/04/57-mef-dfb-portant-virement-de-credits/index.md)
 - Ministère de l'Economie et des Finances — [Arrêté N° 56/MEF-DFB du 06/04/1973 portant transfert de crédit.](../../../arretes/1973/04/56-mef-dfb-portant-transfert-de-credit/index.md)
 - Ministère de l'Economie et des Finances — [Arrêté N° 49/MEF-DFB du 02/04/1973 portant transfert de crédit .](../../../arretes/1973/04/49-mef-dfb-portant-transfert-de-credit/index.md)
+- Ministère de l'Economie et des Finances — [Décision N° 83/MEF-CAB-BS du 02/04/1973 portant création d' une caisse d'avances.](../../../autres/1973/decision-83-mef-cab-bs-portant-creation-d-une-caisse-d-avances/index.md)
