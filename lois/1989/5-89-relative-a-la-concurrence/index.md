@@ -1,0 +1,53 @@
+# Loi N° 5/89 du 06/07/1989 relative à la concurrence
+
+- Nature: Loi
+- Numéro: 5/89
+- Date du texte: 1989-07-06
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°8 du 1989-07-31
+- Source: https://www.journal-officiel.ga/8663-5-89/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+- TITRE 1.- DE LA COMMISSION DE LA CONCURRENCE
+- CHAPITRE I.- COMPOSITION DE LA COMMISSION
+  - [Article 2](art-002.md)
+- CHAPITRE II.- MISSIONS DE LA COMMISSION
+  - [Article 3](art-003.md)
+- CHAPITRE III.- FONCTIONNEMENT DE LA COMMISSION
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+- TITRE II.- DES PRATIQUES ANTICONCURRENTIELLES
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- TITRE III.- DE LA TRANSPARENCE ET DES PRATIQUES RESTRICTIVES
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- TITRE IV.- DES POUVOIRS D'ENQUETE ET DE LA PROCEDURE
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+- TITRE V.- DISPOSITIONS DIVERSES
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
