@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/13311-journal-officiel-n1/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 2437/PR du 23/12/1975 majorant le taux d'une indemnité d'usure de véhicule.](../../../decrets/1975/12/2437-pr-majorant-le-taux-d-une-indemnite-d-usure-de/index.md)
+- Assemblée Nationale — [Loi N° 7/75 du 18/12/1975 approuvant le budget de l'Etat, exercice 1976](../../../lois/1975/7-75-approuvant-le-budget-de-l-etat-exercice-1976/index.md)
