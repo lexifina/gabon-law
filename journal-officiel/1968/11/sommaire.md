@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/13753-journal-officiel-n11/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 28/68 du 12/04/1968 complétant l'article 133 du Code de Procédure Pénale en ce qui concerne l'appel.](../../../ordonnances/1968/28-68-completant-l-article-133-du-code-de-procedure/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 23/68 du 10/04/1968 portant ouverture et transferts de crédits au Budget de l'Etat (Fonctionnement) Exercice 1968.](../../../ordonnances/1968/23-68-portant-ouverture-et-transferts-de-credits-au/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 16/68 du 09/04/1968 complétant le Code Pénal.](../../../ordonnances/1968/16-68-completant-le-code-penal/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 17/68 du 09/04/1968 modifiant de la loi 11/65 sur le droit de grâce.](../../../ordonnances/1968/17-68-modifiant-de-la-loi-11-65-sur-le-droit-de-grace/index.md)
