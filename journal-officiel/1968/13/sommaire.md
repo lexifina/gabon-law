@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/13883-journal-officiel-n13/
 
 - Ministère de l'Habitat et de l'Urbanisme chargé de l'Organisation Nationale des Femmes Gabonaises — [Décret N° 0275/PR-MHUB-ONFG du 29/05/1968 portant création de la Commission d'Urbanisme prévue par ordonnance sur l'Obligation de construire.](../../../decrets/1968/05/0275-pr-mhub-onfg-portant-creation-de-la-commission-d-urbanisme/index.md)
+- Ministère de l'Habitat et de l'Urbanisme chargé de l'Organisation Nationale des Femmes Gabonaises — [Arrêté N° 0517/PR-MIIUB-ONF du 29/05/1968 fixant la liste des rues de Libreville frappées des obligations du Décret N ° 00595/PR-SEHUB du 22 Novembre 1967 et de l'Ordonnance N° 12 du 7 Mai 1968.](../../../arretes/1968/05/0517-pr-miiub-onf-fixant-la-liste-des-rues-de-libreville-frappees/index.md)
