@@ -1,0 +1,17 @@
+# Signatures
+
+Fait à Libreville, le 14 septembre 1964.
+
+P. le Président de la République,
+
+Le Vice-Président du Gouvernement,
+
+P.M. Yembit.
+
+Par le Président de la République,
+
+Le Ministre des Travaux Publics et des Transports,
+
+E. Amogho.
+
+<section class="
