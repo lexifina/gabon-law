@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/12857-journal-officiel-n1-6eme/
 
 - Assemblée Nationale — [Loi N° 33/63 du 22/11/1964 portant modification de la loi 7/63 du 11 janvier 1963 instituant une taxe sur les terrains inexploités ou insuffisamment exploités](../../../lois/1964/33-63-portant-modification-de-la-loi-7-63-du-11-janvier/index.md)
+- Assemblée Nationale — [Loi N° 34/63 du 22/11/1964 complétant le Code Général des Impôts](../../../lois/1964/34-63-completant-le-code-general-des-impots/index.md)
