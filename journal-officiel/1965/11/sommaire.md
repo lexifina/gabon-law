@@ -19,3 +19,5 @@ Source : https://www.journal-officiel.ga/14109-journal-officiel-n11-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 4/65-535 du 25/03/1965 portant nomination d'un Directeur du Central-Mécanique inter-Etats. (non repris)
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 3/65-537 du 20/03/1965 portant approbation en pleine propriété à la République du Congo de certains immeubles à usage d'habitation sis à Brazzaville. (non repris)
 - Ministère du Travail — [Décision N° 1/MT du 24/02/1965 de la Commission mixte des Transports Maritimes et Fluviaux en date du 24 février 1965.](../../../autres/1965/decision-1-mt-de-la-commission-mixte-des-transports-maritimes/index.md)
+- Ministère du Travail — Avis N° 1/MT du 01/02/1965 relatif à l'extension du barème des salaires hiérarchiques de base des catégories de la Convention Collective du Commerce, objet de la décision de Commission Mixte du 12 janvier 1965. (non repris)
+- Ministère du Travail — [Décision N° 2/MT du 12/01/1965 de la Commission Mixte du Commerce en date du 12 janvier 1965.](../../../autres/1965/decision-2-mt-de-la-commission-mixte-du-commerce-en-date-du-12/index.md)
