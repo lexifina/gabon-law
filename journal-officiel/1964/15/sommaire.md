@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/13254-journal-officiel-n15-6eme/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 32/PR du 25/04/1964 portant ouverture de crédits supplémentaires au Budget Général de Fonctionnement exercice 1963.](../../../ordonnances/1964/32-pr-portant-ouverture-de-credits-supplementaires-au/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 33/PR du 25/04/1964 portant annulation de recettes et dépenses au budget de développement exercice 1963 et autorisant inscription supplémentaire au budget de développement exercice 1964](../../../ordonnances/1964/33-pr-portant-annulation-de-recettes-et-depenses-au/index.md)
