@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/14141-journal-officiel-n19-et-21/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 778/PR du 28/08/1976 portant ratification par le Président de la République de l'accord portant création de la Société africaine de Réassurances signé à Yaoundé le 24 février 1976](../../../decrets/1976/08/778-pr-portant-ratification-par-le-president-de-la/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 771/PR du 23/08/1976 portant nomination des Secrétaires d'Etat](../../../decrets/1976/08/771-pr-portant-nomination-des-secretaires-d-etat/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 754/PR du 17/08/1976 portant remise gracieuse de peine](../../../decrets/1976/08/754-pr-portant-remise-gracieuse-de-peine/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 43/PR/76 du 28/07/1976 instituant une Commission Gouvernementale des salaire](../../../ordonnances/1976/43-pr-76-instituant-une-commission-gouvernementale-des/index.md)
