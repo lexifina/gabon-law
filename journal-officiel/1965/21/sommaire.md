@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/13751-journal-officiel-n21-7eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 937/PR du 30/08/1965](../../../arretes/1965/08/937-pr/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 40/PR du 23/08/1965 modifiant l'article 9 du décret-loi n°23/PM du 30 décembre 1965, instituant des redevances d'atterrissage et des redevances pour occupation d'immeubles du domaine public.](../../../ordonnances/1965/40-pr-modifiant-l-article-9-du-decret-loi-n-23-pm-du-30/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 893/PR du 13/08/1965 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale.](../../../arretes/1965/08/893-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 875/PR du 10/08/1965 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale.](../../../arretes/1965/08/875-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
