@@ -12,3 +12,4 @@ Source : https://www.journal-officiel.ga/10141-journal-officiel-n1/
 - ASSEMBLEE NATIONALE — [Loi N° 21/84 du 29/12/1984 fixant les règles applicables à l'enseignement privé](../../../lois/1984/21-84-fixant-les-regles-applicables-a-l-enseignement/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 22/84 du 29/12/1984 fixant le régime du travail pénal](../../../lois/1984/22-84-fixant-le-regime-du-travail-penal/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 23/84 du 29/12/1984 portant restitution de la concession des jardins de la Peyrie à la Commune de Libreville](../../../lois/1984/23-84-portant-restitution-de-la-concession-des-jardins/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 20/84 du 14/12/1984 autorisant la ratification du traité d'adhésion de la République de Guinée équatoriale à la convention de coopération monétaire du 22 novembre 1972 instituant la Banque des Etats de l'Afrique Centrale](../../../lois/1984/20-84-autorisant-la-ratification-du-traite-d-adhesion/index.md)
