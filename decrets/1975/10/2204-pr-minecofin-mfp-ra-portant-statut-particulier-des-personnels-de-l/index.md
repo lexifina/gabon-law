@@ -1,0 +1,72 @@
+# Décret N° 2204/PR-MINECOFIN-MFP/RA du 10/10/1975 portant statut particulier des personnels de l’Administration des Prix et des Enquêtes Economiques.
+
+- Nature: Décret
+- Numéro: 2204/PR-MINECOFIN-MFP/RA
+- Date du texte: 1975-10-10
+- Autorité: Ministère de l'Economie et des Finances
+- Publication: Journal officiel n°29 du 1975-10-01
+- Source: https://www.journal-officiel.ga/14639-2204-pr-minecofin-mfp-ra/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- Chapitre 1er : Des dispositions générales
+- Section I
+  - [Article premier](art-001.md)
+- Section II Recrutement
+  - [Article 2](art-002.md)
+- Section III Avancement
+  - [Article 3](art-003.md)
+- Section IV Reclassement
+  - [Article 4](art-004.md)
+- Section V Promotions - Nominations
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+- Section VI Échelonnement indiciaire
+  - [Article 8](art-008.md)
+- Section VII Prestation de serment
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- Chapitre 2 : de la catégorie A
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- Section I
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- Section II
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+- Chapitre 3 : de la catégorie B
+- Section I
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+- Section II
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+- Section III
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+- Section IV
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+- Section IV
+  - [Article 40](art-040.md)
+- Chapitre 4
+- Section I
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
