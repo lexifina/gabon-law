@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/15978-journal-officiel-n8-16eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 16/74 du 13/03/1974 abrogeant la loi 13/73 du 20 décembre 1973 et portant modification du tarif des douanes à l'exportation.](../../../ordonnances/1974/16-74-abrogeant-la-loi-13-73-du-20-decembre-1973-et/index.md)
 - Ministère de l'Economie et des Finances — [Arrêté N° 37/MINECOFIN-DGFB-DB du 23/03/1974 portant transfert de crédits.](../../../arretes/1974/03/37-minecofin-dgfb-db-portant-transfert-de-credits/index.md)
 - Ministère de l'Economie et des Finances — [Arrêté N° 35/MINECOFIN-DGFB-DB du 22/03/1974 portant transfert de crédits.](../../../arretes/1974/03/35-minecofin-dgfb-db-portant-transfert-de-credits/index.md)
+- Ministère de l'Economie et des Finances — [Arrêté N° 36/MEF-DFB du 22/03/1974 instituant une caisse d'avance](../../../arretes/1974/03/36-mef-dfb-instituant-une-caisse-d-avance/index.md)
