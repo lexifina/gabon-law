@@ -4,3 +4,4 @@ Source : https://www.journal-officiel.ga/11517-journal-officiel-n-22-et-23-du-1e
 
 - Ministère de l'économie et des finances — [Arrêté N° 119/PR du 31/10/1981 fixant le prix d'achat du café pour la campagne 1981-1982](../../../arretes/1981/10/119-pr-fixant-le-prix-d-achat-du-cafe-pour-la-campagne/index.md)
 - Ministère de l'économie et des finances — [Arrêté N° 120/MINECOFIN du 31/10/1981 fixant le prix d'achat du cacao pour la campagne 1981-1982](../../../arretes/1981/10/120-minecofin-fixant-le-prix-d-achat-du-cacao-pour-la-campagne/index.md)
+- Ministère de l'économie et des finances — [Arrêté N° 200/MINECOFIN du 19/10/1981 portant création d'une caisse d'avance](../../../arretes/1981/10/200-minecofin-portant-creation-d-une-caisse-d-avance/index.md)
