@@ -27,3 +27,4 @@ Source : https://www.journal-officiel.ga/14058-journal-officiel-n25-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 16/65-564 du 05/10/1965 autorisant le prélèvement d'une somme de quatorze millions deux cent quarante mille francs (14.240.000) sur le Fonds de Réserve Commun aux organismes et services inter-Etats (non repris)
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 15/65-563 du 30/07/1965 habilitant le Président de la Conférence à faire provoquer une étude de la réforme de la comptabilité publique dans les Etats de l'Afrique Equatoriale. (non repris)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 2/65 du 16/04/1965](../../../autres/1965/deliberation-2-65/index.md)
+- CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 3-65 du 16/04/1965](../../../autres/1965/deliberation-3-65/index.md)
