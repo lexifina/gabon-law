@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/13208-journal-officiel-n17-6eme/
 - MINISTERE DES FINANCES — [Arrêté N° 40/MF-DF du 19/05/1964 portant report decrédits inutilisés au Budget de Développementexercice 1963.](../../../arretes/1964/05/40-mf-df-portant-report-decredits-inutilises-au-budget-de/index.md)
 - MINISTERE DES TRAVAUX PUBLICS — [Arrêté N° 547/MTP du 12/05/1964 portant concession concession de l'exploitation d’un Aérodrome.](../../../arretes/1964/05/547-mtp-portant-concession-concession-de-l-exploitation-d/index.md)
 - MINISTERE DES TRAVAUX PUBLICS — [Arrêté N° 549/MTP du 12/05/1964 portant concession de l'exploitation d’un Aérodrome.](../../../arretes/1964/05/549-mtp-portant-concession-de-l-exploitation-d-un/index.md)
+- Ministère du Travail — [Arrêté N° 550/PR du 12/05/1964 modifiant le taux des allocations prénatales et de la prime à la naissance.](../../../arretes/1964/05/550-pr-modifiant-le-taux-des-allocations-prenatales-et/index.md)
