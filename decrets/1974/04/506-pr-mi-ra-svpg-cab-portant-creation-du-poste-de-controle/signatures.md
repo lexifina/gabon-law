@@ -1,0 +1,15 @@
+# Signatures
+
+Fait à Libreville, le 9 avril 1974.
+
+Albert Bernard BONGO.
+
+Par le Président de la République,
+
+Chef du Gouvernement,
+
+Le Ministre d'Etat, chargé de l'Intérieur, des Relations avec les Assemblées, de la suppléance de la Vice-Présidence du Gouvernement,
+
+Jean-Stanislas MIGOLET.
+
+<section class="
