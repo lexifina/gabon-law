@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/13043-journal-officiel-n18-6eme/
 - Ministère des Travaux Publics — [Arrêté N° 650/MTP du 09/06/1964 portant concession de l'exploitation d'un aérodrome.](../../../arretes/1964/06/650-mtp-portant-concession-de-l-exploitation-d-un/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 651/MTPT du 09/06/1964 portant autorisation d'un aérodrome privé](../../../arretes/1964/06/651-mtpt-portant-autorisation-d-un-aerodrome-prive/index.md)
 - Ministère de l'Education nationale — [Arrêté N° 637/MFP-MEN du 09/06/1964 portant organisation de l'examen du Brevet Supérieur d'Etudes Normales](../../../arretes/1964/06/637-mfp-men-portant-organisation-de-l-examen-du-brevet/index.md)
+- Ministère de l'Education nationale — [Arrêté N° 638/MFP-MEN du 09/06/1964 portant organisation des Écoles Normales du Gabon.](../../../arretes/1964/06/638-mfp-men-portant-organisation-des-ecoles-normales-du-gabon/index.md)
