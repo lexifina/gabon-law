@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/11312-journal-officiel-n16/
 - Assemblée Nationale — [Loi N° 2/84 du 12/07/1984 autorisant l'Etat gabonais à contracter un emprunt de 20.115.706 FF auprès de la Banque Nationale de Paris (BNP).](../../../lois/1984/2-84-autorisant-l-etat-gabonais-a-contracter-un/index.md)
 - Assemblée Nationale — [Loi N° 3/84 du 12/07/1984 portant statut des syndics judiciaires](../../../lois/1984/3-84-portant-statut-des-syndics-judiciaires/index.md)
 - Assemblée Nationale — [Loi N° 4/84 du 12/07/1984 portant annulation des titres fonciers de propriétés forestières et agricoles](../../../lois/1984/4-84-portant-annulation-des-titres-fonciers-de/index.md)
+- Assemblée Nationale — [Loi N° 5/84 du 12/07/1984 portant répression des lettres et actes anonymes](../../../lois/1984/5-84-portant-repression-des-lettres-et-actes-anonymes/index.md)
