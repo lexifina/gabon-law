@@ -13,3 +13,4 @@ Source : https://www.journal-officiel.ga/13631-journal-officiel-n10-7eme/
 - Ministère des Travaux Publics — [Arrêté N° 312/MTP-PT du 16/03/1965 portant ouverture d'un Aérodrome à la Circulation Aérienne Publique.](../../../arretes/1965/03/312-mtp-pt-portant-ouverture-d-un-aerodrome-a-la-circulation/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 314/MTP-PT du 16/03/1965 portant ouverture d'un Aérodrome à la Circulation Aérienne Publique.](../../../arretes/1965/03/314-mtp-pt-portant-ouverture-d-un-aerodrome-a-la-circulation/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 315/MTP du 16/03/1965 portant concession de l'Exploitation d'un Aérodrome.](../../../arretes/1965/03/315-mtp-portant-concession-de-l-exploitation-d-un/index.md)
+- Ministère des Travaux Publics — [Arrêté N° 297/MTP du 11/03/1965 portant autorisation d'un Aérodrome Privé.](../../../arretes/1965/03/297-mtp-portant-autorisation-d-un-aerodrome-prive/index.md)
