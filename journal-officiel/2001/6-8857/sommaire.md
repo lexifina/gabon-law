@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/8857-journal-officiel-n6/
 - Assemblée Nationale — [Loi N° 3/2001 du 26/01/2001 autorisant la ratification de l'acte constitutif de l'Union africaine.](../../../lois/2001/3-2001-autorisant-la-ratification-de-l-acte-constitutif-9009/index.md)
 - Assemblée Nationale — [Loi N° 21/2000 du 10/01/2001 déterminant les principes fondamentaux de l'enseignement supérieur en République gabonaise.](../../../lois/2001/21-2000-determinant-les-principes-fondamentaux-de-l/index.md)
 - Assemblée Nationale — [Loi N° 22/2000 du 10/01/2001 déterminant les principes fondamentaux de la recherche scientifique en République gabonaise.](../../../lois/2001/22-2000-determinant-les-principes-fondamentaux-de-la-8998/index.md)
+- Assemblée Nationale — [Loi N° 12/96 du 28/02/2000 portant statut particulier des fonctionnaires du secteur diplomatie](../../../lois/2000/12-96-portant-statut-particulier-des-fonctionnaires-du/index.md)
