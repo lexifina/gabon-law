@@ -1,0 +1,5 @@
+# Journal officiel n°7 du 1971-04-01
+
+Source : https://www.journal-officiel.ga/16098-journal-officiel-n7/
+
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 15/71 du 04/03/1971 accordant l'aval de l'Etat à un emprunt de 45 millions de francs de la Commune de Libreville auprès de la B.G.D.](../../../ordonnances/1971/15-71-accordant-l-aval-de-l-etat-a-un-emprunt-de-45/index.md)
