@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/12717-journal-officiel-n19-et-21bis/
 - MINISTERE DE LA DEFENSE NATIONALE — [Ordonnance N° 35/77/PR du 13/08/1977 portant assimilation à des fonctions ministérielles](../../../ordonnances/1977/35-77-pr-portant-assimilation-a-des-fonctions/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 742/PR du 10/08/1977 portant abrogation](../../../decrets/1977/08/742-pr-portant-abrogation/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 743/PR du 10/08/1977 fixant la rémunération du Vice-président de la Cour Suprême et du Vice-président du Conseil économique et social](../../../decrets/1977/08/743-pr-fixant-la-remuneration-du-vice-president-de-la/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 728/PR du 05/08/1977 fixant la rémunération de certains hauts fonctionnaires](../../../decrets/1977/08/728-pr-fixant-la-remuneration-de-certains-hauts/index.md)
