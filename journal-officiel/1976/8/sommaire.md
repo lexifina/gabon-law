@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/13567-journal-officiel-n8-9/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 394/PR-SN du 03/04/1976 portant création d'une Ecole nationale supérieure de police](../../../decrets/1976/04/394-pr-sn-portant-creation-d-une-ecole-nationale-superieure/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 395/PR-SN du 03/04/1976 portant création du Centre d'instruction et d'application de police d'Owendo](../../../decrets/1976/04/395-pr-sn-portant-creation-du-centre-d-instruction-et-d/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 25/76 du 18/03/1976 fixant les conditions d'utilisation de la Force de police d'intervention (FOPI)](../../../ordonnances/1976/25-76-fixant-les-conditions-d-utilisation-de-la-force/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 24/76 du 17/03/1976 portant organisation du commandement des Forces armées](../../../ordonnances/1976/24-76-portant-organisation-du-commandement-des-forces/index.md)
