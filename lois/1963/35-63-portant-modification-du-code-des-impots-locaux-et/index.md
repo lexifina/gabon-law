@@ -1,0 +1,55 @@
+# Loi N° 35/63 du 22/11/1963 portant modification du Code des Impôts locaux et des Taxes assimilées aux Impôts directs
+
+- Nature: Loi
+- Numéro: 35/63
+- Date du texte: 1963-11-22
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°1 du 1964-01-01
+- Source: https://www.journal-officiel.ga/12871-35-63/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article premier](art-001-2.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 3 bis](art-003-bis.md)
+  - [Article 12](art-012.md)
+  - [Article 15](art-015.md)
+  - [Article 21](art-021.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 30](art-030.md)
+  - [Article 35](art-035.md)
+- Section XIII et art. 36, supprimés.
+  - [Article 41](art-041.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 51](art-051.md)
+  - [Article 53](art-053.md)
+  - [Article premier](art-001-3.md)
+  - [Article 3](art-003-2.md)
+  - [Article 6](art-006.md)
+- Section II - Au lieu de « établissement de la taxe », lire « établissement et calcul de la taxe ».
+  - [Article 8](art-008.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015-2.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article premier](art-001-4.md)
+  - [Article 2](art-002-2.md)
+  - [Article 3](art-003-3.md)
+- Paragraphe A, B, C supprimé, remplacés par les dispositions suivantes : « Les soldats pendant toute la durée de leur service militaire et pendant l'année qui suit leur libération ».
+- Paragraphe E : Au lieu de « Français », lire Gabonais ».
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006-2.md)
+  - [Article 8](art-008-2.md)
+  - [Article premier](art-001-5.md)
+  - [Article 2](art-002-3.md)
+  - [Article 5](art-005-2.md)
+  - [Article 6](art-006-3.md)
