@@ -37,3 +37,4 @@ Source : https://www.journal-officiel.ga/13879-journal-officiel-n1-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 43/64-ATEC-CA. du 13/11/1964](../../../autres/1964/deliberation-43-64-atec-ca/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 9/64 du 10/11/1964 portant approbation du programme F.A.C. 1964.](../../../autres/1964/deliberation-9-64-portant-approbation-du-programme-f-a-c-1964/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 5 CE/64 du 10/11/1964 portant approbation de l'Avenant à la Convention d'un emprunt contracté par l'Office Equatorial des Postes et Télécommunications auprès de la Caisse d'Epargne.](../../../autres/1965/deliberation-5-ce-64-du-10-11-1964-portant-approbation-de-l/index.md)
+- Ministère des Travaux Publics — [Arrêté N° 1.276/MTP du 08/12/1964 portant concession de l'Exploitation d'un Aérodrome.](../../../arretes/1964/12/1-276-mtp-portant-concession-de-l-exploitation-d-un/index.md)
