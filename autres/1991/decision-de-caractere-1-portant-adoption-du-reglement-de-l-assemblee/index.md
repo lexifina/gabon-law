@@ -1,0 +1,140 @@
+# DECISION DE CARACTERE GENERAL N° 1 du 11/06/1991 portant adoption du règlement de l'Assemblée nationale
+
+- Nature: DECISION DE CARACTERE GENERAL
+- Numéro: 1
+- Date du texte: 1991-06-11
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°12 du 1991-06-15
+- Source: https://www.journal-officiel.ga/9181-1/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+- TITRE Ier : ORGANISATION ET FONCTIONNEMENT DE L'ASSEMBLEE NATIONALE
+- Chapitre Ier : Dénomination des membres de l'Assemblée Nationale
+  - [Article premier](art-001-2.md)
+- Chapitre II : Bureau provisoire
+  - [Article 2](art-002-2.md)
+  - [Article 3](art-003.md)
+- Chapitre III : Admission des députés
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+- Chapitre IV: Bureau de l'Assemblée
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+- Chapitre V : Pouvoirs du bureau de l'Assemblée
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- Chapitre VI : Groupes parlementaires
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+- Chapitre VII : Commissions
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+- Chapitre VIII : Conférence des présidents ordre du jour
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+- Chapitre IX : Séances plénières
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+- Chapitre X : Publicités des séances
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+- Chapitre XI : Excuses et convocations
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+- Chapitre XII : Tenues des séances
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+- Chapitre XIII : Modes de votation
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+  - [Article 57](art-057.md)
+- Chapitre XIV : Discipline
+  - [Article 58](art-058.md)
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+- Chapitre XV : Immunité
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+- TITRE II : PROCEDURE LEGISLATIVE
+- Chapitre I : Dépôt des projets et propositions de loi
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+- Chapitre II : Travaux législatifs des commissions
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+- Chapitre III : Ordre du jour de l'Assemblée
+  - [Article 79](art-079.md)
+- Chapitre IV : Débats
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+- Chapitre V : Procédures législatives spéciales
+  - [Article 82](art-082.md)
+  - [Article 83](art-083.md)
+- TITRE III : CONTROLE PARLEMENTAIRE
+- Chapitre I : Messages et communications
+  - [Article 84](art-084.md)
+- Chapitre II : Questions écrites et orales
+  - [Article 85](art-085.md)
+  - [Article 86](art-086.md)
+- Chapitre III : Commission d'enquête et de contrôle
+  - [Article 87](art-087.md)
+- Chapitre IV : Information des commissions
+  - [Article 88](art-088.md)
+- Chapitre V : Contrôle budgétaire
+  - [Article 89](art-089.md)
+- Chapitre VI : Mise en jeu de la responsabilité gouvernementale
+  - [Article 90](art-090.md)
+- Chapitre VII : Responsabilité pénale du président de la République et des membres du gouvernement
+  - [Article 91](art-091.md)
+  - [Article 92](art-092.md)
+- Chapitre IV : Dispositions diverses
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+  - [Article 95](art-095.md)
+  - [Article 96](art-096.md)
