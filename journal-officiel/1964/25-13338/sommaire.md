@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/13338-journal-officiel-n25-6eme/
 - Ministère des Travaux Publics — [Arrêté N° 1030/MTP du 22/09/1964 portant concession de l'exploitation d'un aérodrom](../../../arretes/1964/09/1030-mtp-portant-concession-de-l-exploitation-d-un-aerodrom/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 1/MTP du 22/09/1964 portant concession de l'exploitation d'un aérodrome](../../../arretes/1964/09/1-mtp-portant-concession-de-l-exploitation-d-un/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 01011/PR du 23/09/1964 portant attribution à titre exceptionnel du Mérite Gabonais.](../../../arretes/1964/09/01011-pr-portant-attribution-a-titre-exceptionnel-du/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 297/PR du 18/09/1964 Rapportant l’État de mise en garde dans la Région du Moyen-Ogooué](../../../decrets/1964/09/297-pr-rapportant-l-etat-de-mise-en-garde-dans-la-region/index.md)
