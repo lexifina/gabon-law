@@ -1,0 +1,5 @@
+# Journal officiel n°17 du 1977-08-01
+
+Source : https://www.journal-officiel.ga/12705-journal-officiel-n17-et-18/
+
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 642/PR du 13/07/1977 portant création de postes de délégués ministériels](../../../decrets/1977/07/642-pr-portant-creation-de-postes-de-delegues/index.md)
