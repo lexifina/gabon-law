@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/15344-journal-officiel-n6-numero-special/
 
 - Ministère de l'Economie et des Finances — [Arrêté N° 27/MENRS-IPN-DE2 du 03/02/1975 fixant les programmes de mathématiques dans les classes du premier cycle du second degré de la République gabonaise.](../../../arretes/1975/02/27-menrs-ipn-de2-fixant-les-programmes-de-mathematiques-dans-les/index.md)
+- Ministère de l'Economie et des Finances — [Décret N° 143/PR-MINECOFIN du 30/01/1975 modifiant le décret n° 963/PR-MINECOFIN du 22 juin 1974, portant attributions et organisation du ministère de l'Economie et des Finances.](../../../decrets/1975/01/143-pr-minecofin-modifiant-le-decret-n-963-pr-minecofin-du-22-juin/index.md)
