@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/11312-journal-officiel-n16/
 - Assemblée Nationale — [Loi N° 5/84 du 12/07/1984 portant répression des lettres et actes anonymes](../../../lois/1984/5-84-portant-repression-des-lettres-et-actes-anonymes/index.md)
 - Assemblée Nationale — [Loi N° 6/84 du 12/07/1984 portant organisation et fonctionnement du Conseil Economique et Social](../../../lois/1984/6-84-portant-organisation-et-fonctionnement-du-conseil/index.md)
 - Assemblée Nationale — [Loi N° 7/84 du 12/07/1984 portant réorganisation de l'Ecole Nationale des Eaux et Forêts (E. N. E. F. )](../../../lois/1984/7-84-portant-reorganisation-de-l-ecole-nationale-des/index.md)
+- Assemblée Nationale — [Loi N° 8/84 du 12/07/1984 autorisant la ratification du traité portant création de la Communauté économique des Etats de l'Afrique Centrale](../../../lois/1984/8-84-autorisant-la-ratification-du-traite-portant/index.md)
