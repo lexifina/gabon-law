@@ -1,0 +1,29 @@
+# Signatures
+
+Fait à Libreville, le 22 janvier 2004.
+
+Par le Président de la République,
+
+Chef de l'Etat
+
+El Hadj Omar BONGO ONDIMBA
+
+Le Premier Ministre,
+
+Chef du Gouvernement
+
+Jean François NTOUTOUME EMANE
+
+Le Ministre d’Etat, Ministre de l’Economie,
+
+Des Finances, du Budget et de la Privatisation
+
+Paul TOUNGUI.
+
+Le Ministre d’Etat, Ministre du Commerce,
+
+du Développement Industriel, Chargé du NEPAD
+
+Paul BIYOGHE MBA.
+
+<section class="
