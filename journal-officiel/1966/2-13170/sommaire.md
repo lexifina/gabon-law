@@ -16,3 +16,4 @@ Source : https://www.journal-officiel.ga/13170-journal-officiel-n2/
 - Ministère des Travaux Publics — [Arrêté N° 1352/ MTP-PT-PR du 10/12/1965 portant fermeture d'un aérodrome ouvert à la circulation aérienne publique](../../../arretes/1966/01/1352-mtp-pt-pr-du-10-12-1965-portant-fermeture-d-un/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 1230/MTP-PT-1PR du 04/11/1965 portant concession de l'exploitation de l'aérodrome de N'Goke](../../../arretes/1965/11/1230-mtp-pt-1pr-portant-concession-de-l-exploitation-de-l/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 1231/MTP-PT-PR du 04/11/1965 portant concession de l'exploitation de l'aérodrome d'Owendo.](../../../arretes/1965/11/1231-mtp-pt-pr-portant-concession-de-l-exploitation-de-l/index.md)
+- Ministère des Travaux Publics — [Décret N° 173/PR du 02/06/1965 réglementant les occupations du domaine public](../../../decrets/1965/06/173-pr-reglementant-les-occupations-du-domaine-public/index.md)
