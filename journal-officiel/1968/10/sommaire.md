@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/13381-journal-officiel-n10/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0362/PR du 05/04/1968 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale.](../../../arretes/1968/04/0362-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0351/PR du 04/04/1968 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatorial.](../../../arretes/1968/04/0351-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0334/PR du 02/04/1968 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale.](../../../arretes/1968/04/0334-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0335/PR du 02/04/1968 portant attribution à titre exceptionnel du Mérite Gabonais.](../../../arretes/1968/04/0335-pr-portant-attribution-a-titre-exceptionnel-du/index.md)
