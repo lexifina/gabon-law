@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/10720-journal-officiel-n15-et-16/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1046/PR du 29/07/1987 portant promulgation de la loi N° 1/87](../../../decrets/1987/07/1046-pr-portant-promulgation-de-la-loi-n-1-87/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 2051/PR du 25/07/1987 relatif aux attributions du Porte-parole de la Présidence de la République.](../../../arretes/1987/07/2051-pr-relatif-aux-attributions-du-porte-parole-de-la/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 1/87 du 28/07/1987 instituant la protection du droit d'auteur et des droits voisins](../../../lois/1987/1-87-instituant-la-protection-du-droit-d-auteur-et-des/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 2/87 du 28/07/1987 modifiant la loi 7/76 du /0 novembre 1976, portant dénomination des Départements des Provinces de la République.](../../../lois/1987/2-87-modifiant-la-loi-7-76-du-0-novembre-1976-portant/index.md)
