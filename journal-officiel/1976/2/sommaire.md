@@ -14,3 +14,4 @@ Source : https://www.journal-officiel.ga/13361-journal-officiel-n2/
 - ASSEMBLEE NATIONALE — [Loi N° 8/75 du 18/12/1975 complétant certaines dispositions du Code de l'Enregistrement](../../../lois/1975/8-75-completant-certaines-dispositions-du-code-de-l/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 9/75 du 18/12/1975 autorisant le Président de la République à contracter un emprunt auprès de la Communauté Economique Européenne.](../../../lois/1975/9-75-autorisant-le-president-de-la-republique-a/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 11/75 du 18/12/1975 modifiant les articles 52 et 53 du Code du Travail](../../../lois/1975/11-75-modifiant-les-articles-52-et-53-du-code-du-travail/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 12/75 du 18/12/1975 abrogeant et remplaçant la loi n°4/75, portant réorganisation de la République gabonaise](../../../lois/1975/12-75-abrogeant-et-remplacant-la-loi-n-4-75-portant/index.md)
