@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/9840-journal-officiel-n27/
 - ASSEMBLEE NATIONALE — [Loi N° 19/93 du 25/08/1993 portant modification et abrogation de certains articles du code pénal.](../../../lois/1993/19-93-portant-modification-et-abrogation-de-certains/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 20/93 du 25/08/1993 fixant statut particulier des greffiers.](../../../lois/1993/20-93-fixant-statut-particulier-des-greffiers/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 13/93 du 24/08/1993 autorisant la ratification de la convention de Vienne pour la protection de la couche d'ozone, et du protocole de Montréal.](../../../lois/1993/13-93-autorisant-la-ratification-de-la-convention-de/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 16/93 du 22/08/1993 relative à la protection et à l'amélioration de l'environnement.](../../../lois/1993/16-93-relative-a-la-protection-et-a-l-amelioration-de-l/index.md)
