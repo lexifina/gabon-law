@@ -13,3 +13,4 @@ Source : https://www.journal-officiel.ga/13361-journal-officiel-n2/
 - MINISTERE DE L'ECONOMIE ET DES FINANCES — [Décret N° 15/PR-MINECOFIN du 06/01/1976 portant règlement général sur la comptabilité publique](../../../decrets/1976/01/15-pr-minecofin-portant-reglement-general-sur-la-comptabilite/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 8/75 du 18/12/1975 complétant certaines dispositions du Code de l'Enregistrement](../../../lois/1975/8-75-completant-certaines-dispositions-du-code-de-l/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 9/75 du 18/12/1975 autorisant le Président de la République à contracter un emprunt auprès de la Communauté Economique Européenne.](../../../lois/1975/9-75-autorisant-le-president-de-la-republique-a/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 11/75 du 18/12/1975 modifiant les articles 52 et 53 du Code du Travail](../../../lois/1975/11-75-modifiant-les-articles-52-et-53-du-code-du-travail/index.md)
