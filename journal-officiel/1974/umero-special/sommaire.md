@@ -24,3 +24,4 @@ Source : https://www.journal-officiel.ga/16591-journal-officiel-navril-numero-sp
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 283/PR du 15/03/1974 relatif aux attributions du ministre d'Etat, chargé de la Coordination économique à la Présidence de la République, chargé de mission, représentant personnel du Chef de l'Etat.](../../../decrets/1974/03/283-pr-relatif-aux-attributions-du-ministre-d-etat/index.md)
 - Assemblée Nationale — [Loi N° 7/73 du 20/12/1973 instituant un Code de justice militaire.](../../../lois/1973/7-73-instituant-un-code-de-justice-militaire/index.md)
 - Assemblée Nationale — [Loi N° 8/73 du 20/12/1973 portant statut des notaires](../../../lois/1973/8-73-portant-statut-des-notaires/index.md)
+- Assemblée Nationale — [Loi N° 10/73 du 20/12/1973 complétant la loi n° 7/72 du 5 juin 1972, réglementant la profession de commerçant exercée par les sociétés commerciales.](../../../lois/1973/10-73-completant-la-loi-n-7-72-du-5-juin-1972/index.md)
