@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/14248-journal-officiel-n21-22-17eme-/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 669/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Iboundji.](../../../arretes/1975/08/669-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 670/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Ngouoni.](../../../arretes/1975/08/670-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 671/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Bongoville.](../../../arretes/1975/08/671-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 672/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Poubara.](../../../arretes/1975/08/672-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
