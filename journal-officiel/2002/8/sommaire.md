@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/4363-journal-officiel-n8/
 - Assemblée Nationale — [Loi N° 6/2002 du 13/08/2002 Portant modification de certaines „ dispositions de la loi N° 4/85 du 27 juin 1985 relative aux lois de finances.](../../../lois/2002/6-2002-portant-modification-de-certaines-dispositions-de/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 18/2001 du 13/08/2002 fixant le régime particulier des pensions de retraite des membres du Sénat.](../../../lois/2002/18-2001-fixant-le-regime-particulier-des-pensions-de/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 1/02, du 13/08/2002 portant loi de finances rectificative pour l'exercice 2002.](../../../lois/2002/1-02-portant-loi-de-finances-rectificative-pour-l/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 2/02 du 13/08/2002 autorisant la ratification de l'ordonnance 2/02/PR portant restructuration de l'université Omar-Bongo.](../../../lois/2002/2-02-autorisant-la-ratification-de-l-ordonnance-2-02/index.md)
