@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/9705-journal-officiel-n13-et-14/
 - ASSEMBLEE NATIONALE — [Loi N° 8/93 du 04/04/1993 fixant le régime juridique de la production, du transport et de la distribution de l'eau potable et de l'énergie électrique.](../../../lois/1993/8-93-fixant-le-regime-juridique-de-la-production-du/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 9/93 du 04/04/1993 portant création du fonds spécial de l'eau.](../../../lois/1993/9-93-portant-creation-du-fonds-special-de-l-eau/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 10/93 du 04/04/1993 portant création du fonds spécial de l'électricité.](../../../lois/1993/10-93-portant-creation-du-fonds-special-de-l-electricite/index.md)
+- MINISTERE DES FINANCES,DU BUDGET ET DES PARTICIPATIONS — [Arrêté N° 24/MEFPE du 23/03/1993 fixant les avantages douaniers applicables aux pêcheries industrielles et artisanales.](../../../arretes/1993/03/24-mefpe-fixant-les-avantages-douaniers-applicables-aux/index.md)
