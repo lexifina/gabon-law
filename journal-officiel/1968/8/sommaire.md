@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/12914-journal-officiel-n8/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 8/68 du 01/03/1968 portant extension du délai d'expropriation dans la zone du chemin de fer OWENDO BELINGA.](../../../ordonnances/1968/8-68-portant-extension-du-delai-d-expropriation-dans/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 9/68 du 01/03/1968 complétant l'article 125 du Code Pénal.](../../../ordonnances/1968/9-68-completant-l-article-125-du-code-penal/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 7/68 du 29/02/1968 portant transferts de crédits au Budget de l'Etat (fonctionnement) exercice 1968.](../../../ordonnances/1968/7-68-portant-transferts-de-credits-au-budget-de-l-etat/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0230/PR-CM du 29/02/1968 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale.](../../../arretes/1968/02/0230-pr-cm-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
