@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/13043-journal-officiel-n18-6eme/
 - Ministère des Travaux Publics — [Arrêté N° 648/MTP du 09/06/1964 portant abrogation d'un arrêté et concession de l'exploitation d'un aérodrome.](../../../arretes/1964/06/648-mtp-portant-abrogation-d-un-arrete-et-concession-de-l/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 649/MTP du 09/06/1964 Portant concession de l'exploitation d'un aérodrome.](../../../arretes/1964/06/649-mtp-portant-concession-de-l-exploitation-d-un/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 650/MTP du 09/06/1964 portant concession de l'exploitation d'un aérodrome.](../../../arretes/1964/06/650-mtp-portant-concession-de-l-exploitation-d-un/index.md)
+- Ministère des Travaux Publics — [Arrêté N° 651/MTPT du 09/06/1964 portant autorisation d'un aérodrome privé](../../../arretes/1964/06/651-mtpt-portant-autorisation-d-un-aerodrome-prive/index.md)
