@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/14093-journal-officiel-n13-14/
 - MINISTERE DE L’INTERIEUR — [Arrêté N° 175/MI-DTCL du 10/06/1976 portant approbation du budget de l'exercice 1976 de la commune d'OYEM](../../../arretes/1976/06/175-mi-dtcl-portant-approbation-du-budget-de-l-exercice-1976/index.md)
 - MINISTERE DE L’INTERIEUR — [Arrêté N° 212/MI-DTCL du 01/06/1976 portant annulation de deux arrêtés des communes de LAMBARENE et de LIBREVILLE](../../../arretes/1976/06/212-mi-dtcl-portant-annulation-de-deux-arretes-des-communes/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 2/76 du 05/06/1976 instituant une taxe de 15% à la charge des lotisseurs](../../../lois/1976/2-76-instituant-une-taxe-de-15-a-la-charge-des/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 4/76 du 05/06/1976 autorisant le Président de la République à légiférer par ordonnances pendant la période d'intersession](../../../lois/1976/4-76-autorisant-le-president-de-la-republique-a/index.md)
