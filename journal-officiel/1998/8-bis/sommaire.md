@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/9980-journal-officiel-n8-bis/
 
 - MINISTERE DES FINANCES, DU BUDGET ET DES PARTICIPATIONS — [Arrêté N° 367/MFEBPP du 31/08/1998 portant réajustement des prix du sucre blanc en morceaux produit par la SOSUHO](../../../arretes/1998/08/367-mfebpp-portant-reajustement-des-prix-du-sucre-blanc-en/index.md)
+- MINISTERE DES FINANCES, DU BUDGET ET DES PARTICIPATIONS — [Arrêté N° 368/MFEBPP du 31/08/1998 portant réajustement des prix de vente maxima du sucre granulé roux, en sacs de 50 kg produit par la SOSUHO](../../../arretes/1998/08/368-mfebpp-portant-reajustement-des-prix-de-vente-maxima-du/index.md)
