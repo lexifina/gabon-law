@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/10748-journal-officiel-n14-et-15/
 - ASSEMBLEE NATIONALE — [Loi N° 2/86 du 17/06/1986 fixant le régime de retraite des anciens Présidents de la République.](../../../lois/1986/2-86-fixant-le-regime-de-retraite-des-anciens/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 3/86 du 17/06/1986 Fixant le régime de retraite des anciens Premiers Ministres](../../../lois/1986/3-86-fixant-le-regime-de-retraite-des-anciens-premiers/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 4/86 du 17/06/1986 portant régime spécial des pensions de retraite des Membres de l'Assemblée nationale.](../../../lois/1986/4-86-portant-regime-special-des-pensions-de-retraite/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 5/86 du 17/06/1986 fixant le régime d 'admission et de séjour des étrangers en République gabonaise.](../../../lois/1986/5-86-fixant-le-regime-d-admission-et-de-sejour-des/index.md)
