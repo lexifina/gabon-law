@@ -5,3 +5,4 @@ Source : https://www.journal-officiel.ga/16322-journal-officiel-n7-numero-specia
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 282/PR du 10/03/1974 portant modification de la composition du Gouvernement](../../../decrets/1974/03/282-pr-portant-modification-de-la-composition-du/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 233/PR du 25/02/1974 fixant la composition du Gouvernement](../../../decrets/1974/02/233-pr-fixant-la-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 234/PR du 25/02/1974 portant nomination de Hauts-Commissaires](../../../decrets/1974/02/234-pr-portant-nomination-de-hauts-commissaires/index.md)
+- MINISTERE DE L'INTERIEUR — [Arrêté N° 49/MI-CAB du 05/03/1974 fixant les conditions de représentation des quartiers de la ville de Koulamoutou dans les listes de candidatures aux élections municipales du 31 mars 1974.](../../../arretes/1974/03/49-mi-cab-fixant-les-conditions-de-representation-des/index.md)
