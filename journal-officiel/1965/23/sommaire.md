@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/14034-journal-officiel-n23-7eme/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 1132/PR-CAB du 08/10/1965 portant promotion à titre normal dans l’Ordre de l'Etoile Equatoriale.](../../../arretes/1965/10/1132-pr-cab-portant-promotion-a-titre-normal-dans-l-ordre-de/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 42/PR du 30/09/1965 Complétant les articles 38 et 67 de la loi n° 55 du 15 décembre 1959.](../../../ordonnances/1965/42-pr-completant-les-articles-38-et-67-de-la-loi-n-55/index.md)
