@@ -1,0 +1,60 @@
+# Loi N° 5/74 du 18/11/1974 approuvant le budget de l'Etat, exercice 1975.
+
+- Nature: Loi
+- Numéro: 5/74
+- Date du texte: 1974-11-18
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°1 du 1975-01-01
+- Source: https://www.journal-officiel.ga/15507-5-74/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- LIVRE PREMIER
+- TITRE PREMIER
+- TITRE II
+- TITRE III
+- SECTION I
+- Chapitre 300 Personnel .. .. .. ………………………………….. 1.008.500
+- SECTION II
+- SECTION III
+- SECTION IV
+- SECTION V
+- SECTION VI
+- SECTION VII
+- SECTION VIII
+- SECTION IX
+- SECTION X
+- SECTION XI
+- SECTION XII
+- SECTION XIII
+- SECTION XIV
+- SECTION XV
+- SECTION XVI
+- SECTION XVII
+- SECTION XVIII
+- SECTION XIX
+- SECTION XX
+- SECTION XXI
+- SECTION XXII
+- Chapitre 600 Personnel .. .. .. ……………………………..3.277.591
+- SECTION XXIII
+- SECTION XXIV
+- SECTION XXV
+- SECTION XXVI
+- SECTION XXVII
+- SECTION XXVIII
+- SECTION XXX
+- TITRE IV
+- TITRE V
+- TITRE VI
+- LIVRE II
+- PREMIERE PARTIE
+- TITRE PREMIER
+- TITRE II et suivants
+- DEUXIEME PARTIE
+- Livre premier Fonctionnement .. .. .. .. .. .. .. .. .. .. .. .. ……... ..44.185.291
+- Livre II Développement et équipement administratif .. .. .. .. ..107.262.709
+  - [Article 4](art-004.md)
