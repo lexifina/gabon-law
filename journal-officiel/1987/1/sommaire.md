@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/10067-journal-officiel-n1/
 - Assemblée Nationale — [Loi N° 18/86 du 31/12/1986 portant création de la Sécurité mobile.](../../../lois/1986/18-86-portant-creation-de-la-securite-mobile/index.md)
 - Assemblée Nationale — [Loi N° 19/86 du 31/12/1986 approuvant le budget de l'Etat, gestion 1987.](../../../lois/1986/19-86-approuvant-le-budget-de-l-etat-gestion-1987/index.md)
 - Assemblée Nationale — [Loi N° 20/86 du 31/12/1986 autorisant le Président de la République à légiférer par ordonnances pendant l'intersession parlementaire.](../../../lois/1986/20-86-autorisant-le-president-de-la-republique-a/index.md)
+- Ministère de l'Aviation civile et commerciale — [Décret N° 1913/PR/MACC du 18/12/1986 portant création d'un Comité national de facilitation au Gabon](../../../decrets/1986/12/1913-pr-macc-portant-creation-d-un-comite-national-de/index.md)
