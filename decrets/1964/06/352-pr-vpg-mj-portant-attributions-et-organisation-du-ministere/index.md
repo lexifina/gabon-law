@@ -1,0 +1,16 @@
+# Décret N° 352/PR-VPG-MJ du 17/06/1964 portant attributions et organisation du Ministère de la Justice
+
+- Nature: Décret
+- Numéro: 352/PR-VPG-MJ
+- Date du texte: 1964-06-17
+- Autorité: VICE-PRESIDENCE DU GOUVERNEMENT
+- Publication: Journal officiel n°15 du 1968-07-15
+- Source: https://www.journal-officiel.ga/14631-352-pr-vpg-mj-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
