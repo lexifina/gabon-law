@@ -1,0 +1,225 @@
+# Loi N° 13/92 du 11/03/1993 portant code électoral.
+
+- Nature: Loi
+- Numéro: 13/92
+- Date du texte: 1993-03-11
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°9 du 1993-03-01
+- Source: https://www.journal-officiel.ga/9415-13-92/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- LIVRE PREMIER DES DISPOSITIONS
+- TITRE I :
+- CHAPITRE PREMIER DE L'ELECTION EN GENERAL
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+- CHAPITRE DEUXIEME DES CONDITIONS REQUISES POUR ETRE ELECTEUR
+  - [Article 7](art-007.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- CHAPITRE TROISIEME DES ELIGIBILITES ET INCOMPATIBILITES
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- CHAPITRE QUATRIEME DE LA DETERMINATION DES ELUS
+  - [Article 14](art-014.md)
+- TITRE II DES CIRCONSCRIPTIONS ELECTORALES
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- TITRE III DES LISTES ELECTORALES
+- CHAPITRE PREMIER DE L'ORGANISATION
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+- CHAPITRE DEUXIEME DES CONDITIONS D'INSCRIPTION
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+- TITRE IV DES CARTES D'ELECTEUR
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+- TITRE V DE LA DECLARATION DE CANDIDATURE
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+- TITRE VI DES BULLETINS DE VOTE
+  - [Article 52](art-052.md)
+- TITRE VII DE LA PROPAGANDE ELECTORALE
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+- TITRE VIII DU VOTE
+- CHAPITRE PREMIER DU COLLEGE ELECTORAL
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- CHAPITRE DEUXIEME DES BUREAUX DE VOTE
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+- CHAPITRE QUATRIEME DE L'EXERCICE DU DROIT DE VOTE PAR L'ELECTEUR PRESENT AU BUREAU DE VOTE
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+- CHAPITRE CINQ MME DU VOTE PAR PROCURATION
+  - [Article 82](art-082.md)
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
+  - [Article 85](art-085.md)
+- CHAPITRE SIXIEME DES OPERATIONS POST-ELECTORALES
+  - [Article 86](art-086.md)
+  - [Article 87](art-087.md)
+  - [Article 88](art-088.md)
+  - [Article 89](art-089.md)
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+  - [Article 92](art-092.md)
+- CHAPITRE SEPTIEME DES RESULTATS ELECTORAUX
+- Section 1
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+  - [Article 95](art-095.md)
+  - [Article 96](art-096.md)
+  - [Article 97](art-097.md)
+  - [Article 98](art-098.md)
+  - [Article 99](art-099.md)
+  - [Article 100](art-100.md)
+- TITRE IX DU CONTENTIEUX ELECTORAL
+- CHAPITRE PREMIER DU CONTENTIEUX DE L'INSCRIPTION SUR LES LISTES ELECTORALES
+  - [Article 101](art-101.md)
+  - [Article 102](art-102.md)
+  - [Article 104](art-104.md)
+- CHAPITRE DEUXIEME DU CONTENTIEUX DES ELECTIONS
+  - [Article 105](art-105.md)
+  - [Article 106](art-106.md)
+  - [Article 107](art-107.md)
+  - [Article 109](art-109.md)
+  - [Article 110](art-110.md)
+  - [Article 111](art-111.md)
+  - [Article 112](art-112.md)
+  - [Article 113](art-113.md)
+  - [Article 114](art-114.md)
+  - [Article 115](art-115.md)
+  - [Article 116](art-116.md)
+  - [Article 117](art-117.md)
+  - [Article 118](art-118.md)
+  - [Article 119](art-119.md)
+  - [Article 120](art-120.md)
+- TITRE X DES DISPOSITIONS PENALES
+- CHAPITRE PREMIER DES DELITS ELECTORAUX
+  - [Article 121](art-121.md)
+  - [Article 122](art-122.md)
+  - [Article 123](art-123.md)
+  - [Article 124](art-124.md)
+- CHAPITRE DEUXIEME DES DELITS ELECTORAUX CONCOMITANTS AUX OPERATIONS DE VOTE
+  - [Article 125](art-125.md)
+- paragraphe 1, du code pénal ,
+  - [Article 126](art-126.md)
+  - [Article 127](art-127.md)
+  - [Article 128](art-128.md)
+  - [Article 129](art-129.md)
+  - [Article 130](art-130.md)
+  - [Article 131](art-131.md)
+- CHAPITRE TROISIEME DES INFRACTIONS POSTERIEURES AU
+  - [Article 132](art-132.md)
+  - [Article 133](art-133.md)
+  - [Article 134](art-134.md)
+  - [Article 135](art-135.md)
+  - [Article 136](art-136.md)
+  - [Article 137](art-137.md)
+- CHAPITRE QUATRIEME DES DISPOSITIONS DE PROCEDURE ET CONNEXES
+  - [Article 138](art-138.md)
+  - [Article 139](art-139.md)
+  - [Article 140](art-140.md)
+  - [Article 141](art-141.md)
+  - [Article 142](art-142.md)
+  - [Article 143](art-143.md)
+- LIVRE II DES DISPOSITIONS SPECIALES A CHAQUE CATEGORIE D'ELECTION
+  - [Article 144](art-144.md)
+- TITRE I DE LELECTION DU PRESIDENT
+  - [Article 145](art-145.md)
+- CHAPITRE DEUXIEME DES INCOMPATIBILITES
+  - [Article 148](art-148.md)
+  - [Article 149](art-149.md)
+  - [Article 150](art-150.md)
+  - [Article 151](art-151.md)
+- CHAPITRE TROISIEME DE LA CIRCONSCRIPTION ELECTORALE
+  - [Article 152](art-152.md)
+- CHAPITRE QUATRIEME DES ELECTEURS
+  - [Article 153](art-153.md)
+- CHAPITRE CINQUIEME DE LA DECLARATION DE CANDIDATURE
+  - [Article 154](art-154.md)
+- CHAPITRE SIXIEME DE LA CAMPAGNE ELECTORALE
+  - [Article 155](art-155.md)
+  - [Article 156](art-156.md)
+- CHAPITRE SEPTIEME DU COLLEGE ELECTORAL
+  - [Article 157](art-157.md)
+- CHAPITRE HUITIEME DE LA DETERMINATION DE L'ELU
+  - [Article 158](art-158.md)
+- TITRE II DE L'ELECTION DES DEPUTES A L'ASSEMBLEE
+  - [Article 161](art-161.md)
+- CHAPITRE DEUXIEME DES ELECTEURS
+  - [Article 162](art-162.md)
+- CHAPITRE TROISIEME DE LA DECLARATION DE CANDIDATURE
+  - [Article 163](art-163.md)
+- CHAPITRE QUATRIEME DE LA PROPAGANDE ELECTORALE
+  - [Article 164](art-164.md)
+  - [Article 165](art-165.md)
+- CHAPITRE CINQ MME DE L'INVESTITURE
+  - [Article 166](art-166.md)
+  - [Article 167](art-167.md)
+- CHAPITRE SIXIEME DES INTERDICTIONS
+  - [Article 168](art-168.md)
+  - [Article 169](art-169.md)
+  - [Article 170](art-170.md)
+- CHAPITRE HUITIEME DE LA DESIGNATION DES ELUS
+  - [Article 171](art-171.md)
+  - [Article 172](art-172.md)
+  - [Article 173](art-173.md)
+- CHAPITRE NEUVIEME DU CABINET DU DEPUTE
+  - [Article 174](art-174.md)
+- TITRE III DU REFERENDUM
+  - [Article 175](art-175.md)
+  - [Article 176](art-176.md)
+  - [Article 177](art-177.md)
+  - [Article 178](art-178.md)
+  - [Article 179](art-179.md)
+  - [Article 180](art-180.md)
+  - [Article 181](art-181.md)
+  - [Article 182](art-182.md)
+  - [Article 183](art-183.md)
