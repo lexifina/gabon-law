@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/12508-journal-officiel-n36/
 - Assemblée Nationale — [Loi N° 14/64 du 29/10/1964 portant création de l'Office des Postes et Télécommunications de la République Gabonaise](../../../lois/1964/14-64-portant-creation-de-l-office-des-postes-et/index.md)
 - Assemblée Nationale — [Loi N° 15/64 du 29/10/1964 portant création de la Société Gabonaise de Presse (SOGAPRESSE).](../../../lois/1964/15-64-portant-creation-de-la-societe-gabonaise-de/index.md)
 - Assemblée Nationale — [Loi N° 16/64 du 29/10/1964 modifiant une disposition du décret-loi n° 24/PM du 30 décembre 1960 portant institution d'un Code Electoral](../../../lois/1964/16-64-modifiant-une-disposition-du-decret-loi-n-24-pm/index.md)
+- Assemblée Nationale — [Loi N° 17/64 du 29/10/1964 portant création d'une Agence Gabonaise de promotion industrielle et artisanale](../../../lois/1964/17-64-portant-creation-d-une-agence-gabonaise-de/index.md)
