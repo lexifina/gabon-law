@@ -1,0 +1,8 @@
+# Journal officiel n°3 du 1993-01-31
+
+Source : https://www.journal-officiel.ga/9286-journal-officiel-n3-et-4/
+
+- COUR CONSTITUTIONNELLE — Décision N° 2/CC du 28/01/1993 relative aux requêtes du Forum africain pour la reconstruction, F.A.R. ; du sieur AGONDJO OKAWE Pierre, Louis, président du Parti gabonais du progrès, P.G.P. et de dix-sept députés des partis de l'opposition. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 1/CC du 21/01/1993 relative à une requête présentée par l'Union des associations, des syndicats, des organisations humanitaires non gouvernementales dite EKAMA, aux fins de voir déclarer inconstitutionnelle la loi N °18/92, fixant les conditions de constitution et le fonctionnement des organisations syndicales des agents de l'Etat. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 1/CC du 21/01/1993 relative à une requête présentée par l'Union des associations, des syndicats, des organisations humanitaires non gouvernementales dite EKAMA, aux fins de voir déclarer inconstitutionnelle la loi N ° 18/92, fixant les conditions de constitution et le fonctionnement des organisations syndicales des agents de l'Etat. (jurisprudence, dépôt séparé)
+- MINISTERE DE LA PLANIFICATION, DE L'ECONOMIE ET DE L'AMENAGEMENT DU TERRITOIRE — [Arrêté N° 4/MPEAT/SG/DGPEE/SMI du 27/01/1993 portant fixation et révision des charges locatives dans les immeubles et locaux à usage d'habitation et à usage mixte.](../../../arretes/1993/01/4-mpeat-sg-dgpee-smi-portant-fixation-et-revision-des-charges/index.md)
