@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/12625-journal-officiel-n16/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 32/77 du 13/07/1977 créant un poste de Commissaire politique](../../../ordonnances/1977/32-77-creant-un-poste-de-commissaire-politique/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 640/PR du 13/07/1977 portant composition du Gouvernement](../../../decrets/1977/07/640-pr-portant-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 641/PR du 13/07/1977 portant nomination de Secrétaires d'État](../../../decrets/1977/07/641-pr-portant-nomination-de-secretaires-d-etat/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 29/77 du 07/07/1977 instituant une couverture des frais d'hospitalisation dans les formations sanitaires de type universitaire ont de première catégorie.](../../../ordonnances/1977/29-77-instituant-une-couverture-des-frais-d/index.md)
