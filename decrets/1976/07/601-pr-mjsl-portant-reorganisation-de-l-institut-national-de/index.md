@@ -1,0 +1,52 @@
+# Décret N° 601/PR-MJSL du 10/07/1976 portant réorganisation de l'Institut National de la Jeunesse et des Sports
+
+- Nature: Décret
+- Numéro: 601/PR-MJSL
+- Date du texte: 1976-07-10
+- Autorité: MINISTERE DE LA JEUNESSE ET DES SPORTS
+- Publication: Journal officiel n°17 du 1976-08-01
+- Source: https://www.journal-officiel.ga/14139-601-pr-mjsl-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- TITRE PREMIER
+  - [Article premier](art-001.md)
+- TITRE II
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 10](art-010.md)
+- TITRE III
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+- TITRE IV
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+- TITRE V
+  - [Article 27](art-027.md)
+- TITRE VI
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
