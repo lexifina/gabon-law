@@ -1,0 +1,68 @@
+# Loi N° 17/72 du 14/12/1972 approuvant le budget de l'Etat, exercice 1973.
+
+- Nature: Loi
+- Numéro: 17/72
+- Date du texte: 1972-12-14
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°1 du 1973-01-15
+- Source: https://www.journal-officiel.ga/12881-17-72-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- LIVRE PREMIER
+- TITRE PREMIER
+- TITRE Il
+- TITRE III
+- SECTION I
+- SECTION II
+- SECTION III
+- SECTION IV
+- SECTION V
+- SECTION VI
+- SECTION VII
+- SECTION VIII JUSTICE
+- SECTION IX
+- SECTION X
+- SECTION XI
+- SECTION XII
+- SECTION XIII
+- SECTION XIV
+- SECTION XV
+- SECTION XVI
+- SECTION XVII ;
+- SECTION XVIII
+- Chapitre 560 Personnel ................................................... .................................30.500.000
+- SECTION XIX
+- SECTION XX
+- SECTION XXI
+- SECTION XXII :
+- Chapitre 600 Personnel ..................................................................................1.269.080.000
+- SECTION XXIII
+- Chapitre 610 P ersonucl ................................................... ...............................16.000.000
+- SECTION XXVI
+- Chapitre 620 Personnel ................................................... ...............................900.670.000
+- SECTION XXV
+- Chapitre 630 Personnel ................................................... ...........................105.000.0O0
+- SECTION XXVI
+- SECTION XXVII
+- SECTION XXVIII
+- TITRE IV
+- Chapitre 712 Main - d'OEuvre ............................................... .....................17.000.000
+- TITRE. V
+- TITRE V
+- Chapitre 979 Secours ...................................................................................... .....44.0000.0OO
+- Chapitre 989 Dépense d'ordre . . ..................... .. .... ........................................... ...40.000.000
+- LIVRE II
+- TITRE PREMIER
+- Chapitre III Dette publique sur opérations de développement .............................. ..4.526.141.000
+- TITRE, II et suivants
+- LIVRE III
+- Titre premier. - DEPENSES DE DEVELOI'PEMENT ........................ ..................3.569 .703.000
+- Titre II. EQUIPEMENT ADMINISTRATIF .......... .......................
+- Livre premier. - FONCTIONNEMENT .................................... ...........22.213.009.000
+- Livre Il. - D'ELOPPEMENT ET EQUIPT. ADMINIST ...................... ........ 9.920.674-000
+- Livre III - OPERATIONS & FINANCER SUR RESSOURCES
+  - [Article 4](art-004.md)
