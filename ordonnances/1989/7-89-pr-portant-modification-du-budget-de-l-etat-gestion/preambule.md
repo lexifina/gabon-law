@@ -1,0 +1,19 @@
+# Préambule et visas
+
+Le Président de la République, Chef de l'Etat ;
+
+Vu la Constitution ;
+
+Vu les décrets N°s 1111 /PR et 1112/PR du 18 octobre 1988, fixant la composition du Gouvernement, ensemble les textes modificatifs subséquents ;
+
+Vu la loi N° 25/88 du 30 décembre 1988, approuvant le budget de l'Etat, gestion 1989 ;
+
+Vu la loi N° 10/89 du 6 juillet 1989, autorisant le Président de la République à légiférer par ordonnances pendant la période d'intersession parlementaire ;
+
+La Chambre administrative de la Cour suprême consultée ;
+
+Le Conseil des Ministres entendu ;
+
+O R D O N N E :
+
+TITRE I.- EVALUATION DES VOIES ET MOYENS
