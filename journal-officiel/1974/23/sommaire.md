@@ -1,0 +1,5 @@
+# Journal officiel n°23 du 1974-10-01
+
+Source : https://www.journal-officiel.ga/16409-journal-officiel-n23-et-24/
+
+- MINISTERE DE L'INTERIEUR — [Décret N° 1284/PR/MI/RA/SVPG/HC/TC du 04/10/1974 portant approbation du budget additionnel, exercice 1974, de la collectivité rurale de Lambaréné.](../../../decrets/1974/10/1284-pr-mi-ra-svpg-hc-tc-portant-approbation-du-budget-additionnel/index.md)
