@@ -1,0 +1,5 @@
+# Journal officiel n°12 du 1994-12-01
+
+Source : https://www.journal-officiel.ga/9038-journal-officiel-n12/
+
+- ASSEMBLEE NATIONALE — [Loi N° 14/94 du 23/12/1994 fixant le régime général des pensions de l'Etat.](../../../lois/1994/14-94-fixant-le-regime-general-des-pensions-de-l-etat/index.md)
