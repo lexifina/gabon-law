@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/12570-journal-officiel-n5-6eme/
 - MINISTERE DES FINANCES — [Arrêté N° 2/MF-DF/F du 06/01/1964](../../../arretes/1964/01/2-mf-df-f/index.md)
 - MINISTERE DES FINANCES — [Arrêté N° 1/DF-CA du 04/01/1964 accordant une dérogation totale pour tous véhicules affectés aux chantiers Igombiné I, Igombiné II, Maga, Remboué et Foulenzem](../../../arretes/1964/01/1-df-ca-accordant-une-derogation-totale-pour-tous/index.md)
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 41/PR/MI-AG du 08/01/1964](../../../arretes/1964/01/41-pr-mi-ag/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 6/PR du 04/01/1964 d'extension des Conventions Collectives concernant les Entreprises commerciales, les Entreprises de Bâtiments et Travaux Publics, les Entreprises Industrielles et de Transport et les Entreprises d'exploitations Forestières et assimilées du Gabon.](../../../decrets/1964/01/6-pr-d-extension-des-conventions-collectives/index.md)
