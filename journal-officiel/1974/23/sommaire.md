@@ -24,3 +24,4 @@ Source : https://www.journal-officiel.ga/16409-journal-officiel-n23-et-24/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1271/PR du 27/09/1974 portant création d'une direction du Chiffre et des Transmissions.](../../../decrets/1974/09/1271-pr-portant-creation-d-une-direction-du-chiffre-et/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1272/PR du 27/09/1974 portant création du département des Affaires africaines et internationales.](../../../decrets/1974/09/1272-pr-portant-creation-du-departement-des-affaires/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1248/PR du 24/09/1974 fixant la rémunération de certains hauts fonctionnaires de la Présidence de la République.](../../../decrets/1974/09/1248-pr-fixant-la-remuneration-de-certains-hauts/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 1236/PR du 20/09/1974 portant contingentement de la production d'okoumé.](../../../decrets/1974/09/1236-pr-portant-contingentement-de-la-production-d-okoume/index.md)
