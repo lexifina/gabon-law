@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/12627-journal-officiel-n4/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 0098/PR-SGG-C du 27/01/1968 définissant les services et les attributions du Secrétariat Général du Gouvernement.](../../../arretes/1968/01/0098-pr-sgg-c-definissant-les-services-et-les-attributions-du/index.md)
 - PRESIDENCE DE LA REPUBLIQUE —  N° 31/PR du 25/01/1968 fixant la composition du Gouvernement. (non repris)
 - MINISTERE DES FINANCES ET DU BUDGET — [Arrêté N° 003/MF-DF-B du 23/01/1968 portant transfert, de crédits au Budget de l'Etat (Fonctionnement), exercice 1968.](../../../arretes/1968/01/003-mf-df-b-portant-transfert-de-credits-au-budget-de-l-etat/index.md)
+- MINISTERE DES FINANCES ET DU BUDGET — [Arrêté N° 0064/MFB-DF-CAB du 15/12/1967 prescrivant l'emploi de nouveaux carnets de commande par les administrateurs de crédits.](../../../arretes/1967/12/0064-mfb-df-cab-prescrivant-l-emploi-de-nouveaux-carnets-de/index.md)
