@@ -1,0 +1,15 @@
+# Préambule et visas
+
+LE MINISTRE DE L'ECONOMIE NATIONALE DU PLAN ET DES MINES ;
+
+Sur le rapport du Directeur des Mines ;
+
+Vu la loi constitutionnelle n °1-61 du 21 février 1961;
+
+Vu le décret n° 246/PR-MTP du 14 octobre 1961, réglementant l'établissement et l'exploitation des dépôts d'hydrocarbures ;
+
+Vu la demande du pétitionnaire en date du 11 mai 1966 ;
+
+Vu le certificat d'affichage et de non opposition établi le 11 juillet 1966 par M. le Maire de Libreville ;
+
+ARRETE :
