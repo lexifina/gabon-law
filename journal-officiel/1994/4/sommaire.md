@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/8608-journal-officiel-n4/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 391/PR du 24/04/1994 portant désignation du ministre assurant l'intérim du ministre du Contrôle d'Etat, de la Décentralisation, de l'Aménagement du territoire et de l'Intégration régional.](../../../decrets/1994/04/391-pr-portant-designation-du-ministre-assurant-l/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 392/PR du 24/04/1994 portant suppression de la fonction de secrétaire d'Etat auprès du ministre de la Santé publique.](../../../decrets/1994/04/392-pr-portant-suppression-de-la-fonction-de-secretaire/index.md)
