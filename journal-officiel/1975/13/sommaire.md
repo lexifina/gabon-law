@@ -30,3 +30,4 @@ Source : https://www.journal-officiel.ga/14682-journal-officiel-n13-14-/
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 143/MSG du 15/04/1975 désaffectant le cimetière de Lalala.](../../../arretes/1975/04/143-msg-desaffectant-le-cimetiere-de-lalala/index.md)
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 148/MSG du 15/04/1975 créant le cimetière d'Ambowe.](../../../arretes/1975/04/148-msg-creant-le-cimetiere-d-ambowe/index.md)
 - MINISTERE DE L'INTERIEUR — [Décret N° 346/PR-MI.RA.SVPG-HC-TC du 10/04/1975 portant approbation du budget additionnel, exercice 1974, de la collectivité rurale d'Oyem.](../../../decrets/1975/04/346-pr-mi-ra-svpg-hc-tc-portant-approbation-du-budget-additionnel/index.md)
+- MINISTERE DE L'INTERIEUR — [Décret N° 347/PR-MI.RA.SVPG-HC-TC du 10/04/1975 portant approbation du budget primitif, exercice 1975, de la collectivité rurale d'Oyem.](../../../decrets/1975/04/347-pr-mi-ra-svpg-hc-tc-portant-approbation-du-budget-primitif-exercice/index.md)
