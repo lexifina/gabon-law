@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/14483-journal-officiel-n24/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 64/76 du 02/10/1976 créant une Délégation générale au Réfugiés](../../../ordonnances/1976/64-76-creant-une-delegation-generale-au-refugies/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — Ordonnance N° 59/76 du 01/10/1976 portant protection des Mineurs (non repris)
 - MINISTERE DES POSTES ET TELECOMMUNICATIONS — [Ordonnance N° 57/76 du 01/10/1976 modifiant l'article 755 du Code des Postes et Télécommunications de la République gabonaise](../../../ordonnances/1976/57-76-modifiant-l-article-755-du-code-des-postes-et/index.md)
+- Présidence de la République — [Ordonnance N° 56/76/PR du 27/09/1976 autorisant l'Etat gabonais à contracter un emprunt d'un montant de douze millions de dollars U.S.](../../../ordonnances/1976/56-76-pr-autorisant-l-etat-gabonais-a-contracter-un/index.md)
