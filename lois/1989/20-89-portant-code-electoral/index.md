@@ -1,0 +1,309 @@
+# Loi N° 20/89 du 30/12/1989 portant code électoral
+
+- Nature: Loi
+- Numéro: 20/89
+- Date du texte: 1989-12-30
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°13 du 1989-12-01
+- Source: https://www.journal-officiel.ga/10593-20-89/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- LIVRE PREMIER: DISPOSITIONS COMMUNES AUX ELECTIONS POLITIQUES
+- TITRE PREMIER: DISPOSITIONS GENERALES
+- CHAPITRE I :DE L'ELECTION EN GENERAL
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+- CHAPITRE II: CONDITION'S REQUISES POUR ETRE ELECTEUR
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- CHAPITRE III: ELIGIBILITES ET INCOMPATIBILITES
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- CHAPITRE IV: DETERMINATION DES ELUS
+  - [Article 14](art-014.md)
+- TITRE II: DES CIRCONSCRIPTIONS ELECTORALES
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- TITRE III: DES LISTES ELECTORALES
+- CHAPITRE I: ORGANISATION
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+- CHAPITRE II:CONDITIONS D'INSCRIPTION
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+- TITRE IV: DES CARTES ELECTORALES
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+- TITRE V: DE LA DECLARATION DE CANDIDATURE
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+- TITRE VI: DES BULLETIINS DE VOTE
+  - [Article 51](art-051.md)
+- TITRE VII: DE LA PROPAGANDE ELECTORALE
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+- TITRE VIII: DU VOTE
+- CHAPITRE I: DU COLLEGE ELECTORAL
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- CHAPITRE II: DES BUREAUX DE VOTE
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+- CHAPITRE III: DE L'ORGANISATION' DES OPERATIONS ELETORALES
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+- CHAPITRE IV: DE l'EXERCICE DU DROIT DE VOTE PAR L.'ELECTEUR PRESENT AU BUREAU DE VOTE
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+- CHAPITRE V : DU VOTE PAR PROCURATION
+  - [Article 82](art-082.md)
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
+  - [Article 85](art-085.md)
+- CHAPITRE VI: DES OPERATIONS POST-ELECTORALES
+  - [Article 86](art-086.md)
+  - [Article 87](art-087.md)
+  - [Article 88](art-088.md)
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+- CHAPITRE VII: DES RESULTATS ELECTORAUX
+- Section 1: de la Commission Provinciale de centralisation des résultats électoraux
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+  - [Article 95](art-095.md)
+  - [Article 96](art-096.md)
+- Section 2: De la Commission Nationale de centralisation des resultat éléctoraux
+  - [Article 97](art-097.md)
+  - [Article 98](art-098.md)
+  - [Article 99](art-099.md)
+  - [Article 100](art-100.md)
+- CHAPITRE VIII: DESCOMMISSIONS DE CONTROLE DU VOTE
+  - [Article 101](art-101.md)
+  - [Article 102](art-102.md)
+  - [Article 103](art-103.md)
+  - [Article 104](art-104.md)
+- TITRE IX: CONTENTIEUX ELECTORAL
+- CHAPITRE IX: DU CONTENTIEUX DE L'INSCRIPTION SUR LES LISTES ELECTORALES
+  - [Article 105](art-105.md)
+  - [Article 107](art-107.md)
+- CHAPITRE X: DU CONTENTIEUX DES ELECTIONS
+  - [Article 109](art-109.md)
+  - [Article 110](art-110.md)
+  - [Article 111](art-111.md)
+  - [Article 112](art-112.md)
+  - [Article 113](art-113.md)
+  - [Article 114](art-114.md)
+  - [Article 115](art-115.md)
+  - [Article 116](art-116.md)
+  - [Article 117](art-117.md)
+  - [Article 118](art-118.md)
+  - [Article 119](art-119.md)
+  - [Article 120](art-120.md)
+  - [Article 121](art-121.md)
+  - [Article 122](art-122.md)
+- CHAPITRE XI: DISPOSITIONS C0MMUNES
+  - [Article 123](art-123.md)
+  - [Article 124](art-124.md)
+  - [Article 125](art-125.md)
+- TITRE X: DISPOSITIONS PENALLS
+- CHAPITRE I: DELITS ELECTORALX AN'TERIEURS AUX OPERATIONS DE VOTE
+  - [Article 126](art-126.md)
+  - [Article 127](art-127.md)
+  - [Article 128](art-128.md)
+  - [Article 129](art-129.md)
+- CHAPITRE II: DELITS ELECTORAUX CONCOMITANTS AUX OPERATIONS DE VOTE
+  - [Article 130](art-130.md)
+  - [Article 131](art-131.md)
+  - [Article 132](art-132.md)
+  - [Article 133](art-133.md)
+  - [Article 134](art-134.md)
+  - [Article 135](art-135.md)
+  - [Article 136](art-136.md)
+- CHAPITRE III: INFRACTIONS POSTERIEURES AU VOTE OU SE RAPPORTANTA PLUSIEURS PHASES DE LA CONSULTATION ELEC'TORALE
+  - [Article 137](art-137.md)
+  - [Article 138](art-138.md)
+  - [Article 139](art-139.md)
+  - [Article 140](art-140.md)
+  - [Article 141](art-141.md)
+  - [Article 142](art-142.md)
+- CHAPITRE IV: DISPOSITIONS DE PROCEDURE ET CONNEXES
+  - [Article 143](art-143.md)
+  - [Article 144](art-144.md)
+  - [Article 145](art-145.md)
+  - [Article 146](art-146.md)
+  - [Article 147](art-147.md)
+  - [Article 148](art-148.md)
+- LIVRE II: DISPOSITIONS SPECIALES A CHAQUE CATEGORIE D'ELECTIONS
+  - [Article 149](art-149.md)
+- TITRE I : DE L'ELECTION DU PRESIDENT DE LA REPUBLIQUE
+- CHAPITRE I: DISPOSITIONS GENERALES
+  - [Article 150](art-150.md)
+  - [Article 151](art-151.md)
+- CHAPITRE II: ELIGIBILITE, INVESTITURE ET INCOMPATIBILITE
+- Section 1: de l'éligibilité
+  - [Article 152](art-152.md)
+- Section 2: de l'investiture
+  - [Article 153](art-153.md)
+- Section 3: des incompatibilités
+  - [Article 154](art-154.md)
+- CHAPITRE III: CIRCONSCRIPTION ELECTORALE ET ELECTEURS
+- Section 1: de la circonscription électorale
+  - [Article 155](art-155.md)
+- Section 2: des électeurs
+  - [Article 156](art-156.md)
+- CHAPITRE IV: DE LA DECLARATION DE CANDIDATURE
+  - [Article 157](art-157.md)
+- CHAPITRE V: DE LA PARTICIPATION A LA PROPAGANDE ELECTORA LE
+  - [Article 158](art-158.md)
+- CHAPITRE VI: DISPOSITIONS COMMUNES
+  - [Article 159](art-159.md)
+  - [Article 160](art-160.md)
+- TITRE III: DE L'ELECTION DES DEPUTES A L'ASSEMBLÉE NATIONALE
+- CHAPITRE I: DISPOSITIONS GENERALES
+  - [Article 161](art-161.md)
+  - [Article 162](art-162.md)
+  - [Article 163](art-163.md)
+  - [Article 164](art-164.md)
+- CHAPITRE II: CIRCONSCRIPTION ELEC'TORALE ET ELECTEURS
+- Section I : de la circonscription électorale
+  - [Article 165](art-165.md)
+- Section 11 des électeurs
+  - [Article 166](art-166.md)
+- CHAPITRE III: DE LA PROPAGANDE ELECTORALE
+  - [Article 167](art-167.md)
+- CHAPITRE IV: ELIGIBILITE, INVESTITURE ET INCOMPATIBILITES
+- Section I : de l'éligibilité
+  - [Article 168](art-168.md)
+  - [Article 169](art-169.md)
+  - [Article 170](art-170.md)
+  - [Article 172](art-172.md)
+  - [Article 173](art-173.md)
+  - [Article 174](art-174.md)
+  - [Article 175](art-175.md)
+- CHAPITRE V: DES INTERDICTIONS
+  - [Article 176](art-176.md)
+  - [Article 177](art-177.md)
+- CHAPITRE VI: DE LA DECHEANCE
+  - [Article 178](art-178.md)
+- CHAPITRE VI: REMPLACEMENT DES DEPUTES ET SUPPLEANTS PANDANT LEGISIATURE
+  - [Article 179](art-179.md)
+  - [Article 180](art-180.md)
+- CHAPITRE VIII: DE LA PROCLAMATION DES RESULTATS
+  - [Article 181](art-181.md)
+  - [Article 182](art-182.md)
+  - [Article 183](art-183.md)
+- TITRE III: DE L'ELEC'TION DES MEMBRES DES ASSEMBLES DEPARTEMENTALES ET DES COASEILS MINICIPAUX
+- CHAPITRE I: DISPOSITIONSS COMMUNES
+- Section 1: Du mode de scrutin
+  - [Article 184](art-184.md)
+  - [Article 185](art-185.md)
+- Section II: Des circonscriptions électorales
+  - [Article 187](art-187.md)
+- Section III: éligibilités, inéligibilités
+  - [Article 188](art-188.md)
+  - [Article 189](art-189.md)
+  - [Article 190](art-190.md)
+- Section V: des déclaration de candidature
+  - [Article 191](art-191.md)
+  - [Article 192](art-192.md)
+- Section VI: du renourelleinent général ou partiel
+  - [Article 194](art-194.md)
+  - [Article 195](art-195.md)
+  - [Article 196](art-196.md)
+  - [Article 197](art-197.md)
+  - [Article 198](art-198.md)
+  - [Article 199](art-199.md)
+  - [Article 200](art-200.md)
+- Section VII: proclamation des résultats
+  - [Article 201](art-201.md)
+  - [Article 202](art-202.md)
+- CHAPITRE II: DE L'ELECTION DES MEMBRES DES ASSEMBLEES DEPARTEMENTALES
+- Section 1: composition des assemblées départementales
+  - [Article 203](art-203.md)
+  - [Article 204](art-204.md)
+  - [Article 205](art-205.md)
+  - [Article 206](art-206.md)
+- Section 2: déclaration de candidature
+  - [Article 207](art-207.md)
+- Section 3: renouvellement général ou partiel
+  - [Article 208](art-208.md)
+  - [Article 209](art-209.md)
+- Section 4: désignation des présidents et vice-présidents
+  - [Article 210](art-210.md)
+- CHAPITRE II: DE L'ELECTION DES MEMBRES DES CONSEILS MUNICIPAUX
+- Section l: composition
+  - [Article 211](art-211.md)
+  - [Article 212](art-212.md)
+  - [Article 213](art-213.md)
+  - [Article 214](art-214.md)
+- Section 2: déclaration de candidature
+  - [Article 216](art-216.md)
+- Section 3: inéligibilités et incompatibilités
+  - [Article 217](art-217.md)
+  - [Article 218](art-218.md)
+  - [Article 219](art-219.md)
+- Section 4: désignation des maires et des adjoints
+  - [Article 220](art-220.md)
+- TITRE IV: DU REFERADUM
+  - [Article 221](art-221.md)
+  - [Article 222](art-222.md)
+  - [Article 223](art-223.md)
+  - [Article 224](art-224.md)
+  - [Article 225](art-225.md)
+  - [Article 226](art-226.md)
+  - [Article 227](art-227.md)
+  - [Article 228](art-228.md)
+  - [Article 229](art-229.md)
