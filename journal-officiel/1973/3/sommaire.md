@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/12828-journal-officiel-n-3-et-5-du-1er-
 - Présidence de la République — [Ordonnance N° 3/73 du 12/01/1973 portant création d'un fonds national de l'habitat.](../../../ordonnances/1973/3-73-portant-creation-d-un-fonds-national-de-l-habitat/index.md)
 - Présidence de la République — [Ordonnance N° 4/73-PR du 12/01/1973 relative au fonctionnement des sociétés d'économie mixte](../../../ordonnances/1973/4-73-pr-relative-au-fonctionnement-des-societes-d/index.md)
 - Présidence de la République — [Décret N° 15/PR du 09/01/1973 précisant les attributions des Hauts Commissaires auprès des ministres](../../../decrets/1973/01/15-pr-precisant-les-attributions-des-hauts-commissaires/index.md)
+- Présidence de la République — [Décision N° 71/PR-DN du 09/01/1973 portant réorganisation des forces armées](../../../autres/1973/decision-71-pr-dn-portant-reorganisation-des-forces-armees/index.md)
