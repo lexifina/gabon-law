@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/10067-journal-officiel-n1/
 - Assemblée Nationale — [Loi N° 17/86 du 31/12/1986 modifiant et complétant la loi N°15/84 du 29 décembre 1984, portant création de la Banque nationale de crédit rural (BNCR).](../../../lois/1986/17-86-modifiant-et-completant-la-loi-n-15-84-du-29/index.md)
 - Assemblée Nationale — [Loi N° 18/86 du 31/12/1986 portant création de la Sécurité mobile.](../../../lois/1986/18-86-portant-creation-de-la-securite-mobile/index.md)
 - Assemblée Nationale — [Loi N° 19/86 du 31/12/1986 approuvant le budget de l'Etat, gestion 1987.](../../../lois/1986/19-86-approuvant-le-budget-de-l-etat-gestion-1987/index.md)
+- Assemblée Nationale — [Loi N° 20/86 du 31/12/1986 autorisant le Président de la République à légiférer par ordonnances pendant l'intersession parlementaire.](../../../lois/1986/20-86-autorisant-le-president-de-la-republique-a/index.md)
