@@ -18,3 +18,4 @@ Source : https://www.journal-officiel.ga/12570-journal-officiel-n5-6eme/
 - Assemblée Nationale — [Loi N° 62/63 du 22/12/1963 portant création d'un Fonds de Développement Rural.](../../../lois/1963/62-63-portant-creation-d-un-fonds-de-developpement-rural/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 1769/MTP du 23/12/1963 portant fermeture à la circulation aérienne publique de deux aérodromes et abrogation des arrêtés de concession correspondants.](../../../arretes/1963/12/1769-mtp-portant-fermeture-a-la-circulation-aerienne/index.md)
 - Ministère des Travaux Publics — [Arrêté N° 1770/MTP du 23/12/1963 portant autorisation d’un aérodrome privé.](../../../arretes/1963/12/1770-mtp-portant-autorisation-d-un-aerodrome-prive/index.md)
+- Ministère des Travaux Publics — [Arrêté N° 1771/MTP du 23/12/1963 portant autorisation d'un aérodrome privé.](../../../arretes/1963/12/1771-mtp-portant-autorisation-d-un-aerodrome-prive/index.md)
