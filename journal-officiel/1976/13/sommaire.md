@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/14093-journal-officiel-n13-14/
 - MINISTERE DE L’INTERIEUR — [Arrêté N° 212/MI-DTCL du 01/06/1976 portant annulation de deux arrêtés des communes de LAMBARENE et de LIBREVILLE](../../../arretes/1976/06/212-mi-dtcl-portant-annulation-de-deux-arretes-des-communes/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 2/76 du 05/06/1976 instituant une taxe de 15% à la charge des lotisseurs](../../../lois/1976/2-76-instituant-une-taxe-de-15-a-la-charge-des/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 4/76 du 05/06/1976 autorisant le Président de la République à légiférer par ordonnances pendant la période d'intersession](../../../lois/1976/4-76-autorisant-le-president-de-la-republique-a/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 622/MFP.RA du 02/06/1976 accordant une indemnité forfaitaire aux Maîtres d'Hôtels des Parcs Présidentiels](../../../arretes/1976/06/622-mfp-ra-accordant-une-indemnite-forfaitaire-aux-maitres-d/index.md)
