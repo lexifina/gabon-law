@@ -1,0 +1,77 @@
+# Arrêté N° 655/MMMP du 08/01/1999 portant réglementation des conditions d'hygiène applicables à bord des navires de pêche et des navires usines
+
+- Nature: Arrêté
+- Numéro: 655/MMMP
+- Date du texte: 1999-01-08
+- Autorité: Ministère de la Marine marchande
+- Publication: Journal officiel n°1 du 1999-01-08
+- Source: https://www.journal-officiel.ga/4519-655-mmmp-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+- TITRE I: CONDITIONS D'HYGIENE APPLICABLES A BORD DES NAVIRES DE PECHE
+- Section I: Conditions générales d'hygiène
+- CHAPITRE 1: Construction et équipement
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- CHAPITRE II: Utilisation et entretien des locaux et du matériel
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+- CHAPITRE III: Manipulation, conservation des produits de la pêche
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- Section 2: Conditions particulières d'hygiène
+- CHAPITRE I Navires conçus et équipés pour assurer une conservation satisfaisante des produits de la pêche pendant plus de 24 heures
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+- CHAPITRE II :Navires viviers
+  - [Article 15](art-015.md)
+- CHAPITRE III :Navires-cuiseurs
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- CHAPITRE IV: Navires congélateurs
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+- CHAPITRE V : Navires équipés pour la réfrigération en eau de mer
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+- TITRE II: CONDITIONS D'HYGIENE APPLICABLES AUX NAVIRES-USINES
+- Section 1:
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+- Section 2: Hygiène des produits à bord
+  - [Article 29](art-029.md)
+- CHAPITRE I: Utilisation et entretien des locaux et matériels
+  - [Article 30](art-030.md)
+- CHAPITRE II: Manipulation et entreposage des produits de la pêche
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+- CHAPITRE III: Personnel
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+- TITRE III: DISPOSITIONS GENERALES
+- CHAPITRE 1: Enregistrement et agrément sanitaires des navires congélateurs et des navires-usines
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+- CHAPITRE II: Contrôle sanitaire et surveillance des navires de pêche, des navires-usines et de leurs produits
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
