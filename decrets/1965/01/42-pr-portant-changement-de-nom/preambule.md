@@ -1,0 +1,7 @@
+# Préambule et visas
+
+LE PRESIDENT DE LA REPUBLIQUE GABONAISE, CHEF DU GOUVERNEMENT ;
+
+Vu la Constitution ;
+
+DECRETE :
