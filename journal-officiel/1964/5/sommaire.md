@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/12570-journal-officiel-n5-6eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 1754/PR du 18/12/1963 portant promotion à titre exceptionnel dans l'Ordre de l’Étoile Equatoriale.](../../../arretes/1963/12/1754-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - Assemblée Nationale — [Loi N° 2/64 du 02/01/1964 complétant l'article 16 du décret-loi N°1/PM du 5 janvier 1961.](../../../lois/1964/2-64-completant-l-article-16-du-decret-loi-n-1-pm-du-5/index.md)
 - Assemblée Nationale — [Loi N° 61/63 du 28/12/1963 instituant un régime d'assurance-vieillesse dans la République Gabonaise.](../../../lois/1963/61-63-instituant-un-regime-d-assurance-vieillesse-dans/index.md)
+- Assemblée Nationale — [Loi N° 62/63 du 22/12/1963 portant création d'un Fonds de Développement Rural.](../../../lois/1963/62-63-portant-creation-d-un-fonds-de-developpement-rural/index.md)
