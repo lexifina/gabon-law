@@ -1,0 +1,7 @@
+# Préambule et visas
+
+LE PRESIDENT DE LA REPUBLIQUE GABONAISE, CHEF DU GOUVERNEMENT,
+
+Vu le décret n° 132/PR-DNFA du 24 mai 1961 por- tant fixation des soldes et attributions d'indemnités de spécialisation du personnel des Forces armées gabonaises,
+
+ARRETE :
