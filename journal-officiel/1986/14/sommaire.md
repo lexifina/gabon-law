@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/10748-journal-officiel-n14-et-15/
 - ASSEMBLEE NATIONALE — [Loi N° 5/86 du 17/06/1986 fixant le régime d 'admission et de séjour des étrangers en République gabonaise.](../../../lois/1986/5-86-fixant-le-regime-d-admission-et-de-sejour-des/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 6/86 du 17/06/1986 portant création d'un Fonds spécial de l'Immigration.](../../../lois/1986/6-86-portant-creation-d-un-fonds-special-de-l/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 9/86 du 17/06/1986 portant modification des articles 194, 195 et 295 du Code Pénal.](../../../lois/1986/9-86-portant-modification-des-articles-194-195-et-295/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 10/86 du 17/06/1986 autorisant le Président de la République à légiférer par ordonnance pendant l 'intersession parlementaire.](../../../lois/1986/10-86-autorisant-le-president-de-la-republique-a/index.md)
