@@ -1,0 +1,5 @@
+# Journal officiel n°21 du 1967-10-01
+
+Source : https://www.journal-officiel.ga/17462-journal-officiel-n21/
+
+- MINISTERE DES FINANCES — [Décret N° 00428/PR-MF du 05/09/1967 complétant le décret 00148/PR-MF du 1er avril 1966, allouant aux agents spéciaux en service dans les circonscriptions administratives, une remise sur le montant des impôts effectivement recouvrés par leurs soins](../../../decrets/1967/09/00428-pr-mf-completant-le-decret-00148-pr-mf-du-1er-avril/index.md)
