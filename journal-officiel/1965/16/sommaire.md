@@ -6,3 +6,5 @@ Source : https://www.journal-officiel.ga/13529-journal-officiel-n16-7eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 25/PR du 24/06/1965 portant modification du Code de la Nationalité Gabonaise.](../../../ordonnances/1965/25-pr-portant-modification-du-code-de-la-nationalite/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 609/PR du 31/05/1965 portant attribution à titre exceptionnel du Mérite Gabonais.](../../../arretes/1965/05/609-pr-portant-attribution-a-titre-exceptionnel-du-13560/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 613/PR du 31/05/1965 portant attribution à titre normal de la Médaille de la Reconnaissance Gabonaise.](../../../arretes/1965/05/613-pr-portant-attribution-a-titre-normal-de-la-medaille-13562/index.md)
+- Assemblée Nationale — ACTES N° 16/15/UDE-378 du 26/06/1965 rendant exécutoire des décisions de la Commission mixte U.D.E.-Cameroun. (non repris)
+- Assemblée Nationale — [Loi N° 2-65 du 05/06/1965 organisant la police sanitaire en matière de maladies contagieuses du bétail.](../../../lois/1965/2-65-organisant-la-police-sanitaire-en-matiere-de/index.md)
