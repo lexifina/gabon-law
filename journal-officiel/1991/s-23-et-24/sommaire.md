@@ -1,0 +1,5 @@
+# Journal officiel n°Journal Officiel n°s 23 et 24 du 1991-11-01
+
+Source : https://www.journal-officiel.ga/9472-journal-officiel-ns-23-et-24/
+
+- Ministère de l'Habitat, du Cadastre et de l'Urbanisme — [Décret N° 1756/PM/MHCU du 29/11/1991 portant création d'une zone de restructuration urbaine sur un terrain de 271 804 m2 dans la section GA du plan cadastral de Libreville et cédant à titre provisoire ledit terrain à la Société nationale immobilière.](../../../decrets/1991/11/1756-pm-mhcu-portant-creation-d-une-zone-de-restructuration/index.md)
