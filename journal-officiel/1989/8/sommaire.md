@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/8649-journal-officiel-n-8-/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 934/PR du 29/08/1989 portant nomination des Vice-Premiers Ministres](../../../decrets/1989/08/934-pr-portant-nomination-des-vice-premiers-ministres/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 935 /PR du 29/08/1989 portant nomination des Ministres du Gouvernement](../../../decrets/1989/07/935-pr-du-29-08-1989-portant-nomination-des-ministres/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 936/PR du 29/08/1989 portant nomination des Secrétaires d'Etat](../../../decrets/1989/08/936-pr-portant-nomination-des-secretaires-d-etat/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 933/PR du 29/08/1989 portant nomination du Premier Ministre, Chef du Gouvernement](../../../decrets/1989/08/933-pr-portant-nomination-du-premier-ministre-chef-du-8688/index.md)
