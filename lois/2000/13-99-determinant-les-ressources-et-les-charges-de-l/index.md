@@ -1,0 +1,78 @@
+# Loi N° 13/99 du 15/02/2000 déterminant les ressources et les charges de l'Etat pour l'année 2000
+
+- Nature: Loi
+- Numéro: 13/99
+- Date du texte: 2000-02-15
+- Autorité: ASSEMBLEE NATIONALE
+- Publication: Journal officiel n°2 du 2000-02-01
+- Source: https://www.journal-officiel.ga/8523-13-99/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+- TITRE I EVALUATION DES VOIES ET MOYENS
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- TITRE II
+  - [Article 4](art-004.md)
+- LIVRE PREMIER
+- TITRE PREMIER IMPOTS SUR LES SOCIETES
+- Chapitre 1
+- Section 2
+  - [Article 3 nouveau](art-003-2.md)
+- Chapitre 2
+  - [Article 30 nouveau](art-030.md)
+- TITRE TROISIEME
+- Chapitre 3 Entreprises nouvelles
+- Section 2 Exonérations
+  - [Article 140](art-140.md)
+- LIVRE DEUXIEME AXE SUR LE CHIFFRE D'AFFAIRES
+- TITRE PREMIER
+- Section 2
+  - [Article 165](art-165.md)
+- Section 3
+  - [Article 166 nouveau](art-166.md)
+  - [Article 171 nouveau](art-171.md)
+- Section 3
+  - [Article 177 nouveau](art-177.md)
+- Section 4
+- LIVRE III IMPOTS ET TAXES DIVERS
+- TITRE DEUXIEME
+- Chapitre 5
+  - [Article 349 nouveau](art-349.md)
+- Section 2
+  - [Article 350 nouveau](art-350.md)
+  - [Article 355 nouveau](art-355.md)
+- TITRE TROISIEME
+- Chapitre 4 Redevance forfaitaire d'habitation
+  - [Article 382 bis nouveau](art-382-bis.md)
+- Section 1
+  - [Article 382 ter nouveau](art-382-ter.md)
+  - [Article 382 quater nouveau](art-382-quater.md)
+- Section 2
+  - [Article 382 quinquies nouveau](art-382-quinquies.md)
+  - [Article 382](art-382.md)
+- Section 3
+  - [Article 382 septies](art-382-septies.md)
+  - [Article 382 septies](art-382-septies-2.md)
+  - [Article 382 septies](art-382-septies-3.md)
+  - [Article 382 octies nouveau](art-382-octies.md)
+- LIVRE IV
+- TITRE DEUXIEME RECOUVREMENT
+- Chapitre 1
+- Section 2
+  - [Article 446 nouveau](art-446.md)
+  - [Article 447 bis nouveau](art-447-bis.md)
+  - [Article 487 nouveau](art-487.md)
+  - [Article 487 bis nouveau](art-487-bis.md)
+  - [Article 501 nouveau](art-501.md)
+  - [Article 5](art-005.md)
+- TITRE III
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- TITRE IV
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
