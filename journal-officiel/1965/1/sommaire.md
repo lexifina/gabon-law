@@ -33,3 +33,4 @@ Source : https://www.journal-officiel.ga/13879-journal-officiel-n1-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 97/64-532 du 05/12/1964 déterminant le siège du Secrétariat permanent de la Fondation de l'Enseignement Supérieur en Afrique Centrale. (non repris)
 - CONFÉRENCE DES CHEFS D'ÉTAT — ACTES N° 98/64-533 du 05/12/1964 fixant la date du Conseil d'Administration de la Fondation de l'Enseignement en Afrique Centrale. (non repris)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 47/64-ATEC-CA du 13/11/1964 portant remaniement du budget de Renouvellement 1964 du Port de Pointe-Noire.](../../../autres/1964/deliberation-47-64-atec-ca-portant-remaniement-du-budget-de-renouvellement/index.md)
+- CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 48/64-ATEC-CA du 13/11/1964 portant remaniement du budget de Renouvellement 1964 du Chemin de Fer Congo-Océan.](../../../autres/1964/deliberation-48-64-atec-ca-portant-remaniement-du-budget-de-renouvellement/index.md)
