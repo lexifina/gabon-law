@@ -36,3 +36,4 @@ Source : https://www.journal-officiel.ga/10720-journal-officiel-n15-et-16/
 - Assemblée Nationale — [Loi N° 30/87 du 28/07/1987 autorisant la ratification du protocole relatif au statut des réfugiés. signé à Addis-Abeba, le 10 septembre 1969.](../../../lois/1987/30-87-autorisant-la-ratification-du-protocole-relatif/index.md)
 - Assemblée Nationale — [Loi N° 31/87 du 28/07/1987 autorisant la ratification de la Convention internationale du Travail A 144.](../../../lois/1987/31-87-autorisant-la-ratification-de-la-convention/index.md)
 - Assemblée Nationale — [Loi N° 32/87 du 28/07/1987 autorisant la ratification de la Convention internationale du Travail n°154.](../../../lois/1987/32-87-autorisant-la-ratification-de-la-convention/index.md)
+- Assemblée Nationale — [Loi N° 33/87 du 28/07/1987 autorisant la ratification de la Convention internationale du Travail n°158.](../../../lois/1987/33-87-autorisant-la-ratification-de-la-convention/index.md)
