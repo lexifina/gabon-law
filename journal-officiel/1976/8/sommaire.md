@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/13567-journal-officiel-n8-9/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 24/76 du 17/03/1976 portant organisation du commandement des Forces armées](../../../ordonnances/1976/24-76-portant-organisation-du-commandement-des-forces/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 286/PR du 17/03/1976 fixant la composition du Gouvernement](../../../decrets/1976/03/286-pr-fixant-la-composition-du-gouvernement/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 287/PR du 17/03/1976 portant nomination de Secrétaires d'Etat](../../../decrets/1976/03/287-pr-portant-nomination-de-secretaires-d-etat/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 288/PR-DN du 17/03/1976 portant attributions du Commandant en chef des Forces armées](../../../decrets/1976/03/288-pr-dn-portant-attributions-du-commandant-en-chef-des/index.md)
