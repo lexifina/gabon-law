@@ -31,3 +31,4 @@ Source : https://www.journal-officiel.ga/9980-journal-officiel-n8-bis/
 - Présidence de la République — [Ordonnance N° 2/98 du 05/08/1998 autorisant l'Etat gabonais à contracter un emprunt d'un montant maximum de huit millions trois cent quatre vingt treize mille sept cent cinquante (8.393.750) dollars américains auprès de Banco Santander (en Espagne)](../../../ordonnances/1998/2-98-autorisant-l-etat-gabonais-a-contracter-un/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 13/98 du 22/07/1998 portant amnistie générale.](../../../lois/1998/13-98-portant-amnistie-generale/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 14/98 du 22/07/1998 fixant le régime de la concurrence en République gabonaise.](../../../lois/1998/14-98-fixant-le-regime-de-la-concurrence-en-republique/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 15/98 du 22/07/1998 instituant la Charte des investissements en République gabonaise](../../../lois/1998/15-98-instituant-la-charte-des-investissements-en/index.md)
