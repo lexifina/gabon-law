@@ -12,3 +12,4 @@ Source : https://www.journal-officiel.ga/13567-journal-officiel-n8-9/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 287/PR du 17/03/1976 portant nomination de Secrétaires d'Etat](../../../decrets/1976/03/287-pr-portant-nomination-de-secretaires-d-etat/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 288/PR-DN du 17/03/1976 portant attributions du Commandant en chef des Forces armées](../../../decrets/1976/03/288-pr-dn-portant-attributions-du-commandant-en-chef-des/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 290/PR-DN du 17/03/1976 portant attributions du Chef d'état-major et Commandant de l'armée de l'air](../../../decrets/1976/03/290-pr-dn-portant-attributions-du-chef-d-etat-major-et/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 251/PR-DGSN-DP du 28/02/1976 autorisant le recrutement spécial de 150 Gardiens de la paix stagiaires](../../../arretes/1976/02/251-pr-dgsn-dp-autorisant-le-recrutement-special-de-150-gardiens/index.md)
