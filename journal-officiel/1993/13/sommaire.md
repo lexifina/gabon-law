@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/9705-journal-officiel-n13-et-14/
 - COUR CONSTITUTIONNELLE — Décision N° 10/CC du 30/03/1993 se rapportant à la loi organique N° 2/93, fixant la composition, l'organisation et le fonctionnement du Conseil supérieur de la magistrature. (jurisprudence, dépôt séparé)
 - ASSEMBLEE NATIONALE — [Loi N° 8/93 du 04/04/1993 fixant le régime juridique de la production, du transport et de la distribution de l'eau potable et de l'énergie électrique.](../../../lois/1993/8-93-fixant-le-regime-juridique-de-la-production-du/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 9/93 du 04/04/1993 portant création du fonds spécial de l'eau.](../../../lois/1993/9-93-portant-creation-du-fonds-special-de-l-eau/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 10/93 du 04/04/1993 portant création du fonds spécial de l'électricité.](../../../lois/1993/10-93-portant-creation-du-fonds-special-de-l-electricite/index.md)
