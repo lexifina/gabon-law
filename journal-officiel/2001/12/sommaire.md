@@ -17,3 +17,4 @@ Source : https://www.journal-officiel.ga/9803-journal-officiel-n12/
 - COUR CONSTITUTIONNELLE — Avis N° 02/CC du 28/12/2001 relatif à une requête du Président du Sénat. (jurisprudence, dépôt séparé)
 - COUR CONSTITUTIONNELLE — Décision N° 56/CC du 21/12/2001 relative au report dues le deuxième siège du département de la Zadié du deuxième tour du scrutin prévu le 23 décembre 2001 pour l'élection des députés à l'Assemblée nationale (jurisprudence, dépôt séparé)
 - Assemblée Nationale — [Loi N° 8/2001 du 12/12/2001 portant orientation générale de la Formation professionnelle.](../../../lois/2001/8-2001-portant-orientation-generale-de-la-formation/index.md)
+- Ministère de l'Intérieur — [Décret N° 1222/PR/MISPD du 06/12/2001 modifiant le décret N°1008/PR/MI du 27 août 1998, fixant les modalités d'applications de la Ioi N°24/96 du 6 juin 1996, relative aux Partis politiques](../../../decrets/2001/12/1222-pr-mispd-modifiant-le-decret-n-1008-pr-mi-du-27-aout-1998/index.md)
