@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/16233-journal-officiel-n3-16eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 64/PR-MDN du 18/01/1974 portant création de deux nouvelles compagnies dans le groupement "Est" de gendarmerie.](../../../arretes/1974/01/64-pr-mdn-portant-creation-de-deux-nouvelles-compagnies/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 65/PR-MDN du 18/01/1974 portant création d'un groupement de gendarmerie à Mouila.](../../../arretes/1974/01/65-pr-mdn-portant-creation-d-un-groupement-de-gendarmerie-a/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 35/PR du 16/01/1974 portant affectation des terrains de l'aéroport international Léon Mba.](../../../decrets/1974/01/35-pr-portant-affectation-des-terrains-de-l-aeroport/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 36/PR du 16/01/1974 portant affectation des terrains du nouvel aéroport de Libreville.](../../../decrets/1974/01/36-pr-portant-affectation-des-terrains-du-nouvel/index.md)
