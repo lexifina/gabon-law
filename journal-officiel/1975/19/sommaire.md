@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/15240-journal-officiel-n19-numero-special/
 
 - Ministère de l'Education nationale — [Décret N° 655/PR-MEN-CAB du 04/07/1975 fixant les conditions d'ouverture et de fonctionnement des établissements d’enseignement privés non confessionnels.](../../../decrets/1975/07/655-pr-men-cab-fixant-les-conditions-d-ouverture-et-de/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 42/75 du 03/07/1975 autorisant l’Etat gabonais à contracter un emprunt de trois milliards de yens auprès de l’export-Import Bank du Japon.](../../../ordonnances/1975/42-75-autorisant-l-etat-gabonais-a-contracter-un/index.md)
