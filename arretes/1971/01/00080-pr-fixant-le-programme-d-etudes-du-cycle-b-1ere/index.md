@@ -1,0 +1,69 @@
+# Arrêté N° 00080/PR du 25/01/1971 fixant le programme d'études du Cycle B (1ère année ) de Formation des Magistrats, à l'Ecole de Droit, des Sciences économiques et de la magistrature.
+
+- Nature: Arrêté
+- Numéro: 00080/PR
+- Date du texte: 1971-01-25
+- Autorité: PRESIDENCE DE LA REPUBLIQUE
+- Publication: Journal officiel n°5 du 1971-03-01
+- Source: https://www.journal-officiel.ga/16085-00080-pr/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+- Chapitre 1. - Objet du droit coutumier.
+- Section 1. Droit coutumier et ethnographie.
+- Section 2. - Droit coutumier et ethnologie juridique.
+- Section 3. - Droit coutumier et anthropologie juridique.
+- Chapitre 2. - Méthode ( Les instruments d'approche).
+- Section I. - Observation.
+- Section 2. - Réflexion et prudence (Méthode dynamique) .
+- Chapitre 3. - Domaine.
+- Section 1.- Géographie (Ensemble des groupes etniques du Gabon).
+- section 2. - Histoire.
+- PREMIERE PARTIE:
+- Chapitre 1. -La typologie de la terre.
+- Chapitre 2. - Les fonctions de la terre.
+- Chapitre 3. - L'évolution.
+- DEUXIEME PARTIE
+- Chapitre 1. -Le systéme des lignages.
+- Section 1. - Les groupes de parenté.
+- Section 2. - Les liens de parenté.
+- Chapitre 2. - Le système matrimonial.
+- Section 1.- L'édification de l'alliance matrimoniale.
+- Section 3.- Les vicissitudes de l'alliance matrimoniale.
+- Chapitre 1. Les différentes sortes de nom.
+- Chapitre 2. Les fonctions traditionnelle du nom.
+- Chapitre 3. - L'évolution.
+- TITRE 1er
+- Chapitre 1.- Les structures économiques.
+- Chapitre 2. - Les structures sociales.
+- Chapitre 3. - Les classes : genèse et formation.
+- TITRE II
+- Chapitre 1.- La chefferie.
+- Chapitre 2. - La royauté.
+- TITRE III
+- Chapitre 1.- Le concept du droit.
+- Chapitre 2. - La procédure et l'organisation judiciaire.
+- Chapitre 3. - La place du droit dans la société.
+- TITRE 1er
+- Chapitre 1. -Les nouvelles structures économiques.
+- Chapitre 2. - Les contradictions entre structures économiques anciennes et nouvelles.
+- Chapitre 3.- L'apparition des classes nouvelles et les contradictions de classe.
+- TITRE II
+- Chapitre 1. - Entité territoriale et ethnique.
+- Chapitre 2. - Le ( commandant ), et la chefferie.
+- Chapitre 3. - Vers la formation de la nation.
+- TITRE: III
+- Chapitre 1. - Le droit nouveau.
+- Chapitre 2. - Les contradictions entre droit colonial et droits traditinnels.
+- Chapitre 3.- La coexistence des droits coloniaux et traditionnels.
+- TITRE 1er
+- Chapitre 1.- Le plan de développement économique et les options fondamentales.
+- Chapitre 2 . Les conséquences économiques et sociales.
+- TITRE II
+- Chapitre 1.- L'Administration centrale.
+- Chapitre 2.- Les résistances de la tradition.
+- TITRE III
+- Chapitre 1.- L'héritage colonial.
+- Chapitre 2.-. Vers la recherche d'un droit original.
+  - [Article 2](art-002.md)
