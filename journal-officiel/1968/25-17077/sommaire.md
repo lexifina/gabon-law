@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/17077-jo-decembre-1968-n25/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 798/PR-MF du 05/11/1968 portant attribution d'une indemnité de représentation](../../../decrets/1968/11/798-pr-mf-portant-attribution-d-une-indemnite-de/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 796/PR-MF du 04/11/1968 portant attribution de bonification indiciaire.](../../../decrets/1968/11/796-pr-mf-portant-attribution-de-bonification-indiciaire/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 784 du 29/10/1968 modifiant la composition du Gouvernement.](../../../decrets/1968/10/784-modifiant-la-composition-du-gouvernement/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 62/68 du 30/09/1968 portant transferts de crédits au Budget de l'État Exercice 1968.](../../../ordonnances/1968/62-68-portant-transferts-de-credits-au-budget-de-l-etat/index.md)
