@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/9890-journal-officiel-n28/
 
 - MINISTERE DES FINANCES,DU BUDGET ET DES PARTICIPATIONS — [Arrêté N° 190/MFBP/CAB du 29/09/1993 portant dispositions transitoires de la réglementation des changes de la zone d'émission de la Banque des Etats de l'Afrique centrale.](../../../arretes/1993/09/190-mfbp-cab-portant-dispositions-transitoires-de-la/index.md)
+- MINISTERE DES FINANCES,DU BUDGET ET DES PARTICIPATIONS — [Ordonnance N° 2/93/PR du 01/09/1993 autorisant l'Etat gabonais à contracter un emprunt d'un montant de 27.600.000 FF auprès de la Caisse française de développement.](../../../ordonnances/1993/2-93-pr-autorisant-l-etat-gabonais-a-contracter-un/index.md)
