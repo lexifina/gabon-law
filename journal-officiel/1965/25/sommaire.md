@@ -30,3 +30,4 @@ Source : https://www.journal-officiel.ga/14058-journal-officiel-n25-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 3-65 du 16/04/1965](../../../autres/1965/deliberation-3-65/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 4/65 du 16/04/1965](../../../autres/1965/deliberation-4-65/index.md)
 - MINISTERE DU TRAVAIL DES AFFAIRES SOCIALES — [Décret N° 307/PR-MT-AS du 06/10/1965 réglementant l'attribution des secours individuels](../../../decrets/1965/10/307-pr-mt-as-reglementant-l-attribution-des-secours-individuels/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 45/PR du 04/10/1965 relative au recouvrement des créances de la Banque Gabonaise de Développement.](../../../ordonnances/1965/45-pr-relative-au-recouvrement-des-creances-de-la/index.md)
