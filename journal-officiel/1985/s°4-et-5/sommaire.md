@@ -1,0 +1,5 @@
+# Journal officiel n°Journal officiel ns°4 et 5 du 1985-02-01
+
+Source : https://www.journal-officiel.ga/10615-journal-officiel-ns4-et-5/
+
+- Ministère du Commerce et de la Consommation — [Arrêté N° 24/MCC/MINECOFIN du 31/01/1985 portant fixation du nouveau taux de la contribution spéciale alimentant le budget du Centre gabonais du commerce extérieur](../../../arretes/1985/01/24-mcc-minecofin-portant-fixation-du-nouveau-taux-de-la/index.md)
