@@ -42,3 +42,4 @@ Source : https://www.journal-officiel.ga/10720-journal-officiel-n15-et-16/
 - Assemblée Nationale — [Loi N° 36/87 du 28/07/1987 autorisant la ratification de la Convention de l'Union panafricaine des Postes.](../../../lois/1987/36-87-autorisant-la-ratification-de-la-convention-de-l/index.md)
 - Assemblée Nationale — [Loi N° 37/87 du 28/07/1987 autorisant la ratification des actes finals de l'Union internationale des télécommunications.](../../../lois/1987/37-87-autorisant-la-ratification-des-actes-finals-de-l/index.md)
 - Assemblée Nationale — [Loi N° 38/87 du 28/07/1987 autorisant la ratification des actes finals de l'Union postale universelle.](../../../lois/1987/38-87-autorisant-la-ratification-des-actes-finals-de-l/index.md)
+- Assemblée Nationale — [Loi N° 39/87 du 14/06/1987 autorisant le Président de la République à légiférer par ordonnances pendant l 'intersession parlementaire.](../../../lois/1987/39-87-autorisant-le-president-de-la-republique-a/index.md)
