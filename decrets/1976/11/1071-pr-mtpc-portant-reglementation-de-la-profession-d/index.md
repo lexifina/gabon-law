@@ -1,0 +1,70 @@
+# Décret N° 1071/PR-MTPC du 30/11/1976 portant réglementation de la profession d'architecte
+
+- Nature: Décret
+- Numéro: 1071/PR-MTPC
+- Date du texte: 1976-11-30
+- Autorité: MINISTERE DES TRAVAUX PUBLICS ET DE LA CONSTRUCTION
+- Publication: Journal officiel n°28 du 1976-12-08
+- Source: https://www.journal-officiel.ga/14828-1071-pr-mtpc/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+- TITRE PREMIER
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- TITRE
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+- TITRE III
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+- TITRE IV
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+- TITRE V
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+- TITRE V
+  - [Article 41](art-041.md)
+- TITRE VII
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+- TITRE VIII
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+- TITRE IX
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
