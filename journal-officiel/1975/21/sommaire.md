@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/14248-journal-officiel-n21-22-17eme-/
 - MINISTERE DE L'INTERIEUR — [Arrêté N° 11/PC-PML/75 du 21/06/1975 réglementant la présence des chiens dans la circonscription de Libreville.](../../../arretes/1975/06/11-pc-pml-75-reglementant-la-presence-des-chiens-dans-la/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 669/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Iboundji.](../../../arretes/1975/08/669-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 670/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Ngouoni.](../../../arretes/1975/08/670-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 671/PR-MDN du 05/08/1975 portant création d'une brigade de Gendarmerie à Bongoville.](../../../arretes/1975/08/671-pr-mdn-portant-creation-d-une-brigade-de-gendarmerie-a/index.md)
