@@ -1,0 +1,17 @@
+# Signatures
+
+Fait à Libreville, le 9 Mars 1967
+
+POUR LE PRESIDENT DE LA REPUBLIQUE, CHEF DU GOUVERNEMENT
+
+LE VICE-PRESIDENT DE LA REPUBLIQUE
+
+Albert-Bernard BONGO.
+
+PAR LE PRESIDENT DE LA REPUBLIQUE, CHEF DU GOUVERNEMENT
+
+Le Ministre des Finances
+
+Pierre MEBALEY
+
+<section class="
