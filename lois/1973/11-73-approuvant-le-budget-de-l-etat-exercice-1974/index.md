@@ -1,0 +1,62 @@
+# Loi N° 11/73 du 15/12/1973 approuvant le budget de l'Etat, exercice 1974.
+
+- Nature: Loi
+- Numéro: 11/73
+- Date du texte: 1973-12-15
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°1 du 1974-01-01
+- Source: https://www.journal-officiel.ga/16628-11-73/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- LIVRE PREMIER
+- TITRE PREMIER
+- TITRE II
+- TITRE III
+- SECTION I
+- SECTION II
+- SECTION III
+- SECTION IV
+- SECTION V
+- Chapitre 340 Personnel .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ….... .. 435.000
+- SECTION VI
+- Chapitre 300 Personnel.. .. .. .. ………………………….. 198.000
+- SECTION VII
+- Chapitre 400 Personnel .. .. .. ………………………… .. 511.000
+- SECTION VIII
+- SECTION IX
+- Chapitre 420 Personnel .. .. .. ……………………….. .. 1.122.700
+- SECTION X PM
+- SECTION XI
+- SECTION XII
+- Chapitre 500 Personnel .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 619.000
+- SECTION XIII
+- SECTION XIV
+- SECTION DES MINES
+- SECTION XV
+- SECTION XVI
+- SECTION XVII
+- SECTION XVIII
+- SECTION XIX
+- SECTION XX
+- SECTION XXI
+- SECTION XXII
+- SECTION XXIII
+- SECTION XXIV
+- SECTION XXV
+- SECTION XXVI
+- SECTION XXVII
+- TITRE IV
+- TITRE V
+- TITRE VI
+- LIVRE II
+- PREMIERE PARTIE
+- TITRE PREMIER
+- TITRE II et suivants
+- DEUXIEME PARTIE
+- Livre premier. - FONCTIONNEMENT .. .. .. .. .. .. .. ……….. 27.081.877
+- Livre II. - DEVELOPPEMENT ET EQUIPT. ADMINIST. .... 21.632.023
+  - [Article 4](art-004.md)
