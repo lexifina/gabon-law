@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/8530-journal-officiel-n1/
 - COUR CONSTITUTIONNELLE — Décision N° 1/CC du 17/01/2001 relative à la loi de finances 2001. (jurisprudence, dépôt séparé)
 - COUR CONSTITUTIONNELLE — Décision N° 3/CC du 17/10/2000 relative à la loi N° 17/2000 du 17 octobre 2000, fixant le régime particulier des pensions de retraite des membres du Gouvernement et des membres du Parlement. (jurisprudence, dépôt séparé)
 - Ministère de l'Agriculture, de l'Elevage et du Développement rural — [Arrêté N° 702/MAEDR/CN.FAO. du 22/01/2001 portant modalité de fonctionnement du Comité d'élevage](../../../arretes/2001/01/702-maedr-cn-fao-portant-modalite-de-fonctionnement-du-comite-d/index.md)
+- Assemblée Nationale — [Loi N° 23/2000 du 09/01/2001 autorisant le président de la République à légiférer par ordonnances pendant l'intersession parlementaire.](../../../lois/2001/23-2000-autorisant-le-president-de-la-republique-a/index.md)
