@@ -1,0 +1,5 @@
+# Journal officiel n°1 du 1973-01-15
+
+Source : https://www.journal-officiel.ga/12816-journal-officiel-n-1et-2-du-1er-au-15-janvier-1973-/
+
+- Présidence de la République — [Décret N° 11/PR du 08/01/1973 portant modification du décret n" 439/PR du11 avril 1972, fixant le mode de désignation ou d'élection des membres du conseil d'administration de l'Office des Bois du Gabon.](../../../decrets/1973/01/11-pr-portant-modification-du-decret-n-439-pr-du11/index.md)
