@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/13948-journal-officiel-n-11-du-15-avril
 - Ministère de l'Economie et des Finances — [Arrêté N° 56/MEF-DFB du 06/04/1973 portant transfert de crédit.](../../../arretes/1973/04/56-mef-dfb-portant-transfert-de-credit/index.md)
 - Ministère de l'Economie et des Finances — [Arrêté N° 49/MEF-DFB du 02/04/1973 portant transfert de crédit .](../../../arretes/1973/04/49-mef-dfb-portant-transfert-de-credit/index.md)
 - Ministère de l'Economie et des Finances — [Décision N° 83/MEF-CAB-BS du 02/04/1973 portant création d' une caisse d'avances.](../../../autres/1973/decision-83-mef-cab-bs-portant-creation-d-une-caisse-d-avances/index.md)
+- Présidence de la République — [Décret N° 543/PR-DN-EMFA-CAB du 04/04/1973 portant création d'un poste d'inspecteur du Service de santé militaire.](../../../decrets/1973/04/543-pr-dn-emfa-cab-portant-creation-d-un-poste-d-inspecteur-du/index.md)
