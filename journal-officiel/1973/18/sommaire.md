@@ -12,3 +12,4 @@ Source : https://www.journal-officiel.ga/12236-journal-officiel-n-18-du-1er-au-1
 - MINISTERE DE L'INTERIEUR — [Décret N° 909/PR-MI.RA.SVPG-GAB du 23/08/1973 fixant les limites territoriales du P.C. A. d'Ibundzi](../../../decrets/1973/08/909-pr-mi-ra-svpg-gab-fixant-les-limites-territoriales-du-p-c-a-d/index.md)
 - MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME ADMINISTRAVE — [Décret N° 907 /PR-MFPRA du 14/08/1973 portant création d'un poste d'adjoint au conseiller du Président de la République pour les affaires africaines .](../../../decrets/1973/09/907-pr-mfpra-du-14-08-1973-portant-creation-d-un/index.md)
 - Présidence de la République — [Ordonnance N° 47/73 du 13/08/1973 accordant la grâce amnistiante .](../../../ordonnances/1973/47-73-accordant-la-grace-amnistiante/index.md)
+- Présidence de la République — [Décret N° 905/PR du 11/08/1973 portant remises gracieuses de peines](../../../decrets/1973/08/905-pr-portant-remises-gracieuses-de-peines/index.md)
