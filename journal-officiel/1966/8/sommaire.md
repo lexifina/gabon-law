@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/15133-journal-officiel-n8/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 8 du 09/03/1966 portant virements de crédits au Budget Général de Fonctionnement, exercice 1966.](../../../ordonnances/1966/8-portant-virements-de-credits-au-budget-general-de/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 221/PR du 26/02/1966 portant création d'une caisse d'avances](../../../arretes/1966/02/221-pr-portant-creation-d-une-caisse-d-avances/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 5 du 15/02/1966 portant inscription supplémentaire et virement de crédit au Budget Général de fonctionnement exercice 1966](../../../ordonnances/1966/5-portant-inscription-supplementaire-et-virement-de/index.md)
+- MINISTERE DE LA DEFENSE NATIONALE — [Décret N° 133/PR-DN du 26/03/1966 portant promotion d'officiers de l'Armée active](../../../decrets/1966/03/133-pr-dn-portant-promotion-d-officiers-de-l-armee-active/index.md)
