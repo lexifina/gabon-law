@@ -8,3 +8,4 @@ Source : https://www.journal-officiel.ga/13567-journal-officiel-n8-9/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 395/PR-SN du 03/04/1976 portant création du Centre d'instruction et d'application de police d'Owendo](../../../decrets/1976/04/395-pr-sn-portant-creation-du-centre-d-instruction-et-d/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 25/76 du 18/03/1976 fixant les conditions d'utilisation de la Force de police d'intervention (FOPI)](../../../ordonnances/1976/25-76-fixant-les-conditions-d-utilisation-de-la-force/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 24/76 du 17/03/1976 portant organisation du commandement des Forces armées](../../../ordonnances/1976/24-76-portant-organisation-du-commandement-des-forces/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 286/PR du 17/03/1976 fixant la composition du Gouvernement](../../../decrets/1976/03/286-pr-fixant-la-composition-du-gouvernement/index.md)
