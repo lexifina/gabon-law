@@ -10,3 +10,4 @@ Source : https://www.journal-officiel.ga/14992-journal-officiel-n4/
 - MINISTERE DE LA JUSTICE — [Arrêté N° 44/PR-MJ du 17/01/1966 portant nomination d'un Secrétaire d'Avocat-Défenseur](../../../arretes/1966/01/44-pr-mj-portant-nomination-d-un-secretaire-d-avocat/index.md)
 - MINISTERE DE LA JUSTICE — [Arrêté N° 44/PR/MJ du 17/01/1966 portant nomination d'un Secrétaire d'Avocat Défenseur](../../../arretes/1966/01/44-pr-mj-portant-nomination-d-un-secretaire-d-avocat-15020/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 26/65 du 27/12/1965 créant un versement forfaitaire à la charge des employeurs](../../../lois/1965/26-65-creant-un-versement-forfaitaire-a-la-charge-des/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 28/65 du 27/12/1965 portant modification de l'ordonnance n° 24-65 du 24 juin 1965, relevant le tarif de l'impôt forfaitaire à charge des sociétés](../../../lois/1965/28-65-portant-modification-de-l-ordonnance-n-24-65-du/index.md)
