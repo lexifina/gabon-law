@@ -14,3 +14,4 @@ Source : https://www.journal-officiel.ga/14016-journal-officiel-n14-7eme/
 - MINISTERE DE L'ECONOMIE NATIONALE — [Décret N° 590/PR-MENPM-DAE du 22/05/1965 fixant le prix unique des arachides à la production, pour la campagne 1965.](../../../decrets/1965/05/590-pr-menpm-dae-fixant-le-prix-unique-des-arachides-a-la/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Décision N° 1/65/UDE-365 du 06/05/1965](../../../autres/1965/decision-1-65-ude-365/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 7/65-ATEC du 27/04/1965 portant modification du taux de location des Hangars, Magasins et Terre-pleins du Port de Pointe-Noire](../../../autres/1965/deliberation-7-65-atec-portant-modification-du-taux-de-location-des/index.md)
+- CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 8/65/ATEC-CA du 27/04/1965 Complétant le fascicule 8 du « Recueil des Tarifs du C.F.C.O. »](../../../autres/1965/deliberation-8-65-atec-ca-completant-le-fascicule-8-du-recueil-des-tarifs/index.md)
