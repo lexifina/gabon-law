@@ -11,3 +11,4 @@ Source : https://www.journal-officiel.ga/13170-journal-officiel-n2/
 - ASSEMBLEE NATIONALE — [Loi N° 21/65 du 20/12/1965 complétant l'article 100 du Code de Procédure Pénale](../../../lois/1965/21-65-completant-l-article-100-du-code-de-procedure/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 369/PR du 17/12/1965 portant convocation de l'Assemblée Nationale en session extraordinaire](../../../decrets/1965/12/369-pr-portant-convocation-de-l-assemblee-nationale-en/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 370/PR du 17/12/1965 portant clôture de la seconde session ordinaire de l'Assemblée Nationale](../../../decrets/1965/12/370-pr-portant-cloture-de-la-seconde-session-ordinaire/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 363/PR du 23/11/1965 portant convocation du Conseil Economique et Social](../../../decrets/1965/11/363-pr-portant-convocation-du-conseil-economique-et/index.md)
