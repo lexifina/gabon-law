@@ -6,3 +6,4 @@ Source : https://www.journal-officiel.ga/13480-journal-officiel-n15-7eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 183/PR du 10/06/1965 portant mise en accusation devant la Cour de Sûreté de l'Etat.](../../../decrets/1965/06/183-pr-portant-mise-en-accusation-devant-la-cour-de/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 175/PR du 08/06/1965 portant mise en accusation devant la Cour de Sûreté de l'Etat.](../../../decrets/1965/06/175-pr-portant-mise-en-accusation-devant-la-cour-de/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 176/PR du 08/06/1965 portant mise en accusation devant la Cour de Sûreté de l'Etat.](../../../decrets/1965/06/176-pr-portant-mise-en-accusation-devant-la-cour-de/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 177/PR du 08/06/1965 portant mise en accusation devant la Cour de Sûreté de l’Etat.](../../../decrets/1965/06/177-pr-portant-mise-en-accusation-devant-la-cour-de/index.md)
