@@ -1,0 +1,110 @@
+# Décret N° 416/PR du 18/03/1985 portant réglementation des marchés administratifs de toute nature passés au nom de l'Etat gabonais, des collectivités, des offices et des établissements publics du Gabon
+
+- Nature: Décret
+- Numéro: 416/PR
+- Date du texte: 1985-03-18
+- Autorité: Ministère de l'Economie des Finances et des Participation
+- Publication: Journal officiel n°Journal Officiel ns° 8 et 9 du 1985-04-01
+- Source: https://www.journal-officiel.ga/10736-416-pr/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+- TITRE PREMIER : Des conditions d'application de la réglementation
+- CHAPITRE I : DEFINITIONS ET INTERPRETATION
+  - [Article premier](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+- CHAPITRE II : CHAMP D APPLICATION DE LA RE­GLEMENTATION
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+- TITRE II : De la forme, des procédures de passation et d'attribution des marchés
+- CHAPITRE I : DE LA FORME DES MARCHES
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- CHAPITRE II : DES PROCEDURES DE PASSATION DES MARCHES
+- Section 1 : Dispositions générales
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- Section 2 : Des marchés sur appel d'offres
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+- partie.
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+- Section 3 : Des marchés négociés
+  - [Article 29](art-029.md)
+- TITRE III : De l'approbation et du contrôle des marchés
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+- TITRE IV : Sous-traitance
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+- TITRE V : Du prix et des modalités financières des marchés
+- CHAPITRE 1 : DU CONTENU ET DU CARACTERE DU PRIX
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+- CHAPITRE II : DES VARIATIONS DES PRIX
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+- CHAPITRE III : DES MODALITES FINANCIERES ET DE REGLEMENT DES MARCHES
+- Section 1 : Des avances el des acomptes
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- Section 2 : Des garanties, sûretés et modalités de finan­cement des marchés
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 67](art-067.md)
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+- TITRE VI : De la résiliation et des modalités de règlement des litiges des marches
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
