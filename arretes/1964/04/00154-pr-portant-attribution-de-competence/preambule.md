@@ -1,0 +1,11 @@
+# Préambule et visas
+
+LE PRESIDENT DE LA REPUBLIQUE GABONAISE,
+
+CHEF DU GOUVERNEMENT
+
+MINISTRE DE LA DEFENSE
+
+Vu le décret n°148/PR du 25 avril 1964.
+
+A R R E T E :

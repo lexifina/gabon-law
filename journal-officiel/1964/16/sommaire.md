@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/13161-journal-officiel-n16-6eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00159/PR du 12/05/1964 Portant accord provisionnel de 10 % des salaires minima de base aux travailleurs du secteur privé.](../../../decrets/1964/05/00159-pr-portant-accord-provisionnel-de-10-des-salaires/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00156/PR-MFP-MAE du 09/05/1964 portant nomination de Chef de Mission Diplomatique](../../../decrets/1964/05/00156-pr-mfp-mae-portant-nomination-de-chef-de-mission-diplomatique/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00152/PR du 08/05/1964 relatif à la défense des accusés devant la Cour de Sûreté de l'Etat](../../../decrets/1964/05/00152-pr-relatif-a-la-defense-des-accuses-devant-la-cour/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 00154/PR du 29/04/1964 portant attribution de compétence.](../../../arretes/1964/04/00154-pr-portant-attribution-de-competence/index.md)
