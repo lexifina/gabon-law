@@ -35,3 +35,4 @@ Source : https://www.journal-officiel.ga/13879-journal-officiel-n1-7eme/
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 47/64-ATEC-CA du 13/11/1964 portant remaniement du budget de Renouvellement 1964 du Port de Pointe-Noire.](../../../autres/1964/deliberation-47-64-atec-ca-portant-remaniement-du-budget-de-renouvellement/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 48/64-ATEC-CA du 13/11/1964 portant remaniement du budget de Renouvellement 1964 du Chemin de Fer Congo-Océan.](../../../autres/1964/deliberation-48-64-atec-ca-portant-remaniement-du-budget-de-renouvellement/index.md)
 - CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 43/64-ATEC-CA. du 13/11/1964](../../../autres/1964/deliberation-43-64-atec-ca/index.md)
+- CONFÉRENCE DES CHEFS D'ÉTAT — [Délibération N° 9/64 du 10/11/1964 portant approbation du programme F.A.C. 1964.](../../../autres/1964/deliberation-9-64-portant-approbation-du-programme-f-a-c-1964/index.md)
