@@ -19,3 +19,4 @@ Source : https://www.journal-officiel.ga/14564-journal-officiel-n17-numero-speci
 - Ministère de l'Economie et des Finances — [Ordonnance N° 38/75 du 24/06/1975 accordant l'aval de l'Etat à un crédit fournisseur garanti par la COFACE au profit de la S.E.E.G.](../../../ordonnances/1975/38-75-accordant-l-aval-de-l-etat-a-un-credit/index.md)
 - Assemblée Nationale — [Loi N° 4/75 du 13/06/1975 portant réorganisation territoriale de la République Gabonaise.](../../../lois/1975/4-75-portant-reorganisation-territoriale-de-la/index.md)
 - Assemblée Nationale — [Loi N° 2/75 du 27/05/1975 portant modification du tarif des Douanes à l'exportation.](../../../lois/1975/2-75-portant-modification-du-tarif-des-douanes-a-l/index.md)
+- Ministère de I'Education Nationale — [Arrêté N° 102/MEN-IPN-DE2 du 11/06/1975 fixant les coefficients par matière dans l'Enseignement du second degré.](../../../arretes/1975/06/102-men-ipn-de2-fixant-les-coefficients-par-matiere-dans-l/index.md)

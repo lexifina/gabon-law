@@ -1,0 +1,31 @@
+# Signatures
+
+Fait à Libreville, le 11 juin 1975.
+
+Pour le Président de la République
+
+Chef du Gouvernement
+
+Le Ministre de l'Education nationale,
+
+Martin BONGO.
+
+ANNEXES à l'arrêté n° 102 /MEN-IPN- DE2 du 11 juin 1975.
+
+ANNEXE 1
+
+TABLEAU DES COEFFICIENTS AU PREMIER CYCLE DU SECOND DEGRE
+
+ANNEXE 2
+
+TABLEAU DES COEFFICIENTS DE LA CLASSE DE SECONDE
+
+ANNEXE 3
+
+TABLEAU DES COEFFICIENTS DE LA CLASSE DE PREMIERE
+
+ANNEXE 4
+
+TABLEAU DES COEFFICIENTS DES CLASSES TERMINALES
+
+<section class="
