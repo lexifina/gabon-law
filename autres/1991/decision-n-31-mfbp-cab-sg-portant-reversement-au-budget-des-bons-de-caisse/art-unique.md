@@ -1,0 +1,3 @@
+# Article unique
+
+En application de l'article 66 de la loi N° 5/85 du 27 juin 1985 susvisée, portant prescription des créances de l'Etat, le Trésorier-Payeur général est autorisé à reverser au budget général le montant du solde créditeur du compte 4005 86 intitulé "bons de caisse de l'exercice 1986".
