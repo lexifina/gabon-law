@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/12250-journal-officiel-n1/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 0612/PR-MFB du 01/12/1967 portant création d'un Secrétariat Général à la Présidence et fixant le traitement et indemnités du Secrétaire Général.](../../../decrets/1967/12/0612-pr-mfb-portant-creation-d-un-secretariat-general-a-la/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 0610/MI-CAB du 30/11/1967 portant délégation de signature au Ministre de l'Intérieur.](../../../decrets/1967/11/0610-mi-cab-portant-delegation-de-signature-au-ministre-de-l/index.md)
