@@ -15,3 +15,4 @@ Source : https://www.journal-officiel.ga/16533-journal-officiel-nspecial/
 - ASSEMBLEE NATIONALE — [Loi N° 45/66 du 31/12/1966 portant modification de certaines dispositions fiscales](../../../lois/1966/45-66-portant-modification-de-certaines-dispositions/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 46/66 du 31/12/1966 autorisant le Président de la République à légiférer par ordonnances pendant la période d'intersession](../../../lois/1966/46-66-autorisant-le-president-de-la-republique-a/index.md)
 - ASSEMBLEE NATIONALE — [Loi N° 31/66 du 19/12/1966 fixant les taux des taxes de superficie et de transfert](../../../lois/1966/31-66-fixant-les-taux-des-taxes-de-superficie-et-de/index.md)
+- ASSEMBLEE NATIONALE — [Loi N° 32/66 du 16/12/1966 modifiant le budget Général de Fonctionnement, exercice 1966](../../../lois/1966/32-66-modifiant-le-budget-general-de-fonctionnement/index.md)
