@@ -9,3 +9,4 @@ Source : https://www.journal-officiel.ga/15973-journal-officiel-n15/
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 896/PR du 13/08/1966 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1966/08/896-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 897/PR du 13/08/1966 portant attribution à titre exceptionnel, du Mérite Gabonais](../../../arretes/1966/08/897-pr-portant-attribution-a-titre-exceptionnel-du/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 895/PR du 12/08/1966 portant promotion à titre exceptionnel, dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1966/08/895-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 227/PR du 04/08/1966 portant remise gracieuse de peine](../../../decrets/1966/08/227-pr-portant-remise-gracieuse-de-peine/index.md)
