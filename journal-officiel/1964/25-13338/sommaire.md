@@ -1,0 +1,5 @@
+# Journal officiel n°25 du 1964-10-01
+
+Source : https://www.journal-officiel.ga/13338-journal-officiel-n25-6eme/
+
+- Ministère des Travaux Publics — [Arrêté N° 1031/MTP du 29/09/1964 portant concession de l'exploitation d'un aérodrome.](../../../arretes/1964/09/1031-mtp-portant-concession-de-l-exploitation-d-un/index.md)
