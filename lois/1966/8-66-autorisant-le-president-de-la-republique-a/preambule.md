@@ -1,0 +1,5 @@
+# Préambule et visas
+
+L'ASSEMBLEE NATIONALE A DELIBERE ET ADOPTE, LE PRESIDENT DE LA REPUBLIQUE CHEF DU GOUVERNEMENT ;
+
+promulgue la la dont la teneur suit :
