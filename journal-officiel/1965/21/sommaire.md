@@ -7,3 +7,4 @@ Source : https://www.journal-officiel.ga/13751-journal-officiel-n21-7eme/
 - PRESIDENCE DE LA REPUBLIQUE — [Ordonnance N° 41/PR du 08/09/1965 portant grâce amnistiante.](../../../ordonnances/1965/41-pr-portant-grace-amnistiante/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 954/PR du 02/09/1965 portant promotion à titre exceptionnel dans l'Ordre de l'Etoile Equatoriale](../../../arretes/1965/09/954-pr-portant-promotion-a-titre-exceptionnel-dans-l/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 953/PR-CAB-MIL du 02/09/1965 portant attribution à titre exceptionnel du Mérite Gabonais,](../../../arretes/1965/09/953-pr-cab-mil-portant-attribution-a-titre-exceptionnel-du/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Arrêté N° 937/PR du 30/08/1965](../../../arretes/1965/08/937-pr/index.md)
