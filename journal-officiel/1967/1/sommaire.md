@@ -3,3 +3,4 @@
 Source : https://www.journal-officiel.ga/16593-journal-officiel-n1/
 
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 432/PR du 22/12/1966 portant reconnaissance de la nationalité Gabonais](../../../decrets/1966/12/432-pr-portant-reconnaissance-de-la-nationalite-gabonais/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 433/PR du 22/12/1966 portant reconnaissance de la nationalité gabonaise](../../../decrets/1966/12/433-pr-portant-reconnaissance-de-la-nationalite-gabonaise/index.md)
