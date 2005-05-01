@@ -1,0 +1,54 @@
+# Loi N° 007/2005 du 11/02/2005 portant modification de la loi n°015/2003 du 27 janvier 2004 déterminant les ressources et les charges de l’Etat pour l’année 2004.
+
+- Nature: Loi
+- Numéro: 007/2005
+- Date du texte: 2005-02-11
+- Autorité: PARLEMENT
+- Publication: Journal officiel n°5 du 2005-05-01
+- Source: https://www.journal-officiel.ga/7394-007-2005-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1](art-001.md)
+- TITRE I : EVALUATION DES VOIES ET MOYENS
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- Partie I : Ressources propres
+- Titre 1 : Ressources courantes
+- Titre 2 : Ressources exceptionnelles
+- Partie II : Ressources d’emprunts
+- Titre 4 : emprunts liés
+- Titre 5 : Emprunts d’équilibre
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+- Partie I : Charges de la dette publique
+- Partie II : Dépenses de fonctionnement
+- Partie III : Dépenses d’investissement
+- Partie IV : Prêts et avances
+  - [Article 7](art-007.md)
+- Partie I : Service de la dette publique
+- Titre 1 : Remboursement des emprunts et des crédits fournisseurs
+- Titre 2 : Intérêts sur emprunts et crédits fournisseurs
+- Partie II : Fonctionnement
+- Titre 3 : Personnel permanent
+- Titre 4 : Main d’œuvre non permanente
+- Titre 5 : Biens & services
+- Titre 6 : Transferts et interventions
+- Partie III et Titre 7 : Investissements
+- Partie IV : Prêts et avances
+- Titre 9 : Prêts et avances
+- TITRE II : DISPOSITIONS FISCALES
+  - [Article 8](art-008.md)
+- TITRE III: DISPOSITIONS DOUANIERES FISCALITE A L’IMPORTATION
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+- TITRE IV: REPARTITION, AFFECTATION ET UTILISATION DES CREDITS
+  - [Article 11](art-011.md)
+- Titre I : Service de la dette (en F cfa)
+  - [Article 12](art-012.md)
+- Titre 3 : Solde permanente (en Fcfa)
+- Titre 4 : Main d’œuvre non permanente (en F .cfa)1
+- Titre 6: Transferts et Interventions (en F.cfa)
+- Titre 7: Investissement
+  - [Article 13](art-013.md)
