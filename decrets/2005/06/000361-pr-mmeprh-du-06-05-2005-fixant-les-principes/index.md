@@ -1,0 +1,146 @@
+# Décret N° 000361/PR/ MMEPRH du 06/05/2005 fixant les principes généraux de prévention et de protection des travailleurs, des patients, du public et de l’environnement contre les rayonnements ionisants
+
+- Nature: Décret
+- Numéro: 000361/PR/
+- Autorité: MINISTERE DES MINES
+- Publication: Journal officiel n°6 du 2005-06-01
+- Source: https://www.journal-officiel.ga/7799-000361-pr-mmeprh/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+- CHAPITRE I : DU CHAMP D’APPLICATION, DE L’OBJET ET DES DEFINITIONS
+- Section 1 : Du champ d’application
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- Section 2 : De l’objet
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- Section 2 : Des définitions
+  - [Article 10](art-010.md)
+- CHAPITRE II : DES PRINCIPES FONDAMENTAUX
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+- CHAPITRE III : DES AUTORISATIONS
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+- CHAPITRE IV : DES EXPOSITIONS POTENTIELLES
+- Section I : Des dispositions relatives à la conception, à la fabrication et à la maintenance des appareils de rayonnements ionisants
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+- Section II: Des conditions d’accès aux lieux ou locaux renfermant des sources radioactives
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+- Section III : Des conditions de stockage des sources Radioactives scellées ou non scellées
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+- Section IV : Des contrôles radiologiques et de l’assurance qualité des sources radioactives scellées
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+- Section V: Du transport des sources radioactives
+  - [Article 4](art-004-2.md)
+  - [Article 47](art-047.md)
+- Section VI : De l’inventaire des sources radioactives
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+- CHAPITRE VI : DES DISPOSITIONS PROFESSIONNELLES
+- Section I : Des conditions de travail
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+- Section II : De l’organisation de la radioprotection en milieu ionisant professionnel
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+- Section III : Des limites des doses d’expositions
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+- Section IV : Des mesures de protection radiologique en milieu ionisant professionnel
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+- Section V : Des limites de doses pour les circonstances particulières
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+  - [Article 68](art-068.md)
+- Section VI: Du contrôle et de la protection Radiologiques des lieux de travail
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+- Section VII: De la surveillance dosimétrique et sanitaire des travailleurs
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+  - [Article 75](art-075.md)
+  - [Article 76](art-076.md)
+- CHAPITRE VIII : DES EXPOSITIONS MEDICALES
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+  - [Article 82](art-082.md)
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
+  - [Article 85](art-085.md)
+  - [Article 86](art-086.md)
+  - [Article 87](art-087.md)
+  - [Article 88](art-088.md)
+- CHAPITRE VIII : DE LA PROTECTION RADILOGIQUE DES PERSONNES DU PUBLIC
+- Section I : Des limites de doses applicables aux personnes du public
+  - [Article 89](art-089.md)
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+- Section II : Des prescriptions relatives aux établissements renfermant des sources radiatives
+  - [Article 92](art-092.md)
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+  - [Article 95](art-095.md)
+- Section III : De la surveillance et de la protection radiologiques de l’environnement
+  - [Article 96](art-096.md)
+  - [Article 97](art-097.md)
+- Section IV : Des contrôles de la contamination radioactive des produits de consommation humaine
+  - [Article 98](art-098.md)
+  - [Article 99](art-099.md)
+  - [Article 100](art-100.md)
+  - [Article 101](art-101.md)
+- Section V: Des expositions chroniques
+  - [Article 102](art-102.md)
+- Section VI : Des inspections radiologiques.
+  - [Article 103](art-103.md)
+  - [Article 104](art-104.md)
+- CHAPITRE IX : DISPOSITIONS DIVERSES ET FINALES
+  - [Article 105](art-105.md)
+  - [Article 106](art-106.md)
+  - [Article 107](art-107.md)
