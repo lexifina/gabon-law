@@ -1,0 +1,77 @@
+# Décret N° 000540/PR/MPT du 15/07/2005 fixant les modalités d’interconnexion des réseaux et services des télécommunications, de partage des infrastructures, des principes de tarification et la procédure d’arbitrage
+
+- Nature: Décret
+- Numéro: 000540/PR/MPT
+- Date du texte: 2005-07-15
+- Autorité: MINISTERE DES POSTES ET TELECOMMUNICATIONS
+- Publication: Journal officiel n°10 du 2005-10-01
+- Source: https://www.journal-officiel.ga/7476-000540-pr-mpt-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+- Chapitre I: Dispositions générales
+- Section 1: Des modalités d’interconnexion et de partage des infrastructures
+  - [Article 2](art-002.md)
+- Section 2: Des définitions
+  - [Article 3](art-003.md)
+- Chapitre II: De l’interconnexion
+- Section 1: Des règles relatives à l’interconnexion
+  - [Article 4](art-004.md)
+- Section 2 : De la mise en oeuvre de l’interconnexion des réseaux
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+- Section 3: Des conventions d’interconnexion
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+- Section 4: De l’interconnexion des services
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+- Section 5 : Du catalogue d’interconnexion
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+- Chapitre III : Du partage des infrastructures
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+- Chapitre V: De la procédure d’arbitrage des litiges
+- Section 1: De la procédure
+  - [Article 37](art-037.md)
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+- Section 2: Du règlement amiable
+  - [Article 46](art-046.md)
+- Chapitre VI: Dispositions diverses
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+- Chapitre V : Dispositions finales
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
