@@ -1,0 +1,114 @@
+# Loi N° 014/2005 du 08/08/2005 portant Code de déontologie de la fonction publique.
+
+- Nature: Loi
+- Numéro: 014/2005
+- Date du texte: 2005-08-08
+- Autorité: PARLEMENT
+- Publication: Journal officiel n°11 du 2005-11-01
+- Source: https://www.journal-officiel.ga/18119-014-2005/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+- Chapitre I : DISPOSITI0NS GENERALES
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- Chapitre II : DES PRINCIPES FONDAMENTAUX REGISSANT L’ADMINISTRATION
+  - [Article 5](art-005.md)
+- Section I : Du principe de la légalité et du principe d’égalité
+  - [Article 6](art-006.md)
+- Section 2 : Du principe de la continuité
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+- Section 3: Du principe de neutralité et du principe de mutabilité ou d’adaptabilité
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+- Section 4 : Du principe de la gratuité et du principe de la responsabilité
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+- CHAPITRE III : DES REGLES REGISSANT LES RAPPORTS DE L’ADMINISTRATION AVEC LES USAGERS
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+- Section 1 : Du libre accès et de la proximité
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+- Section 2 : De la qualité, de l’efficience, de la célérité et des délais de réponse
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+- Section 3 : De la transparence et de l’information
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+- Section 4 : De la fiabilité et de la confidentialité des informations concernant les citoyens
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+- Section 5: Des manuels des procédures et évaluations des services
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+- Section 6 : De la participation, de la consultation et de la médiation
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+- Section 1 : Du recrutement, des nominations et des promotions
+  - [Article 34](art-034.md)
+- Section 2 : De la mobilité et du redéploiement
+  - [Article 35](art-035.md)
+- Section 3 : De la formation et du perfectionnement
+  - [Article 36](art-036.md)
+- Section 4 : De la motivation et du dévouement
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+- Section 5 : De l’initiative et de l’efficacité
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+- Section 6 : Du commandement ou du pouvoir hiérarchique
+  - [Article 41](art-041.md)
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+- Section 7 : Des garanties et des protections
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+- Section 8 : De l’évaluation, de la notation et du contrôle
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+- Section 9 : De la responsabilité pénale et des sanctions disciplinaires
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+- CHAPITRE V : DES REGLES DE CONDUITE DE L’AGENT PUBLIC
+- Section 1 : De la loyauté et du respect de l’usager
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+- Section 2 : Du professionnalisme
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+  - [Article 59](art-059.md)
+- Section 3 : De l’intégrité et de la probité morale
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+- Section 4 : De la dignité
+  - [Article 63](art-063.md)
+- Section 5 : Des conflits d’intérêts et de la déclaration des biens
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+- Section 6 : De la neutralité politique et du devoir de réserve
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+- CHAPITRE VI : DISPOSITIONS DIVERSES ET FINALES
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
