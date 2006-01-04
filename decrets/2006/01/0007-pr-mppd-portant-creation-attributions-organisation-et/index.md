@@ -1,0 +1,60 @@
+# Décret N° 0007/PR/MPPD du 04/01/2006 portant création, attributions, organisation et fonctionnement de la commission nationale des travaux d’intérêt public pour la promotion de l‘Entreprenariat et de l’emploi.
+
+- Nature: Décret
+- Numéro: 0007/PR/MPPD
+- Date du texte: 2006-01-04
+- Autorité: Ministère de la Planification
+- Publication: Journal officiel n°1 du 2006-01-01
+- Source: https://www.journal-officiel.ga/7657-0007-pr-mppd-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1](art-001.md)
+  - [Article 2](art-002.md)
+- TITRE 1 : DE LA CREATION ET DES ATTRIBUTIONS
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+- TITRE 2 : DE L’ORGANISATION
+  - [Article 6](art-006.md)
+- CHAPITRE 1er: DE LA COMMISSION INTERMINISTERIELLE
+- SECTION 1 : DE L’ORGANISATION ET DES ATTRIBUTIONS
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+- SECTION 2: DU FONCTIONNEMENT
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- CHAPITRE II: DU COMITE DE PILOTAGE
+- SECTION 1 : DES ATTRIBUTIONS ET DE L’ORGANISATION
+  - [Article 13](art-013.md)
+- SECTION 2: DU FONCTIONNEMENT
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+- CHAPITRE I : DU SECRETARIAT PERMANENT
+- SECTION I : DES ATTRIBUTIONS ET DE L’ORGANISATION
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+- SOUS-SECTION 1 : DE L’UNITE TECHNIQUE D’EXECUTION ET DE L’UNITE ADMINISTRATIVE ET FINANCIERE
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+- SOUS-SECTION 2 : DE L’UNITE CHARGEE DU SUIVI-EVALUATION ET DE L’UNITE CHARGEE DE L’INFORMATION, DE L’EDUCATION ET DE LA COMMUNICATION
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+- SECTION 2 : DE LA COMMISSION DES MARCHES
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+- CHAPITRE IV: DU SERVICE D’AUDIT
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+- CHAPITRE V : DISPOSITIONS DIVERSES ET FINALES
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+  - [Article 35](art-035.md)
