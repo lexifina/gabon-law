@@ -1,0 +1,127 @@
+# Loi N° 020/2005 du 03/01/2006 fixant les règles de création, d’organisation et de gestion des services de l’Etat.
+
+- Nature: Loi
+- Numéro: 020/2005
+- Date du texte: 2006-01-03
+- Autorité: PARLEMENT
+- Publication: Journal officiel n°2 du 2006-02-01
+- Source: https://www.journal-officiel.ga/18085-020-2005-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1](art-001.md)
+- TITRE I: DISPOSITIONS GENERALES
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+- TITRE II: DE LA CREATION ET DE L’ORGANISATION DES SERVICES DE L’ETAT
+- CHAPITRE I: DES SERVICES PUBLICS
+  - [Article 8](art-008.md)
+- Section 1: Des services centraux
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+- Sous-section 1: Des unités de la ligne hiérarchique
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+- Sous-section 2: Des unités de la ligne fonctionnelle
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+  - [Article 18](art-018.md)
+- Sous-section 3: Des normes communes
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+- Section 2 : Des services déconcentrés
+  - [Article 22](art-022.md)
+- Sous-section 1: Des services territoriaux de l’Etat
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+  - [Article 28](art-028.md)
+- Sous-section 3: Des services à autonomie de gestion
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+- Section 3 : Des services publics chargés d’une mission temporaire
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+  - [Article 34](art-034.md)
+- Section 4 : Des services publics personnalisés
+- Sous-section 1: Des normes de création des services publics personnalisés de l’Etat
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+  - [Article 38](art-038.md)
+- Sous-section 2: Des Etablissements publics à caractère administratif
+  - [Article 39](art-039.md)
+  - [Article 40](art-040.md)
+- Sous-section 3: Des Etablissements publics à caractère professionnel
+  - [Article 41](art-041.md)
+- Sous-section 4: Des Etablissements publics à caractère industriel et commercial
+  - [Article 42](art-042.md)
+- Sous-section .5: Les Etablissements publics à caractère culturel, scientifique, technologique et environnemental
+  - [Article 43](art-043.md)
+- Sous-section 6: Des Sociétés d’Etat
+  - [Article 44](art-044.md)
+- Sous-section 7: Des Groupements d’intérêt public
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+- Section 5 : Des Services de la Présidence de la République
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+- Section 6 : Des Services ministériels
+- Sous-section 1: Des Services du Premier Ministre
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+- Sous-section 2: Des Départements ministériels
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+- Sous-section 3: Des cabinets techniques
+  - [Article 56](art-056.md)
+  - [Article 57](art-057.md)
+- Section 7 : Des Autorités administratives indépendantes
+  - [Article 58](art-058.md)
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+- Section 8 : Des services publics en concession
+  - [Article 61](art-061.md)
+- CHAPITRE II: DES CABINETS POLITIQUES ET DES CABINETS PARTICULIERS
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+  - [Article 68](art-068.md)
+- TITRE III :DE LA GESTION DES STRUCTURES ET DES EMPLOIS
+- CHAPITRE I: DES DISPOSITIONS COMMUNES
+  - [Article 69](art-069.md)
+- CHAPITRE II : DE LA GESTION DES STRUCTURES
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+  - [Article 75](art-075.md)
+- CHAPITRE III : DE LA GESTION DES EMPLOIS
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+  - [Article 82](art-082.md)
+- TITRE IV: DES DISPOSITIONS TRANSITOIRES ET FINALES
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
