@@ -18,3 +18,4 @@ Source : https://www.journal-officiel.ga/18083-journal-officiel-n2/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00072/PR du 20/01/2006 portant nomination du Président du Conseil économique et social.](../../../decrets/2006/01/00072-pr-portant-nomination-du-president-du-conseil/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00074/PR du 20/01/2006 portant nomination du Premier Ministre, Chef du Gouvernement.](../../../decrets/2006/01/00074-pr-portant-nomination-du-premier-ministre-chef-du/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00076/PR du 20/01/2006 portant nomination du Vice-Président de la République.](../../../decrets/2006/01/00076-pr-portant-nomination-du-vice-president-de-la/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00073/PR du 20/01/2006 mettant fin aux fonctions d’un Premier Ministre.](../../../decrets/2006/01/00073-pr-mettant-fin-aux-fonctions-d-un-premier-ministre/index.md)
