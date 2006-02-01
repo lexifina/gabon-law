@@ -16,3 +16,4 @@ Source : https://www.journal-officiel.ga/18083-journal-officiel-n2/
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00069/PR du 20/01/2006 portant nomination du Président du Conseil national de la Communication.](../../../decrets/2006/01/00069-pr-portant-nomination-du-president-du-conseil/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00070/PR du 20/01/2006 portant nomination d’un membre du Conseil économique et social](../../../decrets/2006/01/00070-pr-portant-nomination-d-un-membre-du-conseil/index.md)
 - PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00072/PR du 20/01/2006 portant nomination du Président du Conseil économique et social.](../../../decrets/2006/01/00072-pr-portant-nomination-du-president-du-conseil/index.md)
+- PRESIDENCE DE LA REPUBLIQUE — [Décret N° 00074/PR du 20/01/2006 portant nomination du Premier Ministre, Chef du Gouvernement.](../../../decrets/2006/01/00074-pr-portant-nomination-du-premier-ministre-chef-du/index.md)
