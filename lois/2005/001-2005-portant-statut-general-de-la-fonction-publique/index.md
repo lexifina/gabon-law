@@ -1,0 +1,264 @@
+# Loi N° 001/2005 du 04/02/2005 portant Statut général de la Fonction publique
+
+- Nature: Loi
+- Numéro: 001/2005
+- Date du texte: 2005-02-04
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°3 SPéCIAL du 2006-03-01
+- Source: https://www.journal-officiel.ga/7744-001-2005/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+- TITRE I
+- CHAPITRE 1er
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+  - [Article 5](art-005.md)
+- CHAPITRE 2
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+  - [Article 10](art-010.md)
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+  - [Article 16](art-016.md)
+  - [Article 17](art-017.md)
+- CHAPITRE 3
+  - [Article 18](art-018.md)
+  - [Article 19](art-019.md)
+  - [Article 20](art-020.md)
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+- CHAPITRE 4
+  - [Article 25](art-025.md)
+- TITRE 2
+  - [Article 26](art-026.md)
+- CHAPITRE 1er
+  - [Article 27](art-027.md)
+- CHAPITRE 2
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+- CHAPITRE 3
+  - [Article 32](art-032.md)
+  - [Article 33](art-033.md)
+- Section 1 : Du Ministère chargé de la Fonction publique
+  - [Article 34](art-034.md)
+- Section 2 : Des organes centraux de gestion
+  - [Article 35](art-035.md)
+  - [Article 36](art-036.md)
+  - [Article 37](art-037.md)
+- Section 3 : Des organes délégués de gestion
+  - [Article 38](art-038.md)
+  - [Article 39](art-039.md)
+- TITRE 3
+  - [Article 40](art-040.md)
+- CHAPITRE 1er
+  - [Article 41](art-041.md)
+- CHAPITRE 2
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+  - [Article 44](art-044.md)
+  - [Article 45](art-045.md)
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+  - [Article 48](art-048.md)
+- CHAPITRE 3
+  - [Article 49](art-049.md)
+  - [Article 50](art-050.md)
+  - [Article 51](art-051.md)
+  - [Article 52](art-052.md)
+  - [Article 53](art-053.md)
+  - [Article 54](art-054.md)
+  - [Article 55](art-055.md)
+  - [Article 56](art-056.md)
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+  - [Article 59](art-059.md)
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+  - [Article 63](art-063.md)
+- CHAPITRE 4
+  - [Article 64](art-064.md)
+  - [Article 65](art-065.md)
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+- CHAPITRE 5
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+  - [Article 72](art-072.md)
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+  - [Article 75](art-075.md)
+- CHAPITRE 6
+  - [Article 76](art-076.md)
+  - [Article 77](art-077.md)
+- CHAPITRE 7
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+  - [Article 80](art-080.md)
+  - [Article 81](art-081.md)
+  - [Article 82](art-082.md)
+- CHAPITRE 8
+- Section 1 : Des avantages
+  - [Article 83](art-083.md)
+  - [Article 84](art-084.md)
+- Section 2 : Des récompenses
+  - [Article 85](art-085.md)
+- Section 3 : De l’indemnité de services rendus
+  - [Article 86](art-086.md)
+- CHAPITRE 9
+  - [Article 87](art-087.md)
+  - [Article 88](art-088.md)
+  - [Article 89](art-089.md)
+  - [Article 90](art-090.md)
+  - [Article 91](art-091.md)
+  - [Article 92](art-092.md)
+- CHAPITRE 10
+  - [Article 93](art-093.md)
+  - [Article 94](art-094.md)
+  - [Article 95](art-095.md)
+- CHAPITRE 11
+  - [Article 96](art-096.md)
+  - [Article 97](art-097.md)
+  - [Article 98](art-098.md)
+  - [Article 99](art-099.md)
+- CHAPITRE 12
+  - [Article 100](art-100.md)
+- TITRE 4
+- CHAPITRE 1er
+  - [Article 101](art-101.md)
+  - [Article 102](art-102.md)
+  - [Article 103](art-103.md)
+  - [Article 104](art-104.md)
+  - [Article 105](art-105.md)
+  - [Article 106](art-106.md)
+- CHAPITRE 2
+  - [Article 107](art-107.md)
+- Section I : Du recrutement
+  - [Article 108](art-108.md)
+  - [Article 109](art-109.md)
+  - [Article 110](art-110.md)
+  - [Article 111](art-111.md)
+  - [Article 112](art-112.md)
+  - [Article 113](art-113.md)
+  - [Article 114](art-114.md)
+  - [Article 115](art-115.md)
+  - [Article 116](art-116.md)
+  - [Article 117](art-117.md)
+- Section 2 : De la période probatoire
+  - [Article 118](art-118.md)
+- Section 3 : De la titularisation, de la nomination à un emploi, de l’affectation, de la mutation et de la mise à disposition
+  - [Article 119](art-119.md)
+  - [Article 120](art-120.md)
+  - [Article 121](art-121.md)
+  - [Article 122](art-122.md)
+  - [Article 123](art-123.md)
+  - [Article 124](art-124.md)
+- Section 4 : De la nomination à fonction
+  - [Article 125](art-125.md)
+- CHAPITRE 3
+- Section 1 : De l’avancement
+  - [Article 126](art-126.md)
+  - [Article 127](art-127.md)
+  - [Article 128](art-128.md)
+  - [Article 129](art-129.md)
+  - [Article 130](art-130.md)
+- Section 2 : De la promotion
+  - [Article 131](art-131.md)
+  - [Article 132](art-132.md)
+  - [Article 133](art-133.md)
+- Section 3 : De la solde indiciaire
+  - [Article 134](art-134.md)
+  - [Article 135](art-135.md)
+  - [Article 136](art-136.md)
+  - [Article 137](art-137.md)
+- Section 4 : Des positions
+  - [Article 138](art-138.md)
+  - [Article 139](art-139.md)
+  - [Article 140](art-140.md)
+  - [Article 141](art-141.md)
+  - [Article 142](art-142.md)
+  - [Article 143](art-143.md)
+- Section 5 : De la formation et du perfectionnement
+  - [Article 144](art-144.md)
+  - [Article 145](art-145.md)
+  - [Article 146](art-146.md)
+  - [Article 147](art-147.md)
+- Section 6 : De la cessation définitive d’activité
+  - [Article 148](art-148.md)
+  - [Article 149](art-149.md)
+  - [Article 150](art-150.md)
+  - [Article 151](art-151.md)
+- TITRE 5
+  - [Article 152](art-152.md)
+- CHAPITRE I
+  - [Article 153](art-153.md)
+  - [Article 154](art-154.md)
+- Section 1 : Des conditions d’engagement
+  - [Article 155](art-155.md)
+  - [Article 156](art-156.md)
+  - [Article 157](art-157.md)
+  - [Article 158](art-158.md)
+  - [Article 159](art-159.md)
+  - [Article 160](art-160.md)
+- Section 2 : De la période d’essai et de la confirmation
+  - [Article 161](art-161.md)
+  - [Article 162](art-162.md)
+  - [Article 163](art-163.md)
+- Section 3 : du renouvellement du contrat
+  - [Article 164](art-164.md)
+  - [Article 165](art-165.md)
+  - [Article 166](art-166.md)
+- Section 4 : Du salaire de base
+  - [Article 167](art-167.md)
+  - [Article 168](art-168.md)
+  - [Article 169](art-169.md)
+  - [Article 170](art-170.md)
+- CHAPITRE 3
+  - [Article 171](art-171.md)
+  - [Article 172](art-172.md)
+  - [Article 173](art-173.md)
+- Section I : Du décès
+  - [Article 174](art-174.md)
+- Section 2 : Du non renouvellement du contrat
+  - [Article 175](art-175.md)
+  - [Article 176](art-176.md)
+- Section 3 : De la dénonciation du contrat
+  - [Article 177](art-177.md)
+  - [Article 178](art-178.md)
+  - [Article 179](art-179.md)
+  - [Article 180](art-180.md)
+  - [Article 181](art-181.md)
+- Section 4 : De la résiliation du contrat
+  - [Article 182](art-182.md)
+- CHAPITRE 4
+- Section 1 : Des congés et permissions
+  - [Article 183](art-183.md)
+  - [Article 184](art-184.md)
+  - [Article 185](art-185.md)
+  - [Article 186](art-186.md)
+  - [Article 187](art-187.md)
+  - [Article 188](art-188.md)
+  - [Article 189](art-189.md)
+  - [Article 190](art-190.md)
+  - [Article 191](art-191.md)
+- Section 2 : Des voyages et du transport
+  - [Article 192](art-192.md)
+- TITRE 6
+  - [Article 193](art-193.md)
+  - [Article 194](art-194.md)
+  - [Article 195](art-195.md)
+  - [Article 196](art-196.md)
