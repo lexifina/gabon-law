@@ -1,0 +1,226 @@
+# Loi N° 021/2005 du 10/01/2006 portant loi d’orientation de la stratégie de développement économique et social en République gabonaise
+
+- Nature: Loi
+- Numéro: 021/2005
+- Date du texte: 2006-01-10
+- Autorité: Assemblée Nationale
+- Publication: Journal officiel n°4 du 2006-04-01
+- Source: https://www.journal-officiel.ga/7806-021-2005-/
+
+Texte publié par le Journal officiel de la République gabonaise (journal-officiel.ga), version HTML de l'éditeur, sans OCR.
+
+  - [Article 1er](art-001.md)
+  - [Article 2](art-002.md)
+  - [Article 3](art-003.md)
+  - [Article 4](art-004.md)
+- TITRE I : DE LA CONSOLIDATION DU CADRE MACRO-ECONOMIQUE
+  - [Article 5](art-005.md)
+- Chapitre 1er : De la mise en place d’une politique d’allocation des ressources sur le long terme
+  - [Article 6](art-006.md)
+  - [Article 7](art-007.md)
+  - [Article 8](art-008.md)
+  - [Article 9](art-009.md)
+- Chapitre deuxième : De l’amélioration de l’efficacité et la transparence de la gestion des finances publiques
+  - [Article 10](art-010.md)
+- Chapitre troisième : De la politique de l’endettement
+  - [Article 11](art-011.md)
+  - [Article 12](art-012.md)
+  - [Article 13](art-013.md)
+  - [Article 14](art-014.md)
+  - [Article 15](art-015.md)
+- TITRE II : DE LA CROISSANCE PAR LA DIVERSIFICATION DE L’ECONOMIE
+  - [Article 16](art-016.md)
+- Chapitre premier : Des conditions de développement du secteur privé
+  - [Article 17](art-017.md)
+- Chapitre deuxième : De l’élargissement de l’espace économique national par l’intégration sous-régionale et régionale
+  - [Article 18](art-018.md)
+- Chapitre troisième : De l’accroissement de la compétitivité
+  - [Article 19](art-019.md)
+- Chapitre quatrième : Des stratégies de développement des secteurs porteur
+  - [Article 20](art-020.md)
+- Section : Du développement du secteur agricole
+  - [Article 21](art-021.md)
+  - [Article 22](art-022.md)
+- Sous-section 1 : De l’accroissement de la productivité
+  - [Article 23](art-023.md)
+  - [Article 24](art-024.md)
+  - [Article 25](art-025.md)
+- Sous-section 2 : De la diversification et de la complémentarité des activités du secteur agricole
+  - [Article 26](art-026.md)
+  - [Article 27](art-027.md)
+- Sous-section 3 : Du développement des capacités productives en milieu rural
+  - [Article 28](art-028.md)
+  - [Article 29](art-029.md)
+- Sous-section 4 : Du développement des circuits de commercialisation
+  - [Article 30](art-030.md)
+  - [Article 31](art-031.md)
+  - [Article 32](art-032.md)
+- Sous-section 5 : De l’accès des populations rurales aux services publics et de l’amélioration de leurs conditions de vie
+  - [Article 33](art-033.md)
+- Section 2 : Du développement du secteur de la pêche et de l’aquaculture
+  - [Article 34](art-034.md)
+- Sous-section 1 : De la mise en place d’un cadre de gestion durabledes ressources halieutiques
+  - [Article 35](art-035.md)
+- Sous-section 2 : De la promotion des activités de la pêche, et de la transformation des ressources halieutiques
+  - [Article 36](art-036.md)
+- Section 3 : Du développement du secteur pétrolier
+- Sous-section 1 : De l’exploration et de la reconstitution des réserves pétrolières
+  - [Article 37](art-037.md)
+- Sous-section 2 : De l’institution d’un cadre juridique attractif
+  - [Article 38](art-038.md)
+- Section 4 : Du développement du secteur minier
+- Sous-section 1 : Du renforcement du cadre organique pour la promotion du secteur minier
+  - [Article 39](art-039.md)
+- Sous-section 2 : De l’institution d’un cadre juridique attractif
+  - [Article 40](art-040.md)
+- Sous-section 3 : De l’exploration et de la recherche géologique
+  - [Article 41](art-041.md)
+- Section 5 : Du développement de économie forestière
+  - [Article 42](art-042.md)
+  - [Article 43](art-043.md)
+- Section 6 : Du développement du tourisme
+  - [Article 44](art-044.md)
+- Sous-section 1 : De la création et de la promotion d’un produit touristique attractif
+  - [Article 45](art-045.md)
+- Sous-section 2 : De la promotion des activités du tourisme
+  - [Article 46](art-046.md)
+  - [Article 47](art-047.md)
+- Section 7 : Du développement des activités de services
+  - [Article 48](art-048.md)
+- Sous-section I : De la consolidation d’une image internationale valorisante
+  - [Article 49](art-049.md)
+- Sous-section 2 : De l’émergence d’un pôle régional de communication
+  - [Article 50](art-050.md)
+- Sous-section 3 : De la promotion des activités de recherche et de gestion de l’environnement
+  - [Article 51](art-051.md)
+- Sous-section 4 : De la promotion des services à forte valeur ajouté
+  - [Article 52](art-052.md)
+- TITRE III : DE LA STRATEGIE DE DEVELOPPEMENT HUMAIN ET DE LUTTE CONTRE LA PAUVRETE
+  - [Article 53](art-053.md)
+- Chapitre premier : De l’éducation et de la formation
+- Section 1 : De l’encadrement du système éducation formation
+  - [Article 54](art-054.md)
+- Section 2 : De la mise en place des outils de planification et de gestion dans le système éducation- formation
+  - [Article 55](art-055.md)
+- Chapitre deuxième : De l’éducation nationale
+- Section 1 : De la réorganisation de la gestion du ministère de l’éducation nationale
+  - [Article 56](art-056.md)
+- Section 2: De l’amélioration du rendement du système éducatif
+  - [Article 57](art-057.md)
+  - [Article 58](art-058.md)
+- Chapitre troisième : De l’enseignement supérieur
+  - [Article 59](art-059.md)
+- Chapitre quatrième : De la formation professionnelle
+- Section 1 : De la restructuration de l’Agence Nationale de Formation et de Perfectionnement Professionnel
+  - [Article 60](art-060.md)
+  - [Article 61](art-061.md)
+  - [Article 62](art-062.md)
+- Section 2 : De l’élargissement du domaine d’intervention de l’Agence Nationale de Formation et de Perfectionnement Professionnel
+  - [Article 63](art-063.md)
+  - [Article 64](art-064.md)
+- Section 3 : Des incitations fiscales pour la promotion de la formation et le perfectionnement professionnels
+  - [Article 65](art-065.md)
+- Chapitre cinquième : De la stratégie de l’emploi
+  - [Article 66](art-066.md)
+  - [Article 67](art-067.md)
+- Chapitre sixième : De la stratégie de santé publique et de solidarité
+  - [Article 68](art-068.md)
+  - [Article 69](art-069.md)
+- Chapitre septième : De la stratégie de lutte conte la pauvreté
+  - [Article 70](art-070.md)
+  - [Article 71](art-071.md)
+- TITRE IV : DE LA STRATEGIE D’AMENAGEMENT DU TERRITOIRE ET DE PRESERVATION DE L’ENVIRONNEMENT
+  - [Article 72](art-072.md)
+- Chapitre premier : Des politiques sectorielles en matière de transport
+  - [Article 73](art-073.md)
+  - [Article 74](art-074.md)
+- Section 1 : Du sous-secteur routier
+- Sous-section : 1 De la réhabilitation et de l’entretien du réseau routier
+  - [Article 75](art-075.md)
+- Sous-section 2 : Du programme d’aménagement routier
+  - [Article 76](art-076.md)
+- Section 2 : Du sous-secteur portuaire, maritime et fluvial
+- Sous-section 1: De l’amélioration de la compétitivité et des échanges internationaux
+  - [Article 77](art-077.md)
+  - [Article 78](art-078.md)
+  - [Article 79](art-079.md)
+- Section 3 : Du sous-Secteur aérien et aéroportuaire
+- Sous-section 1 : Du recentrage du réseau public aérien et aéroportuaire
+  - [Article 80](art-080.md)
+- Sous-section 2 : De la libéralisation du transport aérien
+  - [Article 81](art-081.md)
+- Sous-section 3 : De la privatisation de la compagnie nationale
+  - [Article 82](art-082.md)
+- Section 4 : Du sous-secteur ferroviaire
+  - [Article 83](art-083.md)
+- Section 5 : Du sous-secteur ferroviaire
+  - [Article 84](art-084.md)
+- Section 6 : De l’intermodalité
+  - [Article 85](art-085.md)
+- Chapitre deuxième : De la stratégie du secteur de l’information et de la communication
+- Section 1 : De la libéralisation du secteur de l’information et de la communication
+  - [Article 86](art-086.md)
+- Section 2 : De l’égal accès aux technologies de l’information et de la communication
+  - [Article 87](art-087.md)
+- Section 3 : De l’adaptation des infrastructures aux besoins des technologies de l’information et de la communication
+  - [Article 88](art-088.md)
+- Section 4 : De la réorganisation du service public de la poste
+  - [Article 89](art-089.md)
+- Chapitre troisième : De la stratégie du secteur de l’eau et de l4électiicité
+- Section 1 : De la satisfaction de la demande d’eau et d’électricité
+  - [Article 90](art-090.md)
+- Section 2 : De la promotion de nouveaux opérateurs dans le domaine hors concession de l’eau et de l’électricité
+  - [Article 91](art-091.md)
+- Section 3 : du renforcement des programmes d’hydraulique villageoise
+  - [Article 92](art-092.md)
+- Chapitre quatrième : De la stratégie de développement du secteur urbain
+- Section 1 : De l’adaptation de l’urbanisme et de la planification urbaine
+  - [Article 93](art-093.md)
+- Section 2 : De l’accession des ménages à la sécurité foncière
+  - [Article 94](art-094.md)
+- Section 3 : De l’amélioration des conditions d’environnement dans les quartiers
+  - [Article 95](art-095.md)
+- Section 4 : De l’amélioration des réseaux d’infrastructures pour accompagner l’extension urbaine
+  - [Article 96](art-096.md)
+- Section 5 : Du financement des villes
+  - [Article 97](art-097.md)
+- Section 6 : De l’adaptation des institutions aux besoins et contraintes nouvelles
+  - [Article 98](art-098.md)
+- Chapitre cinquième : De la stratégie d’aménagement et de développement du territoire
+  - [Article 99](art-099.md)
+  - [Article 100](art-100.md)
+- Section 1 : De b restructuration de l’espace national
+  - [Article 101](art-101.md)
+  - [Article 102](art-102.md)
+- Section 2 : Du développement des synergies locales
+  - [Article 103](art-103.md)
+  - [Article 104](art-104.md)
+- Section 3 : De l’adaptation du cadre institutionnel à la stratégie et de développement du territoire
+  - [Article 105](art-105.md)
+- Chapitre sixième : De la stratégie en matière d’environnement
+  - [Article 106](art-106.md)
+- Section 1 : De l’amélioration du cadre de vie des populations
+  - [Article 107](art-107.md)
+- Section 2 : Du développement durable
+  - [Article 108](art-108.md)
+- Section 3 : Du renforcement du dispositif institutionnel en matière d’environnement
+  - [Article 109](art-109.md)
+- TITRE V : DE LA CONSOLIDATION DE L’ETAT DE DROIT, DE LA REFORME ADMINISTRATIVE ET DE L’INTEGRATION REGIONALE
+  - [Article 110](art-110.md)
+- Chapitre premier : De la consolidation de l’Etat de droit
+- Section 1 : De la vulgarisation de la culture démocratique
+  - [Article 111](art-111.md)
+  - [Article 112](art-112.md)
+- Section 1 : De la promotion de la bonne gouvernance
+  - [Article 113](art-113.md)
+- Chapitre deuxième : De la réforme administrative
+- Section 1 : De la réforme des services publics
+  - [Article 114](art-114.md)
+- Section 2 : De la valorisation des ressources humaines
+  - [Article 115](art-115.md)
+- Section 3 : De l’amélioration des pratiques opérationnelles
+  - [Article 116](art-116.md)
+- Chapitre troisième : De l’intégration sous-régionale et régionale
+  - [Article 117](art-117.md)
+- TITRE VI : DES DISPOSITIONS DIVERSES ET FINALES
+  - [Article 118](art-118.md)
