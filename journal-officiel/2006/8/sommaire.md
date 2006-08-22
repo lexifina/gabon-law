@@ -1,0 +1,14 @@
+# Journal officiel n°8 du 2006-08-01
+
+Source : https://www.journal-officiel.ga/19459-journal-officiel-n8/
+
+- COUR CONSTITUTIONNELLE — Décision N° 026/GCC du 29/08/2006 relative à la nomination du Président de la Commission électorale nationale autonome et permanente. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 025/GCC du 24/08/2006 relative au remplacement d’un conseiller au conseil départemental de MOULENGUI BINZA. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 021/GCC du 10/08/2006 relative à la requête en inconstitutionnalité du décret portant nomination des membres du Bureau du Conseil économique et social. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 023/GCC du 10/08/2006 relative à la requête de la Fédération Nationale de l’Association des Personnes Handicapées du Gabon aux fins d’annulation de la désignation des représentants de l’Association Nationale des Personnes Handicapées du Gabon. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 024/GCC du 10/08/2006 2006 relative à la requête aux fins d’annulation de l’élection du 29 avril 2006 en vue du renouvellement des membres du Conseil économique et social, pour le siège des personnes handicapées. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 019/GCC du 08/08/2006 relative à la requête de Monsieur Samuel NTOUTOUME NDZENG tendant à voir déclarer inconstitutionnels les décrets n°000496/PR du 1 juin 2006 portant nomination et homologation des membres du Conseil économique et social et n°000497/PR du 1er juin 2006 portant nomination des quinze membres du groupe Etat au Conseil économique et social. (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 020/GCC du 08/08/2006 relative à la rectification d’une erreur matérielle affectant le décret N° 000496/PR du 1er juin 2006 portant nomination et homologation des membres du Conseil économique et social (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 018/GCC du 03/08/2006 relative à la requête de Monsieur Gustave Syranoh MAGNANGA tendant à voir déclarer inconstitutionnel le décret portant nomination des membres du Bureau du Conseil économique et social (jurisprudence, dépôt séparé)
+- COUR CONSTITUTIONNELLE — Décision N° 017/GCC du 01/08/2006 relative à la requête de Monsieur Jean-Pierre TCHOUA tendant à voir déclarer inconstitutionnel le décret portant nomination des membres du Bureau du Conseil économique et social. (jurisprudence, dépôt séparé)
+- Présidence de la République — [Ordonnance N° 004/2006 du 22/08/2006 portant modification et abrogation de certaines dispositions de la loi n°07/96 du 12 mars 1996 portant dispositions communes à toutes les élections politiques, modifiée.](../../../ordonnances/2006/004-2006-portant-modification-et-abrogation-de-certaines/index.md)
