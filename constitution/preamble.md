@@ -1,0 +1,5 @@
+# Préambule
+Le Peuple gabonais, conscient de sa responsabilité devant Dieu et devant l'Histoire, animé de la volonté d'assurer son indépendance et son unité nationale, d'organiser la vie commune d'après les principes de la souveraineté nationale, de la démocratie pluraliste, de la justice sociale et de la légalité républicaine (Loi n°14/2000 du 11 octobre 2000) ;
+Affirme solennellement son attachement aux droits de l'Homme et aux libertés fondamentales tels qu'ils résultent de la Déclaration des Droits de l'Homme et du Citoyen de 1789 et de la Déclaration Universelle des Droits de l'Homme de 1948, consacrés par la Charte Africaine des Droits de l'Homme et des Peuples de 1981 et par la Charte Nationale des Libertés de 1990 (Loi n°1/97 du 22 avril 1997) ;
+Proclame solennellement son attachement à ses valeurs sociales profondes et traditionnelles, à son patrimoine culturel, matériel et spirituel, au respect des libertés, des droits et des devoirs du citoyen (Loi n°047/2010 du 12 janvier 2011).
+En vertu de ces principes et de la souveraineté des peuples, il adopte la présente Constitution.
