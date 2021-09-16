@@ -1,0 +1,3 @@
+Constitue un acte de harcèlement sexuel le fait d'imposer, de façon répétée, des propos ou comportements à connotation sexuelle ou sexiste qui, soit portent atteinte à la dignité de la personne en raison de leur caractère dégradant ou humiliant, soit créent à son encontre une situation intimidante, hostile ou offensante.
+Est assimilé au harcèlement sexuel le fait, même non répété, d'user de toute forme de pression dans le but réel ou apparent d'obtenir un acte ou des faveurs de nature sexuelle, au profit de l'auteur ou au profit d'un tiers.
+Quiconque se rend coupable de harcèlement sexuel est puni d'un emprisonnement de six mois au plus et d'une amende de 2.000.000 de francs au plus.
