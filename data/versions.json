@@ -1,0 +1,59 @@
+{
+ "country": "GA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution de la République gabonaise (loi n°3/91 du 26 mars 1991, modifiée jusqu'à la loi n°046/2020 du 11 janvier 2021)",
+   "url": "https://www.journal-officiel.ga/constitution",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 147,
+     "source_url": "https://www.journal-officiel.ga/constitution",
+     "sha256": "16242204621851ec52fa5321cdca956c4413a03d41d76499dc4d3a6c00dc57d2"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal de la République gabonaise (loi n°006/2020)",
+   "url": "https://journal-officiel.ga/code-penal",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 685,
+     "source_url": "https://journal-officiel.ga/code-penal",
+     "sha256": "f76394defc933b568c548e3ae124d2d358b4227d6fe94c21a0845c5e0e57ef97"
+    },
+    {
+     "from": "2021-09-16",
+     "units": 694,
+     "source_url": "https://journal-officiel.ga/17697-005-2021/",
+     "sha256": "ba3158eca4619edfc9a31712d5712e69e1df643a5bc9f1ba29526e1c8251ff2d"
+    }
+   ]
+  },
+  {
+   "slug": "code-civil",
+   "short": "Code civil, 1re partie",
+   "title": "Code civil de la République gabonaise, première partie: des personnes et de la famille (loi n°15/72)",
+   "url": "https://journal-officiel.ga/code-civil-1ere-et-2eme-partie",
+   "versions": [
+    {
+     "from": "2017-08-03",
+     "units": 643,
+     "source_url": "https://journal-officiel.ga/code-civil-1ere-et-2eme-partie",
+     "sha256": "d3b9e89f7b4febc4e07a9e64d7fa81b48e91e283c95822002a144a3351a08cfa"
+    },
+    {
+     "from": "2021-09-16",
+     "units": 648,
+     "source_url": "https://journal-officiel.ga/17696-004-2021/",
+     "sha256": "c98a64b7ff384e80318b8b7b05cc0d0767e0b66c0974b48a6d33a9ef219661da"
+    }
+   ]
+  }
+ ]
+}

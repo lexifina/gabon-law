@@ -1,0 +1,11 @@
+{
+  "path": "ga",
+  "code": "GA",
+  "name": "Gabon",
+  "level": "country",
+  "repo": "https://github.com/lexifina/gabon-law",
+  "build": "built: Constitution 1991 as consolidated to 2021 (not the 2024 Constitution), Code pénal 2020 and 2021, Code civil première partie 2017 and 2021",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}
