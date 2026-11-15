@@ -1,59 +1,87 @@
 # Gabon: law history in git
 
+
+The law of Gabon as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Gabon's national law, which global-law reads at `gabon/national/acts/`.
 
-The law of Gabon as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; `tools/on.py` gives the text in force on any day.
+**What is in it now:** three acts, with 5 versions: the Constitution of 1991 as amended to 2021 (133 articles, one version), the Code pénal of 2020 (694 articles, two versions) and the first part of the Code civil, on persons and the family (648 articles, two versions). Each act's `README.md` lists its articles and when each last changed; [`data/laws.csv`](data/laws.csv) lists the 17 laws the record names.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ga/`.
+Each act is a folder, and each article a file named by its printed number: `code-penal/art-230.md` is Article 230 of the Code pénal, `code-penal/art-223-4-bis.md` is Article 223-4 bis, and the Constitution's Préambule is `constitution/preamble.md`.
 
-Language: the official language, French. This README is English first.
+The text is in French, as the Journal Officiel prints it. An English translation is not part of this record.
 
-**What is in it now**
-
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution de la République gabonaise (loi n°3/91 du 26 mars 1991) as consolidated to the loi n°046/2020 du 11 janvier 2021 | 1 | One "oldest version available": the consolidated text the Journal Officiel site prints, dated 11 January 2021 |
-
-| `code-penal/` | Code pénal (loi n°006/2020 du 30 juin 2020, which replaced loi n°042/2018) | 2 | The Code as promulgated on 30 June 2020 (685 articles), then the changes made by loi n°005/2021, in force from 16 September 2021 (18 articles changed or added) |
-| `code-civil/` | Code civil, première partie: des personnes et de la famille (loi n°15/72 du 29 juillet 1972), articles 1 to 645 | 2 | The consolidated text the Journal Officiel site prints (completed by loi n°009/2010, modified by loi n°003/2017), dated 3 August 2017 as the oldest version available, then the changes made by loi n°004/2021, in force from 16 September 2021 (45 articles changed, added or repealed) |
-
-The constitution is one text with no change history. The two codes each have two versions.
-
-## What it does not show
-
-- **It is the Constitution before 2024.** Gabon adopted a new Constitution by referendum on 16 November 2024, promulgated on 19 December 2024. The Journal Officiel site's Constitution page still prints the 1991 text as amended to 2021, and no text of the 2024 Constitution was found on an official site with a text layer, so it is not here. **Do not read this repository as the law in force today.**
-- **Amendments before 2021 are already applied.** The site prints the Constitution as amended in 1994, 1995, 1997, 2000, 2003, 2011, 2018 and 2021, and gives no earlier wording, so there is no history between 1991 and 2021. Those amending laws are named as the earlier laws in the first commit.
-- **Other law.** Only these three acts. The second part of the Code civil (property, successions, contracts), the Code de commerce, the Code de procédure pénale and the other codes are not here: the site's codes page shows them only as images, or not at all (commercial law is largely the OHADA Uniform Acts).
-- **The 2021 versions are Lexifina's application of the amending laws.** The site prints the Code pénal as of 2020 and the Code civil as of 2017, and publishes the 2021 laws separately; it publishes no consolidated 2021 text. The 2021 versions were made by applying each amending law's "article nouveau" texts to the earlier text (see `REPRODUCE.md`, "decisions"). Loi n°004/2021 also changes articles 699 and 700, which belong to the second part of the Code civil and are not applied. Later amendments to either code, if any, are not in the record. Check the Journal Officiel before relying on any wording.
-- **Code civil gaps in the source.** The page has no articles 220 and 614.
-- Headings (Livre, Titre, Chapitre, Section) are left out of the codes; articles are the units.
-- Signature blocks after Article 114, and the per-article notes naming the amending law, are left out of the text.
-- This is not legal advice, and it is not an official text.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| Article 4 as printed | `python tools/on.py 2021-01-11 constitution art-004` |
-| Who wrote each line of Article 4? | `git blame constitution/art-004.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
+| Every change to Article 230 of the Code pénal | `git log -p --word-diff -- code-penal/art-230.md` |
+| Which law wrote each line of Article 230? | `git blame code-penal/art-230.md` |
+| Every version of the Code pénal, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- "code-penal/art-*"` |
+| Article 230 as in force on 1 January 2021 | `python tools/on.py 2021-01-01 code-penal art-230` |
 
-Files are named by the printed number: `art-004` is Article 4, `art-224-1` is Article 224-1, `art-011-a` is Article 11a, `titre-02` is Titre II, and `preamble` is the Préambule.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Gabonese law](https://global-law.lexifina.com/v1/try_claude?country=gabon)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=gabon)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=mariage&jurisdictions=gabon)**: a search of Gabonese law for "mariage", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add gabon/national/acts
+python3 tools/law.py show 2026-01-01 gabon/national/acts/code-penal/art-230.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Libreville, on the day the version took effect. The constitution's single version is dated 11 January 2021, the date of the latest amending law the site names (loi n°046/2020). The Code pénal's first version is dated 30 June 2020 (promulgation and publication in Journal officiel n°72 bis spécial), the 2021 versions 16 September 2021 (Journal officiel n°131, publication of loi n°005/2021 and n°004/2021). The Code civil's first version is dated by the last law the page names. The site gives no other entry-into-force dates.
+Each commit is dated at noon, Africa/Libreville, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-## What "author" means
+- the Code pénal as enacted: 30 June 2020, the day loi n°006/2020 was promulgated and published (Journal officiel n°72 bis spécial);
+- the 2021 changes to both codes: 16 September 2021, the day loi n°005/2021 and loi n°004/2021 were published (Journal officiel n°131);
+- the Constitution and the Code civil's first version: the date of the latest law the source names as included (loi n°046/2020 of 11 January 2021; loi n°003/2017 of 3 August 2017). The source gives no other day these texts took effect.
 
-The author of a commit is the law that made the change, at an address that cannot exist. For the constitution and the Code civil's first version the commit is by the publisher, the Journal Officiel, as the **oldest version available**, naming the 1991 law and its eight amending laws.
+Each change is credited to the law that made it (`Loi 005/2021`). The Constitution and the Code civil's first version are credited to the publisher, the Journal Officiel, as the "oldest version available", and their commit messages name the laws the text already includes (the 1991 Constitution and its eight amending laws; loi n°15/72, n°009/2010 and n°003/2017).
 
-## How it is built
+## How it is checked
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 5 versions of 3 acts, no mismatches.
+- Every commit's trailers parse; there are no merge commits, commit dates never go backwards and none is dated after the build.
+- The Code pénal of 2020 matches the published text of loi n°006/2020 article by article, apart from two typographic differences (articles 75-7 and 318).
+- `tools/build.py` writes the history from one corpus file, and the same corpus gives the same commit hashes; no second build has been compared yet. The details are in [`REPRODUCE.md`](REPRODUCE.md).
 
-The text comes from the Journal Officiel de la République Gabonaise (https://journal-officiel.ga): the Constitution page (retrieved 29 October 2026), and, retrieved 30 October 2026, the pages for the Code pénal (`/code-penal`, `/4704-006-2020-/`), loi n°005/2021 (`/17697-005-2021/`), the Code civil (`/code-civil-1ere-et-2eme-partie`) and loi n°004/2021 (`/17696-004-2021/`). The site publishes no licence; the law of the Republic is public law, reproduced with this attribution.
+## What it does not show
 
-Changes made by Lexifina: the page was converted to one Markdown file per provision, one paragraph or item per line; spacing, quotes and dashes were normalised; the amendment notes in the article headings and the signature blocks were left out. The wording of the law was not changed. The Journal Officiel and the Government of Gabon do not endorse this repository.
+- **The Constitution in force.** Gabon adopted a new Constitution by referendum on 16 November 2024, promulgated on 19 December 2024. The Journal Officiel site does not carry its text, so the Constitution here is the 1991 text it replaced.
+- **Earlier wording.** The first version of the Constitution already includes its amendments of 1994 to 2021, and that of the Code civil the laws of 2010 and 2017; there is no history before them.
+- **An official 2021 text.** The site publishes no consolidated text after the 2021 laws: the 2021 versions apply each law's amendments to the earlier text (see `REPRODUCE.md`). Loi n°004/2021 also changes articles 699 and 700, in the Code civil's second part, which are not applied; later amendments, if any, are not here.
+- **Most of Gabonese law.** The second part of the Code civil, the Code de commerce, the Code de procédure pénale and the other codes are not here: the site shows them only as images, or not at all. Commercial law is largely the OHADA Uniform Acts.
+- **Headings and notes.** The codes' headings (Livre, Titre, Chapitre, Section), the Constitution's signature blocks and the notes naming amending laws are left out. The source has no Code civil articles 220 and 614.
 
-Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Journal Officiel de la République Gabonaise](https://journal-officiel.ga) | Official journal: the Constitution, the codes and the laws | no, one consolidated text per act | The Constitution, Code pénal and Code civil pages, and the laws n°006/2020, n°005/2021 and n°004/2021, retrieved on 29 and 30 October 2026 |
+
+## Licence
+
+See [`LICENSE`](LICENSE). The site publishes no licence for its legislation pages; the texts are the public law of the Republic of Gabon, reproduced with attribution, and their copyright status is not confirmed. Lexifina's own contributions (the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
+
+No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
