@@ -61,6 +61,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi 005/2021`). L
 - Les trailers de chaque commit se lisent sans erreur ; il n’existe aucun commit de fusion, les dates des commits ne reculent jamais et aucune n’est postérieure à la construction.
 - Le Code pénal de 2020 concorde article par article avec le texte publié de la loi n°006/2020, à l’exception de deux différences typographiques (articles 75-7 et 318).
 - `tools/build.py` écrit l’historique à partir d’un seul fichier de corpus, et le même corpus donne les mêmes empreintes de commit ; aucune seconde construction n’a encore été comparée. Le détail figure dans [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -83,6 +84,10 @@ Voir [`LICENSE`](LICENSE). Le site ne publie aucune licence pour ses pages consa
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

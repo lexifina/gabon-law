@@ -61,6 +61,7 @@ Each change is credited to the law that made it (`Loi 005/2021`). The Constituti
 - Every commit's trailers parse; there are no merge commits, commit dates never go backwards and none is dated after the build.
 - The Code pénal of 2020 matches the published text of loi n°006/2020 article by article, apart from two typographic differences (articles 75-7 and 318).
 - `tools/build.py` writes the history from one corpus file, and the same corpus gives the same commit hashes; no second build has been compared yet. The details are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the law that made it (`Loi 005/2021`). The Constituti
 See [`LICENSE`](LICENSE). The site publishes no licence for its legislation pages; the texts are the public law of the Republic of Gabon, reproduced with attribution, and their copyright status is not confirmed. Lexifina's own contributions (the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
