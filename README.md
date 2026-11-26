@@ -11,9 +11,9 @@ Le droit gabonais sous forme d’historique git : un fichier par article, un com
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national gabonais, que global-law lit dans `gabon/national/acts/`.
 
-**Contenu actuel :** trois textes, en 5 versions : la Constitution de 1991 telle que modifiée jusqu’en 2021 (133 articles, une version), le Code pénal de 2020 (694 articles, deux versions) et la première partie du Code civil, relative aux personnes et à la famille (648 articles, deux versions). Le `README.md` de chaque texte en énumère les articles et la date de la dernière modification de chacun ; [`data/laws.csv`](data/laws.csv) énumère les 17 lois que mentionne le registre.
+**Contenu actuel :** la Constitution du 19 décembre 2024 (173 articles ; la Constitution de 1991 reste dans l’historique), les textes publiés au Journal officiel depuis 1960 (lois, ordonnances, décrets, arrêtés, ajoutés numéro par numéro ; voir [STRUCTURE.md](STRUCTURE.md)), le Code pénal de 2020 (694 articles, deux versions) et la première partie du Code civil, relative aux personnes et à la famille (648 articles, deux versions). Le `README.md` de chaque texte en énumère les articles et la date de la dernière modification de chacun ; [`data/laws.csv`](data/laws.csv) énumère les 17 lois que mentionne le registre.
 
-Chaque texte est un dossier, et chaque article un fichier nommé d’après son numéro imprimé : `code-penal/art-230.md` est l’article 230 du Code pénal, `code-penal/art-223-4-bis.md` est l’article 223-4 bis, et le préambule de la Constitution est `constitution/preamble.md`.
+Chaque texte est un dossier, et chaque article un fichier nommé d’après son numéro imprimé : `codes/code-penal/art-230.md` est l’article 230 du Code pénal, `codes/code-penal/art-223-4-bis.md` est l’article 223-4 bis, le préambule de la Constitution est `constitution/preambule.md`, et une loi est `lois/<année>/<numéro>-<objet>/`.
 
 Le texte est en français, tel que l’imprime le Journal Officiel. Une traduction anglaise ne fait pas partie de ce registre.
 
@@ -21,10 +21,10 @@ Le texte est en français, tel que l’imprime le Journal Officiel. Une traducti
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 230 du Code pénal | `git log -p --word-diff -- code-penal/art-230.md` |
-| Quelle loi a écrit chaque ligne de l’article 230 ? | `git blame code-penal/art-230.md` |
-| Toutes les versions du Code pénal, avec le jour d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- "code-penal/art-*"` |
-| L’article 230 tel qu’en vigueur le 1er janvier 2021 | `python tools/on.py 2021-01-01 code-penal art-230` |
+| Toutes les modifications de l’article 230 du Code pénal | `git log -p --word-diff -- codes/code-penal/art-230.md` |
+| Quelle loi a écrit chaque ligne de l’article 230 ? | `git blame codes/code-penal/art-230.md` |
+| Toutes les versions du Code pénal, avec le jour d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- "codes/code-penal/art-*"` |
+| L’article 230 tel qu’en vigueur le 1er janvier 2021 | `python tools/on.py 2021-01-01 codes/code-penal art-230` |
 
 **En dehors de git**, nous hébergeons aussi ce registre publiquement, gratuitement :
 
@@ -40,7 +40,7 @@ Les deux assistants lisent le registre au moyen du connecteur gratuit Global law
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add gabon/national/acts
-python3 tools/law.py show 2026-01-01 gabon/national/acts/code-penal/art-230.md
+python3 tools/law.py show 2026-01-01 gabon/national/acts/codes/code-penal/art-230.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone lance aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,7 +65,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi 005/2021`). L
 
 ## Ce qu’il ne montre pas
 
-- **La Constitution en vigueur.** Le Gabon a adopté une nouvelle Constitution par référendum le 16 novembre 2024, promulguée le 19 décembre 2024. Le site du Journal Officiel n’en publie pas le texte ; la Constitution présentée ici est donc le texte de 1991 qu’elle a remplacé.
+- **L’entrée en vigueur des textes du Journal officiel.** Chaque texte du Journal officiel est daté du jour de sa publication (trailer `Published:`, `Date-basis: JO publication`), la source n’indiquant pas d’autre date ; ils ne sont pas consolidés. La Constitution de 2024 est datée du 19 décembre 2024, jour de sa promulgation et de sa publication ; son article 173 la fait entrer en vigueur après l’élection présidentielle.
 - **Les rédactions antérieures.** La première version de la Constitution intègre déjà ses modifications de 1994 à 2021, et celle du Code civil les lois de 2010 et de 2017 ; il n’existe aucun historique antérieur à celles-ci.
 - **Un texte officiel de 2021.** Le site ne publie aucun texte consolidé postérieur aux lois de 2021 : les versions de 2021 appliquent au texte antérieur les modifications de chaque loi (voir `REPRODUCE.md`). La loi n°004/2021 modifie également les articles 699 et 700, situés dans la seconde partie du Code civil, qui ne sont pas appliqués ; les modifications ultérieures, s’il en existe, ne figurent pas ici.
 - **La majeure partie du droit gabonais.** La seconde partie du Code civil, le Code de commerce, le Code de procédure pénale et les autres codes ne figurent pas ici : le site ne les présente que sous forme d’images, ou pas du tout. Le droit commercial relève en grande partie des Actes uniformes de l’OHADA.
@@ -75,7 +75,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi 005/2021`). L
 
 | Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal Officiel de la République Gabonaise](https://journal-officiel.ga) | Journal officiel : la Constitution, les codes et les lois | non, un seul texte consolidé par acte | Les pages de la Constitution, du Code pénal et du Code civil, et les lois n°006/2020, n°005/2021 et n°004/2021, consultées les 29 et 30 octobre 2026 |
+| [Journal Officiel de la République Gabonaise](https://journal-officiel.ga) | Journal officiel : la Constitution, les codes et les lois | non, un seul texte consolidé par acte | Les pages de la Constitution, du Code pénal et du Code civil, et les lois n°006/2020, n°005/2021 et n°004/2021, consultées les 29 et 30 octobre 2026 ; la Constitution de 2024 et chaque numéro du Journal officiel (texte HTML de l’éditeur, sans OCR), consultés à partir du 26 novembre 2026 |
 
 ## Licence
 

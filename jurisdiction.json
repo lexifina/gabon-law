@@ -4,7 +4,7 @@
   "name": "Gabon",
   "level": "country",
   "repo": "https://github.com/lexifina/gabon-law",
-  "build": "built: Constitution 1991 as consolidated to 2021 (not the 2024 Constitution), Code pénal 2020 and 2021, Code civil première partie 2017 and 2021",
+  "build": "built: Constitution 2024 (1991 in history), Code pénal and Code civil 1re partie to 2021, Journal officiel texts from 1960 (in progress)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28",
   "sources": 1

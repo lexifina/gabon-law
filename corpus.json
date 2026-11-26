@@ -1,0 +1,28 @@
+{
+  "corpus": "ga/national/acts",
+  "name": "Gabonese law: the Constitution, the codes and the texts of the Journal officiel de la République gabonaise",
+  "label": "Gabon",
+  "language": "fr",
+  "history_from": "1960-01-01",
+  "history_note": "Journal officiel texts are added as published, not consolidated; the Code pénal and Code civil (1re partie) are consolidated to 2021; the Constitution of 2024 replaced that of 1991",
+  "built": "2026-11-26",
+  "dates": {
+    "commit": "publication",
+    "other_trailers": [
+      "Law",
+      "Kind",
+      "Enacted",
+      "Published",
+      "Date-basis",
+      "Source"
+    ],
+    "time": "12:00 Africa/Libreville (UTC+1)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the text published (e.g. \"Décret 0463/PR/MAEDR\"); for the codes, the amending law",
+  "layout": "STRUCTURE.md",
+  "sources": [
+    "https://www.journal-officiel.ga"
+  ]
+}

@@ -1,5 +1,17 @@
 # How this repository was made (Gabon)
 
+## Journal officiel texts and the 2024 Constitution (from 2026-11-26)
+
+`scripts/gabon-law/runner/ga_run.py` lists every issue of the Journal officiel through the site's own table
+(`POST /ajax/newspaper.twg`, 100 rows a page), reads each issue page (`/<id>-journal-officiel-n<no>/`) for its texts,
+and each text page (`/<id>-<number>/`) for the publisher's HTML text. No OCR; one request at a time about a second
+apart; 429/503 back off, 403 or a challenge stops the run. Issues are taken oldest first; each text becomes one commit
+dated noon Africa/Libreville on the issue's date (`Date-basis: JO publication`). `ga_priority.py` made the pure-rename
+commit (`code-penal/`, `code-civil/` to `codes/`) and the 2024 Constitution commit (text page 21489, JO n°47 bis).
+Layout: [STRUCTURE.md](STRUCTURE.md).
+
+## The 2026-10-30 build
+
 This file is written by the build on 2026-10-30, the day the source data was retrieved.
 
 ## Sources
